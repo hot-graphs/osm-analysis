@@ -1,0 +1,1362 @@
+Adresa;Adresa interní;Městská část;GPS lat;GPS lon;vyska;Typ zdroje;Systém;Popis
+Absolonova 26a;PKK1 Absolonov.26a;Komín;49.2199439;16.5572753;214.6;PK;K1AbsKOT;Kotle K1 Absolonova
+Absolonova 26a;PKK1 Absolonov.26a;Komín;49.2199439;16.5572753;214.6;PK;K1AbsSTR;Topení K1 Absolonova
+Absolonova 26a;PKK1 Absolonov.26a;Komín;49.2199439;16.5572753;214.6;PK;K1AbsMT;Měření K1 Absolonova
+Absolonova 26a;PKK1 Absolonov.26a;Komín;49.2199439;16.5572753;214.6;PK;K1AbsPS1;14-16,18-20,22-24,26-28
+Absolonova 26a;PKK1 Absolonov.26a;Komín;49.2199439;16.5572753;214.6;PK;AbsPS1MT;14-16,18-20,22-24,26-28
+Absolonova 93a;PKK4 Absolonov.93a;Komín;49.2214239;16.5559986;221.2;PK;K4AbsKOT;Kotle K4 Absolonova
+Absolonova 93a;PKK4 Absolonov.93a;Komín;49.2214239;16.5559986;221.2;PK;K4AbsSTR;Stroj. K4 Absolonova
+Absolonova 93a;PKK4 Absolonov.93a;Komín;49.2214239;16.5559986;221.2;PK;K4AbsMT;Měření K4 Absolonova
+Absolonova 93a;PKK4 Absolonov.93a;Komín;49.2214239;16.5559986;221.2;PK;K4AbsPS1;PDS Absol. 30,73,75,79
+Absolonova 93a;PKK4 Absolonov.93a;Komín;49.2214239;16.5559986;221.2;PK;K4AbsPS2;PDS Absol. 81,85,89,93
+Absolonova 93a;PKK4 Absolonov.93a;Komín;49.2214239;16.5559986;221.2;PK;Ab4PS1MT;Měření Abs. 30,73,75,79
+Absolonova 93a;PKK4 Absolonov.93a;Komín;49.2214239;16.5559986;221.2;PK;Ab4PS2MT;Měření Abs. 81,85,89,93
+Arbesova 12;HO3 Arbesova;Lesná;49.2251953;16.6276150;275.8;HV;HO3ArSTR;Stroj. HO3 Arbesova
+Arbesova 12;HO3 Arbesova;Lesná;49.2251953;16.6276150;275.8;HV;HO3ArMT;Měření HO3 Arbesova
+Axmanova 12a;PK K5/2 Axmanova;Kohoutovice;49.1888675;16.5362408;386.2;PK;K5AxmKOT;Kotle K5/2 Axmanova
+Axmanova 12a;PK K5/2 Axmanova;Kohoutovice;49.1888675;16.5362408;386.2;PK;K5AxmSTR;Strojovna K5/2 Axmanova
+Axmanova 12a;PK K5/2 Axmanova;Kohoutovice;49.1888675;16.5362408;386.2;PK;K5AxmMT;Měření K5/2 Axmanova
+Axmanova 12a;PK K5/2 Axmanova;Kohoutovice;49.1888675;16.5362408;386.2;PK;PDSAxm13;PDS Axmanova 13
+Axmanova 12a;PK K5/2 Axmanova;Kohoutovice;49.1888675;16.5362408;386.2;PK;PDSAxm15;PDS Axmanova 15
+Axmanova 12a;PK K5/2 Axmanova;Kohoutovice;49.1888675;16.5362408;386.2;PK;PDSJir_9;PDS Jírovcova 9
+Axmanova 12a;PK K5/2 Axmanova;Kohoutovice;49.1888675;16.5362408;386.2;PK;PDSJir13;PDS Jírovcova 13
+Axmanova 12a;PK K5/2 Axmanova;Kohoutovice;49.1888675;16.5362408;386.2;PK;PDSJir15;PDS Jírovcova 15
+Axmanova 12a;PK K5/2 Axmanova;Kohoutovice;49.1888675;16.5362408;386.2;PK;PDSJir17;PDS Jírovcova 17
+Axmanova 12a;PK K5/2 Axmanova;Kohoutovice;49.1888675;16.5362408;386.2;PK;PDSJir19;PDS Jírovcova 19
+Axmanova 12a;PK K5/2 Axmanova;Kohoutovice;49.1888675;16.5362408;386.2;PK;AxmPS1MT;Měření Axmanova 3-15
+Axmanova 12a;PK K5/2 Axmanova;Kohoutovice;49.1888675;16.5362408;386.2;PK;AxmPS2MT;Měření Jírovcova 13-19
+Axmanova 12a;PK K5/2 Axmanova;Kohoutovice;49.1888675;16.5362408;386.2;PK;AxmPS3MT;Měření Jírovcova 3-11
+Bakalovo nábřeží 1,2;VS Bakal.náb. 1-2;Štýřice;49.1839836;16.6009253;201.6;HV;VSBn1STR;Strojovna Bakal.náb. 1-2
+Bakalovo nábřeží 1,2;VS Bakal.náb. 1-2;Štýřice;49.1839836;16.6009253;201.6;HV;VSBn1MT;Měření Bakal.náb. 1-2
+Bakalovo nábřeží 3-7;VS Bakal.náb. 3-7;Štýřice;49.1842136;16.6004047;201.0;HV;VSBn3STR;Strojovna Bakal.náb. 3-7
+Bakalovo nábřeží 3-7;VS Bakal.náb. 3-7;Štýřice;49.1842136;16.6004047;201.0;HV;VSBn3MT;Měření Bakal.náb. 3-7
+Bednaříkova 13;VS7 Bednaříkova;Líšeň;49.2121864;16.6830994;344.5;HV;VS7ToKOT;Kotle VS7 Bednaříkova
+Bellova 38a;PK K4 Bellova;Kohoutovice;49.1944017;16.5282256;403.7;PK;K4BelKOT;Kotle K4 Bellova
+Bellova 38a;PK K4 Bellova;Kohoutovice;49.1944017;16.5282256;403.7;PK;K4BelSTR;Strojovna K4 Bellova
+Bellova 38a;PK K4 Bellova;Kohoutovice;49.1944017;16.5282256;403.7;PK;K4BelMT;Měření K4 Bellova
+Bellova 38a;PK K4 Bellova;Kohoutovice;49.1944017;16.5282256;403.7;PK;K4BelPS1;PDS Bellova 18
+Bellova 38a;PK K4 Bellova;Kohoutovice;49.1944017;16.5282256;403.7;PK;K4BelPS2;PDS Bellova 24
+Bellova 38a;PK K4 Bellova;Kohoutovice;49.1944017;16.5282256;403.7;PK;K4BelPS3;PDS Bellova 28/30
+Bellova 38a;PK K4 Bellova;Kohoutovice;49.1944017;16.5282256;403.7;PK;K4BelPS4;PDS Chopinova 6
+Bellova 38a;PK K4 Bellova;Kohoutovice;49.1944017;16.5282256;403.7;PK;K4BelPS5;PDS Lib.třída 8
+Bellova 38a;PK K4 Bellova;Kohoutovice;49.1944017;16.5282256;403.7;PK;K4BelMT1;Měření Bellova 5-48
+Bellova 38a;PK K4 Bellova;Kohoutovice;49.1944017;16.5282256;403.7;PK;K4BelMT2;Měření Chopinova 1-5
+Bellova 38a;PK K4 Bellova;Kohoutovice;49.1944017;16.5282256;403.7;PK;K4BelMT3;Měř. Chopi.6-13,Lib.tř 8
+Bieblova 38;VSHO15 Bieblov.38;Černá Pole;49.2162605;16.6160974;249.0;HV;HO15BKOT;VS HO15 Bieblova vým.
+Bieblova 38;VSHO15 Bieblov.38;Černá Pole;49.2162605;16.6160974;249.0;HV;HO15BMT;VS HO15 Bieblova Měření
+Bieblova 38;VSHO15 Bieblov.38;Černá Pole;49.2162605;16.6160974;249.0;HV;PdBie_12;PDS Biebl.sude 2-14
+Bieblova 38;VSHO15 Bieblov.38;Černá Pole;49.2162605;16.6160974;249.0;HV;PdBie_18;PDS Bieblova 18
+Bieblova 38;VSHO15 Bieblov.38;Černá Pole;49.2162605;16.6160974;249.0;HV;PdBie_20;PDS Bieblova 20
+Bieblova 38;VSHO15 Bieblov.38;Černá Pole;49.2162605;16.6160974;249.0;HV;PdBie_22;PDS Bieblova 22
+Bieblova 38;VSHO15 Bieblov.38;Černá Pole;49.2162605;16.6160974;249.0;HV;PdBie_34;PDS Biebl.sude 24-38
+Bieblova 38;VSHO15 Bieblov.38;Černá Pole;49.2162605;16.6160974;249.0;HV;PdSNP_15;PDS nam.SNP 12-17
+Bieblova 38;VSHO15 Bieblov.38;Černá Pole;49.2162605;16.6160974;249.0;HV;BiPS1MT;Měření Bieblova 2-36
+Bieblova 38;VSHO15 Bieblov.38;Černá Pole;49.2162605;16.6160974;249.0;HV;BiPS2MT;Měření SNP 12-17
+Biskupská 8;VS Biskupská 8;Střed;49.1917028;16.6064561;238.1;HV;Bisk8STR;Stroj. Biskupská 8
+Blatnická 8a;VSV011 Blatnick.8a;Vinohrady;49.2072581;16.6612214;297.2;HV;V11BlKOT;Kotle V011 Blatnická
+Blatnická 8a;VSV011 Blatnick.8a;Vinohrady;49.2072581;16.6612214;297.2;HV;V11BlSTR;Stroj. V011 Blatnická
+Blatnická 8a;VSV011 Blatnick.8a;Vinohrady;49.2072581;16.6612214;297.2;HV;V11BlMT;Měření V011 Blatnická
+Brechtova 7;HO6 Brechtova 7;Lesná;49.2314428;16.6281086;308.7;HV;HO6BrKOT;Kotle HO6 Brechtova
+Brechtova 7;HO6 Brechtova 7;Lesná;49.2314428;16.6281086;308.7;HV;HO6BrSTR;Stroj. HO6 Brechtova
+Brožíkova 1;HO12 Brožíkova 1;Lesná;49.2278019;16.6203258;277.3;HV;HO12BSTR;Stroj. HO12 Brožíkova 1
+Březová 68a;PK G1 Březová 68a;Jundrov;49.2124525;16.5473306;238.5;PK;G1BreKOT;Kotle G1 Březová
+Březová 68a;PK G1 Březová 68a;Jundrov;49.2124525;16.5473306;238.5;PK;G1BreSTR;Strojovna  G1 Březová
+Bystřinova 10;VS Bystřinova 10;Královo Pole;49.2299975;16.5864678;250.9;HV;VBy10STR;Strojovna Bystřinova 10
+Bystřinova 10;VS Bystřinova 10;Královo Pole;49.2299975;16.5864678;250.9;HV;VsBy10MT;Měření Bystřinova 10
+Boettingrova 5;VS Boettingerov.5;Juliánov;49.1922956;16.6534875;236.4;HV;VSBoeKOT;Ohř. VS5 Boettingerova
+Boettingrova 5;VS Boettingerov.5;Juliánov;49.1922956;16.6534875;236.4;HV;VSBoeStr;Ohř. VS5 Boettingerova
+Boettingrova 5;VS Boettingerov.5;Juliánov;49.1922956;16.6534875;236.4;HV;VSBoeMT;Měř. VS5 Boettingerova
+Boettingrova 5;VS Boettingerov.5;Juliánov;49.1922956;16.6534875;236.4;HV;PdsBoe05;PDS Boettingerova 5
+Bochořákova 1;VS Bochořákova 11;Žabovřesky;49.2212475;16.5701958;260.3;HV;VsB11STR;Strojovna Bochořákova 11
+Bochořákova 1;VS Bochořákova 11;Žabovřesky;49.2212475;16.5701958;260.3;HV;VsB11MT;Měření Bochořákova 11
+Bochořákova 3;VS Bochořákova 3;Žabovřesky;49.2204417;16.5702033;254.4;HV;VsBo3STR;Strojovna Bochořákova 3
+Bochořákova 3;VS Bochořákova 3;Žabovřesky;49.2204417;16.5702033;254.4;HV;VsBo3MT;Měření Bochořákova 3
+Bochořákova 5;VS Bochořákova 5;Žabovřesky;49.2206386;16.5703761;254.7;HV;VsBo5STR;Strojovna Bochořákova 5
+Bochořákova 5;VS Bochořákova 5;Žabovřesky;49.2206386;16.5703761;254.7;HV;VsBo5MT;Měření Bochořákova 5
+Bochořákova 7;VS Bochořákova 7;Žabovřesky;49.2208425;16.5702036;257.1;HV;VsBo7STR;Strojovna Bochořákova 7
+Bochořákova 7;VS Bochořákova 7;Žabovřesky;49.2208425;16.5702036;257.1;HV;VsBo7MT;Měření Bochořákova 7
+Bochořákova 9;VS Bochořákova 9;Žabovřesky;49.2210464;16.5703722;257.8;HV;VsBo9STR;Strojovna Bochořákova 9
+Bochořákova 9;VS Bochořákova 9;Žabovřesky;49.2210464;16.5703722;257.8;HV;VsBo9MT;Měření Bochořákova 9
+Bořetická 15a;VSV04 Bořetick.15a;Vinohrady;49.2015689;16.6625678;281.6;HV;V04BoKOT;Kotle V04 Bořetická
+Bořetická 15a;VSV04 Bořetick.15a;Vinohrady;49.2015689;16.6625678;281.6;HV;V04BoSTR;Stroj. V04 Bořetická
+Bořetická 15a;VSV04 Bořetick.15a;Vinohrady;49.2015689;16.6625678;281.6;HV;V04BoMT;Měření V04 Bořetická
+Bořetická 1a;VSV06 Bořetická 1a;Vinohrady;49.2045611;16.6598344;294.2;HV;V06BoKOT;Kotle V06 Bořetická
+Bořetická 1a;VSV06 Bořetická 1a;Vinohrady;49.2045611;16.6598344;294.2;HV;V06BoSTR;Stroj. V06 Bořetická
+Bořetická 1a;VSV06 Bořetická 1a;Vinohrady;49.2045611;16.6598344;294.2;HV;V06BoMT;Měření V06 Bořetická
+Boskovická 1;PKKR14 Boskovick.1;Řečkovice;49.2394439;16.5816639;248.8;PK;K14BoKOT;Kotle KR14 Boskovická
+Boskovická 1;PKKR14 Boskovick.1;Řečkovice;49.2394439;16.5816639;248.8;PK;K14BoSTR;Strojov. KR14 Boskovická
+Boskovická 1;PKKR14 Boskovick.1;Řečkovice;49.2394439;16.5816639;248.8;PK;K14BoMT;Měření KR14 Boskovická
+Boskovická 1;PKKR14 Boskovick.1;Řečkovice;49.2394439;16.5816639;248.8;PK;K14BoPS1;PDS Žitná 1,3
+Boskovická 1;PKKR14 Boskovick.1;Řečkovice;49.2394439;16.5816639;248.8;PK;BoPS1MT;Měření PDS Žitná 1,3
+Boskovická 8a;PKKR3 Boskovick.8a;Řečkovice;49.2408992;16.5870800;246.8;PK;K3BosKOT;Kotle KR3 Boskovická
+Boskovická 8a;PKKR3 Boskovick.8a;Řečkovice;49.2408992;16.5870800;246.8;PK;K3BosSTR;Strojovna KR3 Boskovická
+Boskovická 8a;PKKR3 Boskovick.8a;Řečkovice;49.2408992;16.5870800;246.8;PK;K3BosPS1;PDS Novoměstská 23-41
+Boskovická 8a;PKKR3 Boskovick.8a;Řečkovice;49.2408992;16.5870800;246.8;PK;K3BosPS2;PDS Boskovická 2-16
+Boskovická 8a;PKKR3 Boskovick.8a;Řečkovice;49.2408992;16.5870800;246.8;PK;K3BosPS3;PDS Boskovická 3-17
+Boskovická 8a;PKKR3 Boskovick.8a;Řečkovice;49.2408992;16.5870800;246.8;PK;K3BosPS4;PDS Kunštátská 23-31
+Boskovická 8a;PKKR3 Boskovick.8a;Řečkovice;49.2408992;16.5870800;246.8;PK;K3BosMT;Měření KR3 Boskovická
+Boskovická 8a;PKKR3 Boskovick.8a;Řečkovice;49.2408992;16.5870800;246.8;PK;BosPS1MT;Měření Novoměstská 23-41
+Boskovická 8a;PKKR3 Boskovick.8a;Řečkovice;49.2408992;16.5870800;246.8;PK;BosPS2MT;Měření Boskovická 2-16
+Boskovická 8a;PKKR3 Boskovick.8a;Řečkovice;49.2408992;16.5870800;246.8;PK;BosPS3MT;Měření Boskovická 3-17
+Boskovická 8a;PKKR3 Boskovick.8a;Řečkovice;49.2408992;16.5870800;246.8;PK;BosPS4MT;Měření Kunštátská 23-31
+Bosonožská 7a;PK K18 Bosonožská;Lískovec;49.1662289;16.5561333;229.7;PK;K18BoKOT;Kotelna K18 Bosonožská
+Bosonožská 7a;PK K18 Bosonožská;Lískovec;49.1662289;16.5561333;229.7;PK;K18BoSTR;Stroj. K18 Bosonožská
+Bosonožská 7a;PK K18 Bosonožská;Lískovec;49.1662289;16.5561333;229.7;PK;K18BoMT;Měření K18 Bosonožská
+Botanická 29;VS Botanická 29;Veveří;49.2072983;16.5993758;230.3;HV;VSB29STR;Výměník VS Botanická 29
+Botanická 31;VS Botanická 31;Veveří;49.2074308;16.5992814;230.7;HV;VSB31STR;Výměník VS Botanická 31
+Botanická 43;VS Botanická 43;Veveří;49.2086044;16.5985422;231.3;HV;VSB43STR;Výměník VS Botanická 43
+Botanická 52;VS Botanická 52;Veveří;49.2077531;16.5997611;229.1;HV;VSB52STR;Výměník VS Botanická 52
+Botanická 54;VS Botanická 54;Veveří;49.2078953;16.5996964;228.9;HV;VSB54STR;Výměník VS Botanická 54
+Botanická 59;VS Botanická 59;Veveří;49.2111831;16.5968764;232.7;HV;VSB59STR;Výměník VS Botanická 59
+Botanická 66;VS Botanická 66,68;Veveří;49.2090011;16.5990300;229.9;HV;VSB66STR;Výměník VS Botanická 66
+Botanická 70;Měření Ponava;Veveří;49.2107761;16.5984844;229.3;HV;MT1Pon32;MT Botan.,Kounic.,Závod.
+Botanická 70;Měření Ponava;Veveří;49.2107761;16.5984844;229.3;HV;MT2Pon32;MT Lidická,Zahradníkova.
+Botanická 70;Měření Ponava;Veveří;49.2107761;16.5984844;229.3;HV;MT3Pon32;MT Cihlářská, Burešova
+Božetěchova 85a;VSHB4 Božetěchova;Královo Pole;49.2307056;16.5929081;231.0;HV;HB4BoKOT;Kotle HB4 Božetěchova
+Božetěchova 85a;VSHB4 Božetěchova;Královo Pole;49.2307056;16.5929081;231.0;HV;HB4BoStr;Stroj. HB4 Božetěchova
+Božetěchova 85a;VSHB4 Božetěchova;Královo Pole;49.2307056;16.5929081;231.0;HV;HB4BoMT;Měř. HB4 Božetěchova
+Bystřinova 12;VS Bystřinova 12;Královo Pole;49.2299456;16.5862850;251.6;HV;VBy12STR;Strojovna Bystřinova 12
+Bystřinova 12;VS Bystřinova 12;Královo Pole;49.2299456;16.5862850;251.6;HV;VsBy12MT;Měření Bystřinova 12
+Bzenecká 18a;VSV08 Bzenecká 18a;Vinohrady;49.2045769;16.6570997;296.2;HV;V08BzKOT;Kotle V08 Bzenecká
+Bzenecká 18a;VSV08 Bzenecká 18a;Vinohrady;49.2045769;16.6570997;296.2;HV;V08BzSTR;Stroj. V08 Bzenecká
+Bzenecká 18a;VSV08 Bzenecká 18a;Vinohrady;49.2045769;16.6570997;296.2;HV;V08BzMT;Měření V08 Bzenecká
+Bzenecká 4a;VSV010 Bzenecká 4a;Vinohrady;49.2099422;16.6598794;300.8;HV;V10BzKOT;Kotle V010 Bzenecká
+Bzenecká 4a;VSV010 Bzenecká 4a;Vinohrady;49.2099422;16.6598794;300.8;HV;V10BzSTR;Stroj. V010 Bzenecká
+Bzenecká 4a;VSV010 Bzenecká 4a;Vinohrady;49.2099422;16.6598794;300.8;HV;V10BzMT;Měření V010 Bzenecká
+Cihlářská 15a;VS Cihlářská 15a;Veveří;49.2038422;16.6047503;219.7;HV;VSC15STR;Výměník VS Cihlářská 15a
+Cihlářská 30;VS Cihlářská 30;Veveří;49.2045914;16.6039297;221.8;HV;VSC30STR;Výměník VS Cihlářská 30
+Cihlářská 38;VS Cihlářská 38;Veveří;49.2049622;16.6037006;220.8;HV;VSC38STR;Výměník VS Cihlářská 38
+Čejkovická 8;VSV03 Čejkovická 8;Vinohrady;49.2045514;16.6625836;288.1;HV;V03CeKOT;Kotle V03 Čejkovická
+Čejkovická 8;VSV03 Čejkovická 8;Vinohrady;49.2045514;16.6625836;288.1;HV;V03CeSTR;Stroj. V03 Čejkovická
+Čejkovická 8;VSV03 Čejkovická 8;Vinohrady;49.2045514;16.6625836;288.1;HV;V03CeMT;Měření V03 Čejkovická
+Čeňka Růžičky 7;PK K21 Čeň.Růžičky;Bohunice;49.1679092;16.5756153;242.1;PK;K21RuKOT;Kotle K21 Čeňka Růičky
+Čeňka Růžičky 7;PK K21 Čeň.Růžičky;Bohunice;49.1679092;16.5756153;242.1;PK;K21RuSTR;Strojovna K21 Č.Růžičky
+Čeňka Růžičky 7;PK K21 Čeň.Růžičky;Bohunice;49.1679092;16.5756153;242.1;PK;K21RuPS1;PDS Č.Růžičky 6-18
+Čeňka Růžičky 7;PK K21 Čeň.Růžičky;Bohunice;49.1679092;16.5756153;242.1;PK;RuPS1MT;Měření Č.Růžičky 6-18
+Černého 47;PK8 Černého 47;Bystrc;49.2137164;16.5231658;259.0;PK;K8CerKOT;Kotle PK8 Černého
+Černého 47;PK8 Černého 47;Bystrc;49.2137164;16.5231658;259.0;PK;K8CerSTR;Strojovna PK8 Černého
+Černého 47;PK8 Černého 47;Bystrc;49.2137164;16.5231658;259.0;PK;K8Cer_MT;Měření PK8 Černého
+Černého 5a;PK7 Černého 5a;Bystrc;49.2169517;16.5261858;246.2;PK;K7CerKOT;Kotle PK7 Černého
+Černého 5a;PK7 Černého 5a;Bystrc;49.2169517;16.5261858;246.2;PK;K7CerSTR;Strojovna PK7 Černého
+Černého 5a;PK7 Černého 5a;Bystrc;49.2169517;16.5261858;246.2;PK;K7Cer_MT;Měření PK7 Černého
+Dědická 1a;PK1 Dědická 1a;Slatina;49.1816906;16.6831911;264.7;PK;PK1DeKOT;PK1 Dědická kotle
+Dědická 1a;PK1 Dědická 1a;Slatina;49.1816906;16.6831911;264.7;PK;PK1DeSTR;PK1 Dědická strojovna
+Dědická 1a;PK1 Dědická 1a;Slatina;49.1816906;16.6831911;264.7;PK;PK1DePS1;PDS Dědická 1-6
+Dědická 1a;PK1 Dědická 1a;Slatina;49.1816906;16.6831911;264.7;PK;PK1DePS2;PDS Dědická 7-12
+Dědická 1a;PK1 Dědická 1a;Slatina;49.1816906;16.6831911;264.7;PK;PK1DePS3;PDS Dědická 13-18
+Dědická 1a;PK1 Dědická 1a;Slatina;49.1816906;16.6831911;264.7;PK;PK1DePS4;PDS Bučovická 1-6
+Dědická 1a;PK1 Dědická 1a;Slatina;49.1816906;16.6831911;264.7;PK;PK1DePS5;PDS Bučovická 7,9,11
+Dědická 1a;PK1 Dědická 1a;Slatina;49.1816906;16.6831911;264.7;PK;PK1DePS6;PDS Bučovická 13,15,17
+Dědická 1a;PK1 Dědická 1a;Slatina;49.1816906;16.6831911;264.7;PK;DePS1MT;Měř.Dědická 1-6
+Dědická 1a;PK1 Dědická 1a;Slatina;49.1816906;16.6831911;264.7;PK;DePS2MT;Měř.Dědická 7-12
+Dědická 1a;PK1 Dědická 1a;Slatina;49.1816906;16.6831911;264.7;PK;DePS3MT;Měř.Dědická 13-18
+Dědická 1a;PK1 Dědická 1a;Slatina;49.1816906;16.6831911;264.7;PK;DePS4MT;Měř.Bučovická 1-6
+Dědická 1a;PK1 Dědická 1a;Slatina;49.1816906;16.6831911;264.7;PK;DePS5MT;Měř.Bučovická 7,9,11
+Dědická 1a;PK1 Dědická 1a;Slatina;49.1816906;16.6831911;264.7;PK;DePS6MT;Měř.Bučovick
+Dědická 37;PK6 Dědická 37;Slatina;49.1796981;16.6892064;272.1;PK;PK6DeKOT;PK6 Dědická kotle
+Dědická 37;PK6 Dědická 37;Slatina;49.1796981;16.6892064;272.1;PK;PK6DeSTR;PK6 Dědická strojovna
+Došlíkova 31a;VS HO Došlíkova;Juliánov;49.1953986;16.6544756;236.1;HV;VSDosStr;Stroj.VS HO Došlíkova
+Došlíkova 31a;VS HO Došlíkova;Juliánov;49.1953986;16.6544756;236.1;HV;VSDosMT;Měření HO Došlíkova
+Došlíkova 31a;VS HO Došlíkova;Juliánov;49.1953986;16.6544756;236.1;HV;HODosPS1;PDS Doš. 31,33,39,42
+Došlíkova 31a;VS HO Došlíkova;Juliánov;49.1953986;16.6544756;236.1;HV;HODosPS2;PDS Doš. 44,45,46,48
+Došlíkova 31a;VS HO Došlíkova;Juliánov;49.1953986;16.6544756;236.1;HV;HODosPS3;PDS Slat.1,31 Líš.40
+Došlíkova 31a;VS HO Došlíkova;Juliánov;49.1953986;16.6544756;236.1;HV;DosPS1MT;Měření Doš. 31,33,39,42
+Došlíkova 31a;VS HO Došlíkova;Juliánov;49.1953986;16.6544756;236.1;HV;DosPS2MT;Měření Doš. 44,45,46,48
+Došlíkova 31a;VS HO Došlíkova;Juliánov;49.1953986;16.6544756;236.1;HV;DosPS3MT;Měření Slat.1,31 Líš.40
+Drobného 38/40;Drobného 38/40;Černá Pole;49.2143203;16.6239561;243.3;HV;VSDelSTR;Drobného 38/40 nem.DELTA
+Dřevařská 33;VS Dřevařská 31;Ponava;49.2085994;16.6002669;226.3;HV;VSD31STR;Výměník VS Dřevařská 31
+Dubová 17;PK E5 Dubov  17;Jundrov;49.2130325;16.5501508;230.3;PK;E5DubKOT;Kotelna E5 Dubova 17
+Dubová 1a;PK E3 Dubová 1a;Jundrov;49.2117183;16.5487519;230.5;PK;E3DubKOT;Kotle E3 Dubová
+Dubová 1a;PK E3 Dubová 1a;Jundrov;49.2117183;16.5487519;230.5;PK;E3DubSTR;Strojovna  E3 Dubová
+Dubová 23a;PK E4 Dubová 23a;Jundrov;49.2137381;16.5503375;229.9;PK;E4DubKOT;Kotle E4 Dubová
+Dubová 23a;PK E4 Dubová 23a;Jundrov;49.2137381;16.5503375;229.9;PK;E4DubSTR;Strojovna  E4 Dubová
+Dunajská 10;PK K2 Dunajská;Lískovec;49.1698589;16.5582431;248.5;PK;K2DunKOT;Kotelna K2 Dunajská
+Dunajská 10;PK K2 Dunajská;Lískovec;49.1698589;16.5582431;248.5;PK;K2DunSTR;Strojovna K2 Dunajská
+Dunajská 1a;PK K4 Dunajská 1a;Lískovec;49.1687014;16.5639972;259.7;PK;K4VltKOT;Kotelna K4 Dunjaská
+Dunajská 1a;PK K4 Dunajská 1a;Lískovec;49.1687014;16.5639972;259.7;PK;K4VltSTR;Strojovna K4 Dunajská
+Dunajská 47;PK K1 Dunajská;Lískovec;49.1701331;16.5555864;242.7;PK;K1DunKOT;Kotelna K1 Dunajská
+Dunajská 47;PK K1 Dunajská;Lískovec;49.1701331;16.5555864;242.7;PK;K1DunSTR;Strojovna K1 Dunajská
+Elišky Krásnohorské 15;VS El.Krásnoho.Mš;Černovice;49.1864264;16.6314536;200.0;PV;VSEMsSTR;VS MŠ El.Krásnohorské
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;VSEKrTOP;VS Elišky Krásnohorské
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;VSEKrMT;Měření E.Krásnohorské
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;PdsEKr24;Pds El. Krásnohorské 24b
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;PdsEKr28;Pds El. Krásnohorské 28b
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;PdsEKr30;Pds El. Krásnohorské 30b
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;PdsPre_3;Pds Přední 3b
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;PdsPre_5;Pds Přední 5b
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;PdsPre_7;Pds Přední 7
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;PdsBla_3;Pds Blatouchova 3b
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;PdsBla_5;Pds Blatouchova 5b
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;PdsBla_7;Pds Blatouchova 7
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;PdsKov_3;Pds Kovácká 3b
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;PdsKov_5;Pds Kovácká 5b
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;PdsKov_7;Pds Ková
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;PdsKov_9;
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;PdsReh48;
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;PdsArchi;
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;EKr24MT;
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;EKr28MT;
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;EKr30MT;
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;Pre_3MT;
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;Pre_5MT;
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;Pre_7MT;
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;Bla_3MT;
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;Bla_5MT;
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;Bla_7MT;
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;Kov_3MT;
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;Kov_5MT;
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;Kov_7MT;
+Elišky Krásnohorské 22;VS El.Krásnoho.22;Černovice;49.1864264;16.6314536;200.0;PV;Kov_9MT;
+Elplova 38;VS4 Elplova 38;Líšeň;49.2095311;16.6775403;325.5;HV;VS4ElKOT;Kotle VS4 Elpova
+Elplova 38;VS4 Elplova 38;Líšeň;49.2095311;16.6775403;325.5;HV;VS4ElSTR;Stroj. VS4 Elpova
+Elplova 38;VS4 Elplova 38;Líšeň;49.2095311;16.6775403;325.5;HV;VS4ElMT;Měření VS4 Elpova
+Elplova 38;VS4 Elplova 38;Líšeň;49.2095311;16.6775403;325.5;HV;VS4ElPS1;PDS Elpova 32,34,36
+Elplova 38;VS4 Elplova 38;Líšeň;49.2095311;16.6775403;325.5;HV;VS4ElPS2;PDS Poláčkova 1-11,2-12
+Elplova 38;VS4 Elplova 38;Líšeň;49.2095311;16.6775403;325.5;HV;VS4ElPS3;PDS Poláčkova 13MŠ
+Elplova 38;VS4 Elplova 38;Líšeň;49.2095311;16.6775403;325.5;HV;ElpPS1MT;Měř. Elpova 32,34,36
+Elplova 38;VS4 Elplova 38;Líšeň;49.2095311;16.6775403;325.5;HV;ElpPS2MT;Měř. Poláčkova 1-11,2-12
+Elplova 38;VS4 Elplova 38;Líšeň;49.2095311;16.6775403;325.5;HV;ElpPS3MT;Měř. Poláčkova 13MŠ
+Fillova 14;HO11 Fillova 14;Lesná;49.2283189;16.6214236;282.5;HV;HO11FKOT;Kotle HO11 Fillova
+Fillova 14;HO11 Fillova 14;Lesná;49.2283189;16.6214236;282.5;HV;HO11FSTR;Stroj. HO11 Fillova
+Fillova 14;HO11 Fillova 14;Lesná;49.2283189;16.6214236;282.5;HV;HO11FMT;Měř. HO11 Fillova
+Fillova 14;HO11 Fillova 14;Lesná;49.2283189;16.6214236;282.5;HV;HO11_MT;Měř. Fillova
+Fleischnerova 1b;PKKB5 Fleischne.1b;Bystrc;49.2179858;16.5112844;302.7;PK;K5FleKOT;Kotle KB5 Fleischnerova
+Fleischnerova 1b;PKKB5 Fleischne.1b;Bystrc;49.2179858;16.5112844;302.7;PK;K5FleSTR;Stroj. KB5 Fleischnerova
+Foerstrova 1;VS Foerstrova 17;Žabovřesky;49.2175222;16.5769981;235.2;HV;VFo17STR;Strojovna Foerstrova 17
+Foerstrova 1;VS Foerstrova 17;Žabovřesky;49.2175222;16.5769981;235.2;HV;VsFo17MT;Měření Foersterova 17
+Foerstrova 3;VS Foerstrova 3;Žabovřesky;49.2158522;16.5770186;228.5;HV;VsFo3STR;Strojovna Foerstrova 3
+Foerstrova 3;VS Foerstrova 3;Žabovřesky;49.2158522;16.5770186;228.5;HV;VsFo3MT;Měření Foersterova 3
+Foerstrova 4;VS Foerstrova 4;Žabovřesky;49.2166058;16.5778956;232.9;HV;VsFo4STR;Strojovna Foerstrova 4
+Foerstrova 4;VS Foerstrova 4;Žabovřesky;49.2166058;16.5778956;232.9;HV;VsFo4MT;Měření Foersterova 4
+Foerstrova 5;VS Foerstrova 5;Žabovřesky;49.2160528;16.5771881;229.6;HV;VsFo5STR;Strojovna Foerstrova 5
+Foerstrova 5;VS Foerstrova 5;Žabovřesky;49.2160528;16.5771881;229.6;HV;VsFo5MT;Měření Foersterova 5
+Foerstrova 6;VS Foerstrova 6;Žabovřesky;49.2168042;16.5777369;233.3;HV;VsFo6STR;Strojovna Foerstrova 6
+Foerstrova 6;VS Foerstrova 6;Žabovřesky;49.2168042;16.5777369;233.3;HV;VsFo6MT;Měření Foersterova 6
+Foerstrova 7;VS Foerstrova 7;Žabovřesky;49.2162447;16.5770200;229.5;HV;VsFo7STR;Strojovna Foerstrova 7
+Foerstrova 7;VS Foerstrova 7;Žabovřesky;49.2162447;16.5770200;229.5;HV;VsFo7MT;Měření Foersterova 7
+Foerstrova 8;VS Foerstrova 8;Žabovřesky;49.2171347;16.5777300;234.6;HV;VsFo8STR;Strojovna Foerstrova 8
+Foerstrova 8;VS Foerstrova 8;Žabovřesky;49.2171347;16.5777300;234.6;HV;VsFo8MT;Měření Foersterova 8
+Foerstrova 9;VS Foerstrova 9;Žabovřesky;49.2164447;16.5771931;230.3;HV;VsFo9STR;Strojovna Foerstrova 9
+Foerstrova 9;VS Foerstrova 9;Žabovřesky;49.2164447;16.5771931;230.3;HV;VsFo9MT;Měření Foersterova 9
+Fričova 1;VS Fričova 1;Žabovřesky;49.2203731;16.5777550;253.8;HV;VsFr1STR;Strojovna Fricova 1
+Fričova 1;VS Fričova 1;Žabovřesky;49.2203731;16.5777550;253.8;HV;VsFri1MT;Měření Fricova 1
+Fričova 2;VS Fričova 2;Žabovřesky;49.2201806;16.5775869;251.2;HV;VsFr2STR;Strojovna Fricova 2
+Fričova 2;VS Fričova 2;Žabovřesky;49.2201806;16.5775869;251.2;HV;VsFri2MT;Měření Fricova 2
+Fričova 3;VS Fričova 3;Žabovřesky;49.2201806;16.5775869;251.2;HV;VsFr3STR;Strojovna Fricova 3
+Fričova 3;VS Fričova 3;Žabovřesky;49.2201806;16.5775869;251.2;HV;VsFri3MT;Měření Fricova 3
+Fričova 4;VS Fričova 4;Žabovřesky;49.2199858;16.5767536;247.6;HV;VsFr4STR;Strojovna Fricova 4
+Fričova 4;VS Fričova 4;Žabovřesky;49.2199858;16.5767536;247.6;HV;VsFri4MT;Měření Fricova 4
+Fričova 5;VS Fričova 5;Žabovřesky;49.2199858;16.5774189;248.8;HV;VsFr5STR;Strojovna Fricova 5
+Fričova 5;VS Fričova 5;Žabovřesky;49.2199858;16.5774189;248.8;HV;VsFri5MT;Měření Fricova 5
+Fričova 6;VS Fričova 6;Žabovřesky;49.2197844;16.5769161;246.0;HV;VsFr6STR;Strojovna Fricova 6
+Fričova 6;VS Fričova 6;Žabovřesky;49.2197844;16.5769161;246.0;HV;VsFri6MT;Měření Fricova 6
+Fričova 7;VS Fričova 7;Žabovřesky;49.2197850;16.5775792;247.4;HV;VsFr7STR;Strojovna Fricova 7
+Fričova 7;VS Fričova 7;Žabovřesky;49.2197850;16.5775792;247.4;HV;VsFri7MT;Měření Fricova 7
+Fryčajova 145a;Pk Fryčajova;Obřany;49.2352164;16.6431689;243.2;PK;PkFryKOT;Pk Fryčajova kotle
+Fryčajova 145a;Pk Fryčajova;Obřany;49.2352164;16.6431689;243.2;PK;PkFrySTR;Pk Fryčajova Strojovna
+Fryčajova 145a;Pk Fryčajova;Obřany;49.2352164;16.6431689;243.2;PK;PkFryPS1;PDS Fryčajova 133-145
+Fryčajova 145a;Pk Fryčajova;Obřany;49.2352164;16.6431689;243.2;PK;PkFryPS2;PDS Fryčajova 149-157
+Fryčajova 145a;Pk Fryčajova;Obřany;49.2352164;16.6431689;243.2;PK;MTFryPS1;Sontex PDS Fryč. 133-145
+Fryčajova 145a;Pk Fryčajova;Obřany;49.2352164;16.6431689;243.2;PK;MTFryPS2;Sontex PDS Fryč. 149-157
+Gabriely Preissové 1;VS G.Preissové 1;Žabovřesky;49.2202494;16.5735172;247.7;HV;VsGP1STR;Strojovna G.Preissové 1
+Gabriely Preissové 1;VS G.Preissové 1;Žabovřesky;49.2202494;16.5735172;247.7;HV;VsGPr1MT;Měření G.Preissové 1
+Gabriely Preissové 2;VS G.Preissové 2;Žabovřesky;49.2196281;16.5733203;240.7;HV;VsGP2STR;Strojovna G.Preissové 2
+Gabriely Preissové 2;VS G.Preissové 2;Žabovřesky;49.2196281;16.5733203;240.7;HV;VsGPr2MT;Měření G.Preissové 2
+Gabriely Preissové 3;VS G.Preissové 3;Žabovřesky;49.2204486;16.5736836;250.6;HV;VsGP3STR;Strojovna G.Preissové 3
+Gabriely Preissové 3;VS G.Preissové 3;Žabovřesky;49.2204486;16.5736836;250.6;HV;VsGPr3MT;Měření G.Preissové 3
+Gabriely Preissové 4;VS G.Preissové 4;Žabovřesky;49.2197967;16.5738586;242.7;HV;VsGP4STR;Strojovna G.Preissové 4
+Gabriely Preissové 4;VS G.Preissové 4;Žabovřesky;49.2197967;16.5738586;242.7;HV;VsGPr4MT;Měření G.Preissové 4
+Gabriely Preissové 5;VS G.Preissové 5;Žabovřesky;49.2203347;16.5742747;248.5;HV;VsGP5STR;Strojovna G.Preissové 5
+Gabriely Preissové 5;VS G.Preissové 5;Žabovřesky;49.2203347;16.5742747;248.5;HV;VsGPr5MT;Měření G.Preissové 5
+Gabriely Preissové 6;VS G.Preissové 6;Žabovřesky;49.2200239;16.5746414;245.8;HV;VsGP6STR;Strojovna G.Preissové 6
+Gabriely Preissové 6;VS G.Preissové 6;Žabovřesky;49.2200239;16.5746414;245.8;HV;VsGPr6MT;Měření G.Preissové 6
+Gabriely Preissové 7;VS G.Preissové 7;Žabovřesky;49.2205353;16.5744383;250.5;HV;VsGP7STR;Strojovna G.Preissové 7
+Gabriely Preissové 7;VS G.Preissové 7;Žabovřesky;49.2205353;16.5744383;250.5;HV;VsGPr7MT;Měření G.Preissové 7
+Gabriely Preissové 8;VS G.Preissov.8 MŠ;Žabovřesky;49.2200356;16.5757606;245.9;HV;VsGP8STR;Strojov.G.Preissové 8 MŠ
+Gabriely Preissové 8;VS G.Preissov.8 MŠ;Žabovřesky;49.2200356;16.5757606;245.9;HV;VsGPr8MT;Měření G.Preissové 8 MŠ
+Galandauerova 1;VSHB3 Galandauero.;Královo Pole;49.2304461;16.5875567;247.7;HV;HB3GaKOT;Kotle HB3 Galandauerova
+Galandauerova 1;VSHB3 Galandauero.;Královo Pole;49.2304461;16.5875567;247.7;HV;HB3GaStr;Stroj.HB3 Galandauerova
+Galandauerova 1;VSHB3 Galandauero.;Královo Pole;49.2304461;16.5875567;247.7;HV;HB3GaMT;Měř. HB3 Galandauerova
+Galandauerova 3;VS  Galandauer. 3;Královo Pole;49.2306319;16.5866728;249.6;HV;VsGa3STR;Strojovna Galandauer. 3
+Galandauerova 3;VS  Galandauer. 3;Královo Pole;49.2306319;16.5866728;249.6;HV;VsGal3MT;Měření Galandauer. 3
+Habřinova 2a;PKK10 Habřinova 2a;Komín;49.2262167;16.5551842;254.0;PK;K10HaKOT;Kotle K10 Habřinova
+Habřinova 2a;PKK10 Habřinova 2a;Komín;49.2262167;16.5551842;254.0;PK;K10HaSTR;Strojovna K10 Habřinova
+Halasovo náměstí 4a;HO1 Halasovo nám.;Lesná;49.2283189;16.6214236;282.5;HV;HO1HaKOT;Kotle HO1 Halasovo nám.
+Halasovo náměstí 4a;HO1 Halasovo nám.;Lesná;49.2283189;16.6214236;282.5;HV;HO1HaSTR;Stroj. HO1 Halasovo nám.
+Halasovo náměstí 4a;HO1 Halasovo nám.;Lesná;49.2283189;16.6214236;282.5;HV;HO1HaMT;Měření HO1 Halasovo nám.
+Halasovo náměstí 4a;HO1 Halasovo nám.;Lesná;49.2283189;16.6214236;282.5;HV;HO1HaPS1;PDS HO1 Halas. n. 1-4,6
+Halasovo náměstí 4a;HO1 Halasovo nám.;Lesná;49.2283189;16.6214236;282.5;HV;HaPS1MT;Měření HO1 Halas.n.1-4,6
+Haškova 4;HO7 Haškova 4;Lesná;49.2330856;16.6278553;314.9;HV;HO7HaSTR;Stroj. HO7 Haškova 4
+Herčíkova 17;VSHB2 Herčíkova 17;Královo Pole;49.2307203;16.5848722;254.3;HV;HB2HeStr;Strojovna HB2 Herčíkova
+Herčíkova 17;VSHB2 Herčíkova 17;Královo Pole;49.2307203;16.5848722;254.3;HV;HB2HeMT;Měření HB2 Herčíkova
+Herčíkova 17;VSHB2 Herčíkova 17;Královo Pole;49.2307203;16.5848722;254.3;HV;PDSZSHer;PDS ZS Herčíkova
+Herčíkova 17;VSHB2 Herčíkova 17;Královo Pole;49.2307203;16.5848722;254.3;HV;ZSHerMT;Měření ZS Herčíkova
+Herčíkova 17;VSHB2 Herčíkova 17;Královo Pole;49.2307203;16.5848722;254.3;HV;HB2HePS1;PDS Herčíkova 25,21Mš
+Herčíkova 17;VSHB2 Herčíkova 17;Královo Pole;49.2307203;16.5848722;254.3;HV;HerPS1MT;Měření Herčíko.5-35,21Mš
+Herčíkova 3;VSHB1 Herčíkova 3;Královo Pole;49.2307561;16.5825344;259.6;HV;HB1HeStr;Strojovna HB1 Herčíkova
+Herčíkova 3;VSHB1 Herčíkova 3;Královo Pole;49.2307561;16.5825344;259.6;HV;HB1HeMT;Měření HB1 Herčíkova
+Herčíkova 3;VSHB1 Herčíkova 3;Královo Pole;49.2307561;16.5825344;259.6;HV;HB1HePS1;PDS Her.1,2,3,4,6
+Herčíkova 3;VSHB1 Herčíkova 3;Královo Pole;49.2307561;16.5825344;259.6;HV;HB1HePS2;PDS Her.8,12,14,16,18
+Herčíkova 3;VSHB1 Herčíkova 3;Královo Pole;49.2307561;16.5825344;259.6;HV;HePS1MT;Měření Her.1,2,3,4,6
+Herčíkova 3;VSHB1 Herčíkova 3;Královo Pole;49.2307561;16.5825344;259.6;HV;HePS2MT;Měření Her.8,12,14,16,18
+Heršpická 11c;VS H park;Štýřice;49.174080;16.603519;205.1;HV;VSHpASTR;Str. H park budova A
+Heršpická 11c;VS H park;Štýřice;49.174080;16.603519;205.1;HV;VSHpBSTR;Str. H park budova B
+Heyrovského 30a;PK1 Heyrovskéh.30a;Bystrc;49.2285367;16.5278314;216.4;PK;K1HeyKOT;Kotle K1 Heyrovského
+Heyrovského 30a;PK1 Heyrovskéh.30a;Bystrc;49.2285367;16.5278314;216.4;PK;K1HeySTR;Strojovna K1 Heyrovského
+Heyrovského 30a;PK1 Heyrovskéh.30a;Bystrc;49.2285367;16.5278314;216.4;PK;K1HeyPS1;PDS Heyrovského 2-30
+Heyrovského 30a;PK1 Heyrovskéh.30a;Bystrc;49.2285367;16.5278314;216.4;PK;HeyPS1MT;Měření Heyrovského 2-30
+Heyrovského 9a;PK G Heyrovskéh.9a;Bystrc;49.2271458;16.5286528;216.4;PK;G_HeyKOT;Kotle G Heyrovského
+Heyrovského 9a;PK G Heyrovskéh.9a;Bystrc;49.2271458;16.5286528;216.4;PK;G_HeySTR;Strojovna G Heyrovského
+Heyrovského 9a;PK G Heyrovskéh.9a;Bystrc;49.2271458;16.5286528;216.4;PK;G_Hey_MT;Měření Heyrovského 1-9
+Hodonínská 25;PKK3 Hodonínsk.25;Komárov;49.1774997;16.6228178;198.1;PK;K3HodKOT;Hodoninská Kotelna
+Hodonínská 25;PKK3 Hodonínsk.25;Komárov;49.1774997;16.6228178;198.1;PK;K3HodSTR;Hodoninská Strojovna
+Hodonínská 25;PKK3 Hodonínsk.25;Komárov;49.1774997;16.6228178;198.1;PK;K3HodMT;Hodoninská Měření
+Hodonínská 25;PKK3 Hodonínsk.25;Komárov;49.1774997;16.6228178;198.1;PK;HodPS1MT;Hodoni.2,3,7,11,15,17,21
+Hodonínská 25;PKK3 Hodonínsk.25;Komárov;49.1774997;16.6228178;198.1;PK;HodPS2MT;Za Mostem 2
+Hochmanova 8;VS6 Hochmanova;Líšeň;49.2118408;16.6792244;339.1;HV;VS6HoKOT;Kotle VS6 Hochmanova
+Hochmanova 8;VS6 Hochmanova;Líšeň;49.2118408;16.6792244;339.1;HV;VS6HoSTR;Stroj. VS6 Hochmanova
+Hochmanova 8;VS6 Hochmanova;Líšeň;49.2118408;16.6792244;339.1;HV;VS6HoMT;Měření VS6 Hochmanova
+Hochmanova 8;VS6 Hochmanova;Líšeň;49.2118408;16.6792244;339.1;HV;VS6HoPS1;PDS Molákova 1-7,9
+Hochmanova 8;VS6 Hochmanova;Líšeň;49.2118408;16.6792244;339.1;HV;VS6HoPS2;Mol.11,13,15,17,19,21,23
+Hochmanova 8;VS6 Hochmanova;Líšeň;49.2118408;16.6792244;339.1;HV;VS6HoPS3;PDS Hochm.2,4,6,Molák.
+Hochmanova 8;VS6 Hochmanova;Líšeň;49.2118408;16.6792244;339.1;HV;HoPS1MT;Měř. Molákova 1-7,9
+Hochmanova 8;VS6 Hochmanova;Líšeň;49.2118408;16.6792244;339.1;HV;HoPS2MT;Mol.11,13,15,17,19,21,23
+Hochmanova 8;VS6 Hochmanova;Líšeň;49.2118408;16.6792244;339.1;HV;HoPS3MT;Měř.Hochm.2,4,6,Molákova
+Horácké náměstí 1;PKKR7 Horácké nám.;Řečkovice;49.2472886;16.5838092;261.2;PK;K7HoNKOT;Kotle KR7 Horácké n.
+Horácké náměstí 1;PKKR7 Horácké nám.;Řečkovice;49.2472886;16.5838092;261.2;PK;K7HoNSTR;Strojovna KR7 Horácké n.
+Horní 30;PK Horní 30;Štýřice;49.1786450;16.5921439;223.9;HV;PKHorKOT;Kotle PK Horní
+Hrázka 12;KM C Hrázka 12;Medlánky;49.2461525;16.5716742;274.0;PK;KMCNaSTR;KM C Hrázka 12
+Hrázka 12;KM C Hrázka 12;Medlánky;49.2461525;16.5716742;274.0;PK;KMCNaMT;Měření KM C Hrázka 12
+Hrázka 20;KM D Hrázka 20;Medlánky;49.2454631;16.5723222;270.4;PK;KMDHrSTR;KM D Hrázka20
+Hrázka 20;KM D Hrázka 20;Medlánky;49.2454631;16.5723222;270.4;PK;KMDHrMT;Měření KM D Hrázka20
+Hrázka 30;KM E Hrázka 30;Medlánky;49.2449067;16.5730256;267.7;PK;KMEHrSTR;KM E Hrázka30
+Hrázka 30;KM E Hrázka 30;Medlánky;49.2449067;16.5730256;267.7;PK;KMEHrMT;Měření KM E Hrázka30
+Hrázka 4;KM F Hrázka 40;Medlánky;49.2444039;16.5737617;267.3;PK;KMFHrSTR;KM F Hrázka40
+Hrázka 4;KM F Hrázka 40;Medlánky;49.2444039;16.5737617;267.3;PK;KMFHrMT;Měření KM F Hrázka40
+Húskova 4;VS Húskova 4;Černovice;49.1850942;16.6405103;206.1;PV;VSHusKot;VS Hůskova kotelna
+Húskova 4;VS Húskova 4;Černovice;49.1850942;16.6405103;206.1;PV;VSHusStr;VS Hůskova strojovna
+Húskova 4;VS Húskova 4;Černovice;49.1850942;16.6405103;206.1;PV;VSHusKon;VS Hůskova kondenz.
+Húskova 4;VS Húskova 4;Černovice;49.1850942;16.6405103;206.1;PV;VSHusPS1;PDS Kneslova 6 - 28
+Húskova 4;VS Húskova 4;Černovice;49.1850942;16.6405103;206.1;PV;VSHusPS2;PDS Hůskova 6,12
+Húskova 4;VS Húskova 4;Černovice;49.1850942;16.6405103;206.1;PV;VSHusPS3;PDS Cornovova 1 - 60
+Húskova 4;VS Húskova 4;Černovice;49.1850942;16.6405103;206.1;PV;VSHusPS4;PDS Krausova 1,4,7,10
+Húskova 4;VS Húskova 4;Černovice;49.1850942;16.6405103;206.1;PV;VSHusPS5;PDS Olomoucka 152,156
+Húskova 4;VS Húskova 4;Černovice;49.1850942;16.6405103;206.1;PV;VSHusPS6;PDS Turgenevova 2b,4
+Húskova 4;VS Húskova 4;Černovice;49.1850942;16.6405103;206.1;PV;HusPS1MT;Měření Kneslova 6 - 28
+Húskova 4;VS Húskova 4;Černovice;49.1850942;16.6405103;206.1;PV;HusPS2MT;Měření Hůskova 6,12
+Húskova 4;VS Húskova 4;Černovice;49.1850942;16.6405103;206.1;PV;HusPS3MT;Měření Cornovova 1 - 60
+Húskova 4;VS Húskova 4;Černovice;49.1850942;16.6405103;206.1;PV;HusPS4MT;Měřen
+Húskova 4;VS Húskova 4;Černovice;49.1850942;16.6405103;206.1;PV;HusPS5MT;
+Húskova 4;VS Húskova 4;Černovice;49.1850942;16.6405103;206.1;PV;HusPS6MT;
+Chaloupeckého náměstí 1;VS Chaloupeck.n.1;Královo Pole;49.2118917;16.5998550;228.1;HV;VChN1Str;Strojovna VS Chaloup.n.1
+Chaloupeckého náměstí 1;VS Chaloupeck.n.1;Královo Pole;49.2118917;16.5998550;228.1;HV;VSChN1MT;Měření VS Chaloup.n.1
+Chlupova 2;VS Chlupova 2;Královo Pole;49.2114683;16.5947206;239.8;HV;VChl2Str;Strojovna VS Chlupova 2
+Chlupova 2;VS Chlupova 2;Královo Pole;49.2114683;16.5947206;239.8;HV;VSChl2MT;Měření VS Chlupova 2
+Chlupova 4-6;VS Chlupova 4;Královo Pole;49.2118064;16.5945914;240.5;HV;VChl4Str;Strojovna VS Chlupova 4
+Chlupova 4-6;VS Chlupova 4;Královo Pole;49.2118064;16.5945914;240.5;HV;VSChl4MT;Měření VS Chlupova 4
+Chlupova 5;VS Chlupova 1-7;Královo Pole;49.2114033;16.5942183;241.0;HV;VChl5Str;Strojovna VS Chlupova 5
+Chlupova 5;VS Chlupova 1-7;Královo Pole;49.2114033;16.5942183;241.0;HV;VSChl5MT;Měření VS Chlupova 5
+Ibsenova 2;HO9 Ibsenova 2;Lesná;49.8635411;18.5414436;237.9;HV;HO9IbSTR;Stroj. HO9 Ibsenova 2
+Irkutská 2a;PK K19 Irkutská;Lískovec;49.1675425;16.5500519;236.2;PK;K19IrKOT;Kotle K19 Irkutská
+Irkutská 2a;PK K19 Irkutská;Lískovec;49.1675425;16.5500519;236.2;PK;K19IrSTR;Strojovna K19 Irkutská
+Irkutská 2a;PK K19 Irkutská;Lískovec;49.1675425;16.5500519;236.2;PK;K19IrMT;Měření K19 Irkutská
+Irkutská 2a;PK K19 Irkutská;Lískovec;49.1675425;16.5500519;236.2;PK;PdsIrku2;Pds Irkutská 2
+Irkutská 2a;PK K19 Irkutská;Lískovec;49.1675425;16.5500519;236.2;PK;PdsIrku3;Pds Irkutská 3
+Irkutská 2a;PK K19 Irkutská;Lískovec;49.1675425;16.5500519;236.2;PK;PdsBos17;Pds Bosonožská 17
+Irkutská 2a;PK K19 Irkutská;Lískovec;49.1675425;16.5500519;236.2;PK;PdsSeva1;Pds Sevastopolská 1
+Irkutská 2a;PK K19 Irkutská;Lískovec;49.1675425;16.5500519;236.2;PK;PdsKry15;Pds Krymská 15
+Irkutská 2a;PK K19 Irkutská;Lískovec;49.1675425;16.5500519;236.2;PK;IrPS1MT;Měření Irkutská 1-8
+Irkutská 2a;PK K19 Irkutská;Lískovec;49.1675425;16.5500519;236.2;PK;IrPS2MT;Měření Kyjevská 13-17
+Irkutská 2a;PK K19 Irkutská;Lískovec;49.1675425;16.5500519;236.2;PK;IrPS3MT;Měření Krymská 5-15
+Irkutská 2a;PK K19 Irkutská;Lískovec;49.1675425;16.5500519;236.2;PK;IrPS4MT;Měření Bosonožská 11-17
+Irkutská 2a;PK K19 Irkutská;Lískovec;49.1675425;16.5500519;236.2;PK;IrPS5MT;Měření Sevastopol.
+Janošíkova 41;PKD Janošíkova 41;Chrlice;49.1288400;16.6517494;195.5;PK;D_JanKOT;D Jánošíkova kotle
+Janošíkova 41;PKD Janošíkova 41;Chrlice;49.1288400;16.6517494;195.5;PK;D_JanSTR;D Jánošíkova strojovna
+Janošíkova 41;PKD Janošíkova 41;Chrlice;49.1288400;16.6517494;195.5;PK;D_JanPS1;PDS D Jánošíkova 35,37
+Janošíkova 41;PKD Janošíkova 41;Chrlice;49.1288400;16.6517494;195.5;PK;D_JanMT;Měření D Jánošíkova
+Jánská 18;VS Jánská 18;Střed;49.1948253;16.6118119;214.1;HV;Jan18STR;Stroj. Janská 18
+Jánská 9;VS Jánská 9;Střed;49.1944278;16.6097994;225.6;HV;Jan09STR;Stroj. Jánská 9
+Jasanová 26a;PK E1 Jasanová 26a;Jundrov;49.2044275;16.5556203;225.5;PK;E1JasKOT;Kotle E1 Jasanová
+Jasanová 26a;PK E1 Jasanová 26a;Jundrov;49.2044275;16.5556203;225.5;PK;E1JasSTR;Strojovna E1 Jasanová
+Jasanová 4a;PK E2 Jasanová 4a;Jundrov;49.2061097;16.5532850;224.2;PK;E2JasKOT;Kotle E2 Jasanová
+Jasanová 4a;PK E2 Jasanová 4a;Jundrov;49.2061097;16.5532850;224.2;PK;E2JasSTR;Strojovna  E2 Jasanová
+Ječná 38a;PKKR2 Ječná 38a;Řečkovice;49.2497761;16.5856489;252.9;PK;K8JecKOT;Kotle KR8 Ječná
+Ječná 38a;PKKR2 Ječná 38a;Řečkovice;49.2497761;16.5856489;252.9;PK;K8JecSTR;Strojovna KR8 Ječná
+Ježkova 9;HO5 Ježkova 9;Lesná;49.2300275;16.6294517;302.5;HV;HO5JeKOT;Kotle HO5 Ježkova
+Ježkova 9;HO5 Ježkova 9;Lesná;49.2300275;16.6294517;302.5;HV;HO5JeSTR;Stroj. HO5 Ježkova
+Ježkova 9;HO5 Ježkova 9;Lesná;49.2300275;16.6294517;302.5;HV;HO5JeMT;Měření HO5 Ježkova
+Ježkova 9;HO5 Ježkova 9;Lesná;49.2300275;16.6294517;302.5;HV;PDSBlz_8;PDS Blažkova 8 pro 1-8
+Ježkova 9;HO5 Ježkova 9;Lesná;49.2300275;16.6294517;302.5;HV;PDSBlz_9;PDS Blažkova 9 ZŠ
+Jihomoravské náměstí 1a;PK2 Jihomora.n.1a;Slatina;49.1787681;16.6841578;254.9;PK;PK2JiKOT;PK2 Jihomor. n. kotle
+Jihomoravské náměstí 1a;PK2 Jihomora.n.1a;Slatina;49.1787681;16.6841578;254.9;PK;PK2JiSTR;PK2 Jihomor.n. strojovna
+Jílová 29b;VS Jílova 29b;Štýřice;49.1791414;16.5937681;218.3;HV;VSJilSTR;Strojovna VS Jílova
+Jílová 29b;VS Jílova 29b;Štýřice;49.1791414;16.5937681;218.3;HV;VSJilMT;Měření VS Jílova
+Jílová 29b;VS Jílova 29b;Štýřice;49.1791414;16.5937681;218.3;HV;VSJilPS1;PDS Jílova 28a
+Jílová 29b;VS Jílova 29b;Štýřice;49.1791414;16.5937681;218.3;HV;JilPS1MT;Měření Jílova 28a
+Jindřichova 10;VS Jindřichova 10;Žabovřesky;49.2138522;16.5825142;239.4;HV;VsJ10STR;Strojovna Jindřichova 10
+Jindřichova 10;VS Jindřichova 10;Žabovřesky;49.2138522;16.5825142;239.4;HV;VsJ10MT;Měření Jindřichova 10
+Jindřichova 12;VS Jindřichova 12;Žabovřesky;49.2136544;16.5822667;238.1;HV;VsJ12STR;Strojovna Jindřichova 12
+Jindřichova 12;VS Jindřichova 12;Žabovřesky;49.2136544;16.5822667;238.1;HV;VsJ12MT;Měření Jindřichova 12
+Jindřichova 14;VS Jindřichova 14;Žabovřesky;49.2133161;16.5820053;236.3;HV;VsJ14STR;Strojovna Jindřichova 14
+Jindřichova 14;VS Jindřichova 14;Žabovřesky;49.2133161;16.5820053;236.3;HV;VsJ14MT;Měření Jindřichova 14
+Jindřichova 16;VS Jindřichova 16;Žabovřesky;49.2131103;16.5818422;234.9;HV;VsJ16STR;Strojovna Jindřichova 16
+Jindřichova 16;VS Jindřichova 16;Žabovřesky;49.2131103;16.5818422;234.9;HV;VsJ16MT;Měření Jindřichova 16
+Jindřichova 18;VS Jindřichova 18;Žabovřesky;49.2129150;16.5816781;233.5;HV;VsJ18STR;Strojovna Jindřichova 18
+Jindřichova 18;VS Jindřichova 18;Žabovřesky;49.2129150;16.5816781;233.5;HV;VsJ18MT;Měření Jindřichova 18
+Jindřichova 19;VS Jindřichova 19;Žabovřesky;49.2129128;16.5824731;237.8;HV;VsJ19STR;Strojovna Jindřichova 19
+Jindřichova 19;VS Jindřichova 19;Žabovřesky;49.2129128;16.5824731;237.8;HV;VsJ19MT;Měření Jindřichova 19
+Jindřichova 21;VS Jindřichova 21;Žabovřesky;49.2127225;16.5826394;238.3;HV;VsJ21STR;Strojovna Jindřichova 21
+Jindřichova 21;VS Jindřichova 21;Žabovřesky;49.2127225;16.5826394;238.3;HV;VsJ21MT;Měření Jindřichova 21
+Jindřichova 6;VS Jindřichova 6;Žabovřesky;49.2145492;16.5825850;242.7;HV;VsJ06STR;Strojovna Jindřichova 6
+Jindřichova 6;VS Jindřichova 6;Žabovřesky;49.2145492;16.5825850;242.7;HV;VsJ06MT;Měření Jindřichova 6
+Jindřichova 8;VS Jindřichova 8;Žabovřesky;49.2143714;16.5827767;242.5;HV;VsJ08STR;Strojovna Jindřichova 8
+Jindřichova 8;VS Jindřichova 8;Žabovřesky;49.2143714;16.5827767;242.5;HV;VsJ08MT;Měření Jindřichova 8
+Jírova 10;VS Jírova 8;Líšeň;49.2086522;16.6862644;342.0;HV;VSJirSTR;Stroj. VS Jírova 8
+Josefská 17;VS Josefská 17/19;Střed;49.1917344;16.6120361;213.4;HV;Jos17STR;Stroj. Josefská 17/19
+Josefská 21;VS Josefská 21;Střed;49.1916789;16.6116703;215.2;HV;Jos21STR;Stroj. Josefská 21
+Josefy Faimonové 13a;VS11 J.Faimonové;Líšeň;49.2055242;16.6800433;314.1;HV;V11FaKOT;Kotle VS11 J.Faimonové
+Josefy Faimonové 13a;VS11 J.Faimonové;Líšeň;49.2055242;16.6800433;314.1;HV;V11FaMT;MT VS11 J.Faimonové
+Josefy Faimonové 13a;VS11 J.Faimonové;Líšeň;49.2055242;16.6800433;314.1;HV;V11FaPS1;DPS J.Faim.11,13-17
+Josefy Faimonové 13a;VS11 J.Faimonové;Líšeň;49.2055242;16.6800433;314.1;HV;V11FaPS2;DPS J.Faim. 18-20,22,24
+Josefy Faimonové 13a;VS11 J.Faimonové;Líšeň;49.2055242;16.6800433;314.1;HV;FaiPS1MT;Měř. J.Faim.11,13-17
+Josefy Faimonové 13a;VS11 J.Faimonové;Líšeň;49.2055242;16.6800433;314.1;HV;FaiPS2MT;Měř. J.Faim. 18-20,22,24
+Josefy Faimonové 1a;VS11a J.Faimonové;Líšeň;49.2034483;16.6795000;288.5;HV;V11aFKOT;Kotle 11a J. Faimonové
+Josefy Faimonové 1a;VS11a J.Faimonové;Líšeň;49.2034483;16.6795000;288.5;HV;V11aFSTR;Stroj. 11a J. Faimonové
+Josefy Faimonové 1a;VS11a J.Faimonové;Líšeň;49.2034483;16.6795000;288.5;HV;V11aFPS1;PDS J. Faimonové 1-6
+Josefy Faimonové 1a;VS11a J.Faimonové;Líšeň;49.2034483;16.6795000;288.5;HV;V11aFPS2;PDS J. Faimonové 7-12
+Josefy Faimonové 1a;VS11a J.Faimonové;Líšeň;49.2034483;16.6795000;288.5;HV;V11aFPS3;PDS Neklež 1,1a,1b
+Josefy Faimonové 1a;VS11a J.Faimonové;Líšeň;49.2034483;16.6795000;288.5;HV;Fa_PS1MT;Měř. J. Faimonové 1-6
+Josefy Faimonové 1a;VS11a J.Faimonové;Líšeň;49.2034483;16.6795000;288.5;HV;Fa_PS2MT;Měř. J. Faimonové 7-12
+Josefy Faimonové 1a;VS11a J.Faimonové;Líšeň;49.2034483;16.6795000;288.5;HV;Fa_PS3MT;Měř. Neklež 1,1a,1b
+Jožky Jabůrkové 20;PKK24 J.Jabůrko.20;Komín;49.2235739;16.5527908;246.9;PK;K24JaKOT;Kotle K24 J.Jabůrkové
+Jožky Jabůrkové 20;PKK24 J.Jabůrko.20;Komín;49.2235739;16.5527908;246.9;PK;K24JaSTR;Stroj. K24 J.Jabůrkové
+Jurkovičova 1;HO8 Jurkovičova;Lesná;49.2327547;16.6238878;309.8;HV;HO8JuSTR;Stroj. HO8 Jurkovičova
+Jurkovičova 1;HO8 Jurkovičova;Lesná;49.2327547;16.6238878;309.8;HV;HO8JuMT;Měření HO8 Jurkovičova
+Jurkovičova 1;HO8 Jurkovičova;Lesná;49.2327547;16.6238878;309.8;HV;HO8JuPS1;PDS Jurkovičova 2-7
+Jurkovičova 1;HO8 Jurkovičova;Lesná;49.2327547;16.6238878;309.8;HV;HO8JuPS2;PDS Jurk. 9,12,15,18
+Jurkovičova 1;HO8 Jurkovičova;Lesná;49.2327547;16.6238878;309.8;HV;HO8JuPS3;PDS Loosova 3,6,9,11Mš
+Jurkovičova 1;HO8 Jurkovičova;Lesná;49.2327547;16.6238878;309.8;HV;HO8JuPS4;PDS Loosova 12,13,14
+Jurkovičova 1;HO8 Jurkovičova;Lesná;49.2327547;16.6238878;309.8;HV;JuPS1MT;Měření Jurkovičova 2-7
+Jurkovičova 1;HO8 Jurkovičova;Lesná;49.2327547;16.6238878;309.8;HV;JuPS2MT;Měření Jurk. 9,12,15,18
+Jurkovičova 1;HO8 Jurkovičova;Lesná;49.2327547;16.6238878;309.8;HV;JuPS3MT;Měř. Loosova 3,6,9,11Mš
+Jurkovičova 1;HO8 Jurkovičova;Lesná;49.2327547;16.6238878;309.8;HV;JuPS4MT;Měření Loosova 12,13,14
+K Babě 11;KM 15 K Babě 11;Medlánky;49.2444231;16.5719303;260.5;PK;KM15BSTR;KM 15 K Babě 11
+K Babě 17;KM 11 K Babě 17 ;Medlánky;49.2450994;16.5709114;262.6;PK;KM11BSTR;KM 11 Babě 17
+K Babě 19;KM 6 K Babě 19;Medlánky;49.2460175;16.5703772;267.4;PK;KM6BaSTR;KM 6 K Babě 19
+K Babě 21;KM 5 K Babě 21;Medlánky;49.2457719;16.5698483;264.8;PK;KM5BaSTR;KM 5 K Babě 21
+K Babě 23;KM 4 K Babě 23;Medlánky;49.2454586;16.5694919;261.7;PK;KM4BaSTR;KM 4 K Babě 23
+K Babě 25;KM 3 K Babě 25;Medlánky;49.2439981;16.5743872;267.5;PK;KM3BaSTR;KM 3 K Babě 25
+K Babě 9;KM 16 K Babě 9;Medlánky;49.2446386;16.5724033;263.5;PK;KM16BSTR;KM 16 K Babě 9
+K Rybníku 1;KM 12 K Rybníku 1;Medlánky;49.2450656;16.5718208;264.6;PK;KM12RSTR;KM 12 K Rybníku 1
+K Rybníku 2;KM 14 K Rybníku;Medlánky;49.2441044;16.5715733;258.0;PK;KM14RSTR;KM 14 K Rybníku
+Kachlíkova 15a;PKKB2 Kachlíko.15a;Bystrc;49.2207753;16.5137986;292.8;PK;K2Ka_KOT;Kotle KB2 Kachlíkova
+Kachlíkova 15a;PKKB2 Kachlíko.15a;Bystrc;49.2207753;16.5137986;292.8;PK;K2Ka_STR;Strojovna KB2 Kachlíkova
+Kachlíkova 15a;PKKB2 Kachlíko.15a;Bystrc;49.2207753;16.5137986;292.8;PK;K2Ka_MT;Měření KB2 Kachlíkova
+Kachlíkova 15a;PKKB2 Kachlíko.15a;Bystrc;49.2207753;16.5137986;292.8;PK;K2Ka_MTS;Měření Kachlíkova sudá
+Kachlíkova 15a;PKKB2 Kachlíko.15a;Bystrc;49.2207753;16.5137986;292.8;PK;K2Ka_MTL;Měření Kachlíkova lichá
+Kachlíkova 15a;PKKB2 Kachlíko.15a;Bystrc;49.2207753;16.5137986;292.8;PK;K2Ka_MTN;Měření Nad Přehradou
+Kachlíkova 15a;PKKB2 Kachlíko.15a;Bystrc;49.2207753;16.5137986;292.8;PK;K2Ka_SER;Servis KB2 Kachlíkova
+Kamínky 35a;PK K1 Kamínky;Lískovec;49.1811575;16.5593239;308.1;PK;K1KamKOT;Kotle K1 Kamínky
+Kamínky 35a;PK K1 Kamínky;Lískovec;49.1811575;16.5593239;308.1;PK;K1KamSTR;Strojovna K1 Kamínky
+Kamínky 5a;PK K2 Kamínky;Lískovec;49.1785783;16.5581153;306.5;PK;K2KamKOT;Kotle K2 Kamínky
+Kamínky 5a;PK K2 Kamínky;Lískovec;49.1785783;16.5581153;306.5;PK;K2KamSTR;Strojovna K2 Kamínky
+Klímova 1;VS Klímova 1;Žabovřesky;49.2121192;16.5834592;241.4;HV;VsKl1STR;Strojovna Klímova 1
+Klímova 1;VS Klímova 1;Žabovřesky;49.2121192;16.5834592;241.4;HV;VsKl1MT;Měření Klímova 1
+Klímova 3;VS Klímova 3;Žabovřesky;49.2124611;16.5831156;240.5;HV;VsKl3STR;Strojovna Klímova 3
+Klímova 3;VS Klímova 3;Žabovřesky;49.2124611;16.5831156;240.5;HV;VsKl3MT;Měření Klímova 3
+Klusáčkova 5a;VS Klusáčkova 5a,b;Královo Pole;49.2122722;16.5950783;239.2;HV;VKlu5Str;Strojovna VS Klusáčk.5
+Klusáčkova 5a;VS Klusáčkova 5a,b;Královo Pole;49.2122722;16.5950783;239.2;HV;VSKlu5MT;Měření VS Klusáčkova 5
+Koliště 47;Koliště 47;Zábrdovice;49.1959825;16.6232186;201.4;HV;Zábrdovice\Koliště_47;?
+Koliště 49;Koliště 49;Zábrdovice;49.1959825;16.6232186;201.4;HV;Zábrdovice\Koliště_49;?
+Konrádova 2a;VS9 Konrádova 2a;Líšeň;49.2086522;16.6862644;342.0;HV;VS9KoKOT;Kotle VS9 Konrádova
+Kosmákova 46a;VS Kosmákova 46a;Židenice;49.2036964;16.6401194;207.4;PV;VSKosKot;VS Kosmákova topení
+Kosmákova 46a;VS Kosmákova 46a;Židenice;49.2036964;16.6401194;207.4;PV;VSKosSTR;VS Kosmákova strojovna
+Kosmákova 46a;VS Kosmákova 46a;Židenice;49.2036964;16.6401194;207.4;PV;VSKosMT;VS Kosmákova Měření
+Kosmonautů 15a;PK K8 Kosmonautů;Lískovec;49.1664058;16.5633050;244.0;PK;K8KosKOT;Kotle K8 Kosmonautu
+Kosmonautů 15a;PK K8 Kosmonautů;Lískovec;49.1664058;16.5633050;244.0;PK;K8KosSTR;Strojovna K8 Kosmonautu
+Kotlářská 25;VS Kotlářská 23,25;Ponava;49.2066608;16.5993583;230.7;HV;VSK25STR;Výměník VS Kotlářská 25
+Kounicova 54;VS Kounicova 52-58;Veveří;49.2112628;16.5936708;241.7;HV;VKo56Str;Strojovna VS Kounic. 56
+Kounicova 54;VS Kounicova 52-58;Veveří;49.2112628;16.5936708;241.7;HV;VSKo56MT;Měření VS Kounicova 56
+Kotlanova 10;VS5 Kotlanova 10;Líšeň;49.2101678;16.6794728;331.4;HV;VS5KoKOT;Kotle VS5 Kotlanova
+Kotlanova 10;VS5 Kotlanova 10;Líšeň;49.2101678;16.6794728;331.4;HV;VS5KoSTR;Stroj. VS5 Kotlanova
+Kotlanova 10;VS5 Kotlanova 10;Líšeň;49.2101678;16.6794728;331.4;HV;VS5KoMT;Měř. VS5 Kotlanova
+Kotlanova 10;VS5 Kotlanova 10;Líšeň;49.2101678;16.6794728;331.4;HV;VS5KoPS1;PDS Kotlanova 2,4,6,8
+Kotlanova 10;VS5 Kotlanova 10;Líšeň;49.2101678;16.6794728;331.4;HV;VS5KoPS2;PDS Horníkova 2,4,6,8
+Kotlanova 10;VS5 Kotlanova 10;Líšeň;49.2101678;16.6794728;331.4;HV;VS5KoPS3;PDS Horník.10,12,14,16
+Kotlanova 10;VS5 Kotlanova 10;Líšeň;49.2101678;16.6794728;331.4;HV;VS5KoPS4;PDS Horník.18,20,22,24
+Kotlanova 10;VS5 Kotlanova 10;Líšeň;49.2101678;16.6794728;331.4;HV;VS5KoPS5;PDS Horník.26,28,30,32
+Kotlanova 10;VS5 Kotlanova 10;Líšeň;49.2101678;16.6794728;331.4;HV;KoPS1MT;Měř.Kotlanova 2,4,6,8
+Kotlanova 10;VS5 Kotlanova 10;Líšeň;49.2101678;16.6794728;331.4;HV;KoPS2MT;Měř.Horníkova 2,4,6,8
+Kotlanova 10;VS5 Kotlanova 10;Líšeň;49.2101678;16.6794728;331.4;HV;KoPS3MT;Měř.Horník.10,12,14,16
+Kotlanova 10;VS5 Kotlanova 10;Líšeň;49.2101678;16.6794728;331.4;HV;KoPS4MT;Měř.Horník.18,2
+Kotlanova 10;VS5 Kotlanova 10;Líšeň;49.2101678;16.6794728;331.4;HV;KoPS5MT;
+Kremličkova 6a;PKKR Kremličkov.6a;Řečkovice;49.2486225;16.5738981;307.4;PK;KRKreKOT;Kotle KR Kremličkova
+Kremličkova 6a;PKKR Kremličkov.6a;Řečkovice;49.2486225;16.5738981;307.4;PK;KRKreSTR;Strojovna KR Kremličkova
+Kremličkova 6a;PKKR Kremličkov.6a;Řečkovice;49.2486225;16.5738981;307.4;PK;KRKreMT;Měření KR Kremličkova
+Kremličkova 6a;PKKR Kremličkov.6a;Řečkovice;49.2486225;16.5738981;307.4;PK;KRKrePS1;PDS Kremličkova 2-8
+Kremličkova 6a;PKKR Kremličkov.6a;Řečkovice;49.2486225;16.5738981;307.4;PK;KrePS1MT;Měření Kremličkova 2-8
+Křídlovická;VS Křídlovická 43;Staré Brno;49.1877081;16.5992519;202.4;PV;VSKriKOT;Ohřívače VS Křídlovická
+Křídlovická;VS Křídlovická 43;Staré Brno;49.1877081;16.5992519;202.4;PV;VSKriSTR;Strojovna VS Křídlovická
+Křídlovická;VS Křídlovická 43;Staré Brno;49.1877081;16.5992519;202.4;PV;VSKriMT;Měření VS Křídlovická
+Kubánská 1;VS Kubánská 1;Žabovřesky;49.2136294;16.5812036;233.8;HV;VsKu1STR;Strojovna Kubánská 1
+Kubánská 1;VS Kubánská 1;Žabovřesky;49.2136294;16.5812036;233.8;HV;VsKu1MT;Měření Kubánská 1
+Kubánská 2;VS Kubánská 2;Žabovřesky;49.2138383;16.5803858;231.4;HV;VsKu2STR;Strojovna Kubánská 2
+Kubánská 2;VS Kubánská 2;Žabovřesky;49.2138383;16.5803858;231.4;HV;VsKu2MT;Měření Kubánská 2
+Kubánská 3;VS Kubánská 3;Žabovřesky;49.2134331;16.5810375;232.2;HV;VsKu3STR;Strojovna Kubánská 3
+Kubánská 3;VS Kubánská 3;Žabovřesky;49.2134331;16.5810375;232.2;HV;VsKu3MT;Měření Kubánská 3
+Kubánská 4;VS Kubánská 4;Žabovřesky;49.2136458;16.5805475;231.3;HV;VsKu4STR;Strojovna Kubánská 4
+Kubánská 4;VS Kubánská 4;Žabovřesky;49.2136458;16.5805475;231.3;HV;VsKu4MT;Měření Kubánská 4
+Kubánská 5;VS Kubánská 5;Žabovřesky;49.2132347;16.5812058;232.7;HV;VsKu5STR;Strojovna Kubánská 5
+Kubánská 5;VS Kubánská 5;Žabovřesky;49.2132347;16.5812058;232.7;HV;VsKu5MT;Měření Kubánská 5
+Kubánská 6;VS Kubánská 6;Žabovřesky;49.2134436;16.5803744;230.6;HV;VsKu6STR;Strojovna Kubánská 6
+Kubánská 6;VS Kubánská 6;Žabovřesky;49.2134436;16.5803744;230.6;HV;VsKu6MT;Měření Kubánská 6
+Kubánská 7;VS Kubánská 7;Žabovřesky;49.2130403;16.5810422;231.0;HV;VsKu7STR;Strojovna Kubánská 7
+Kubánská 7;VS Kubánská 7;Žabovřesky;49.2130403;16.5810422;231.0;HV;VsKu7MT;Měření Kubánská 7
+Kubánská 8;VS Kubánská 8;Žabovřesky;49.2132500;16.5805542;230.0;HV;VsKu8STR;Strojovna Kubánská 8
+Kubánská 8;VS Kubánská 8;Žabovřesky;49.2132500;16.5805542;230.0;HV;VsKu8MT;Měření Kubánská 8
+Kubánská 9;VS Kubánská 9;Žabovřesky;49.2128406;16.5808781;230.2;HV;VsKu9STR;Strojovna Kubánská 9
+Kubánská 9;VS Kubánská 9;Žabovřesky;49.2128406;16.5808781;230.2;HV;VsKu9MT;Měření Kubánská 9
+Kubíčkova 1a;PKKB3 Kubíčkova 1a;Bystrc;49.2188056;16.5187714;284.6;PK;K3KubKOT;Kotle KB3 Kubíčkova
+Kubíčkova 1a;PKKB3 Kubíčkova 1a;Bystrc;49.2188056;16.5187714;284.6;PK;K3KubSTR;Stroj. KB3 Kubíčkova
+Kubíkova 22;VS12 Kubíkova 22;Líšeň;49.2017336;16.6791478;287.3;HV;V12KuKOT;Kotle VS12 Kubíkova
+Kubíkova 22;VS12 Kubíkova 22;Líšeň;49.2017336;16.6791478;287.3;HV;V12KuSTR;Stroj. VS12 Kubíkova
+Kubíkova 22;VS12 Kubíkova 22;Líšeň;49.2017336;16.6791478;287.3;HV;V12KuMT;Měření VS12 Kubíkova
+Kubíkova 22;VS12 Kubíkova 22;Líšeň;49.2017336;16.6791478;287.3;HV;V12KuPS1;PDS J.Faimanové 21-30
+Kubíkova 22;VS12 Kubíkova 22;Líšeň;49.2017336;16.6791478;287.3;HV;V12KuPS2;PDS Kubíkova2,6,10,14,18
+Kubíkova 22;VS12 Kubíkova 22;Líšeň;49.2017336;16.6791478;287.3;HV;V12KuPS3;PDS Rašelinová 4,5
+Kubíkova 22;VS12 Kubíkova 22;Líšeň;49.2017336;16.6791478;287.3;HV;KubPS1MT;Měř. J.Faimanové 21-30
+Kubíkova 22;VS12 Kubíkova 22;Líšeň;49.2017336;16.6791478;287.3;HV;KubPS2MT;Měř.Kubíkova2,6,10,14,18
+Kubíkova 22;VS12 Kubíkova 22;Líšeň;49.2017336;16.6791478;287.3;HV;KubPS3MT;Měř. Rašelinová 4,5
+Kunštátská 11a;PKKR5 Kunštátská;Řečkovice;49.2459844;16.5865464;251.8;PK;K5KunKOT;Kotle KR5 Kunštátská
+Kunštátská 11a;PKKR5 Kunštátská;Řečkovice;49.2459844;16.5865464;251.8;PK;K5KunSTR;Strojovna KR5 Kunštátská
+Kunštátská 11a;PKKR5 Kunštátská;Řečkovice;49.2459844;16.5865464;251.8;PK;K5KunMT;Měření KR5 Kunštátská
+Kunštátská 11a;PKKR5 Kunštátská;Řečkovice;49.2459844;16.5865464;251.8;PK;PdsKun11;Pds Kunštátská 11
+Kunštátská 11a;PKKR5 Kunštátská;Řečkovice;49.2459844;16.5865464;251.8;PK;PdsKun13;Pds Kunštátská 13
+Kunštátská 11a;PKKR5 Kunštátská;Řečkovice;49.2459844;16.5865464;251.8;PK;PdsKun04;Pds Kunštátská 4
+Kunštátská 11a;PKKR5 Kunštátská;Řečkovice;49.2459844;16.5865464;251.8;PK;PdsMer48;Pds Měříčkova 48
+Kunštátská 11a;PKKR5 Kunštátská;Řečkovice;49.2459844;16.5865464;251.8;PK;PdsMerMS;Pds Měříčkova MŠ
+Kunštátská 11a;PKKR5 Kunštátská;Řečkovice;49.2459844;16.5865464;251.8;PK;KunPS1MT;Měření Kunšt. 1-11
+Kunštátská 11a;PKKR5 Kunštátská;Řečkovice;49.2459844;16.5865464;251.8;PK;KunPS2MT;Měř. Kun.13-21, Měříč.46
+Kvapilova 1;VS Kvapilova 1a;Žabovřesky;49.2202694;16.5789378;254.7;HV;VKv1aSTR;Strojovna Kvapilova 1a
+Kvapilova 1;VS Kvapilova 1a;Žabovřesky;49.2202694;16.5789378;254.7;HV;VsKv1aMT;Měření Kvapilova 1a
+Kvapilova 2;VS Kvapilova 2;Žabovřesky;49.2203722;16.5783583;254.0;HV;VsKv2STR;Strojovna Kvapilova 2
+Kvapilova 2;VS Kvapilova 2;Žabovřesky;49.2203722;16.5783583;254.0;HV;VsKva2MT;Měření Kvapilova 2
+Kvapilova 3;VS Kvapilova 3;Žabovřesky;49.2201736;16.5781892;251.4;HV;VsKv3STR;Strojovna Kvapilova 3
+Kvapilova 3;VS Kvapilova 3;Žabovřesky;49.2201736;16.5781892;251.4;HV;VsKva3MT;Měření Kvapilova 3
+Kvapilova 4;VS Kvapilova 4;Žabovřesky;49.2199694;16.5783633;249.8;HV;VsKv4STR;Strojovna Kvapilova 4
+Kvapilova 4;VS Kvapilova 4;Žabovřesky;49.2199694;16.5783633;249.8;HV;VsKva4MT;Měření Kvapilova 4
+Kvapilova 5;VS Kvapilova 5;Žabovřesky;49.2197822;16.5781928;248.2;HV;VsKv5STR;Strojovna Kvapilova 5
+Kvapilova 5;VS Kvapilova 5;Žabovřesky;49.2197822;16.5781928;248.2;HV;VsKva5MT;Měření Kvapilova 5
+Kvapilova 6;VS Kvapilova 6;Žabovřesky;49.2200133;16.5791039;253.3;HV;VsKv6STR;Strojovna Kvapilova 6
+Kvapilova 6;VS Kvapilova 6;Žabovřesky;49.2200133;16.5791039;253.3;HV;VsKva6MT;Měření Kvapilova 6
+Kyjevská 3a;PK K17 Kyjevská;Lískovec;49.1690961;16.5532850;243.0;PK;K17KyKOT;Kotelna K17 Kyjevská
+Kyjevská 3a;PK K17 Kyjevská;Lískovec;49.1690961;16.5532850;243.0;PK;K17KySTR;Strojovna K7 Kyjevská
+Kyjevská 3a;PK K17 Kyjevská;Lískovec;49.1690961;16.5532850;243.0;PK;KyjPS1MT;Měř. Krym.1,3
+Labská 19a;PK K5 Labská;Lískovec;49.1712733;16.5621189;272.2;PK;K5LabKOT;Kotelna K5 Labská 19a
+Labská 19a;PK K5 Labská;Lískovec;49.1712733;16.5621189;272.2;PK;K5LabSTR;Strojovna K5 Labská 19a
+Labská 8;PK K6 Labská;Lískovec;49.1729028;16.5632522;285.4;PK;K6LabKOT;Kotelna K6 Labská 8
+Labská 8;PK K6 Labská;Lískovec;49.1729028;16.5632522;285.4;PK;K6LabSTR;Strojovna K6 Labská 8
+Lány 45;PK K4 Lány;Bohunice;49.1663406;16.5826172;239.7;PK;K4LanKOT;Kotle K4 L ny
+Lány 45;PK K4 Lány;Bohunice;49.1663406;16.5826172;239.7;PK;K4LanSTR;Strojovna K4 L ny
+Laštůvkova 75a;PK5 Laštůvkov.75a;Bystrc;49.2188278;16.5230872;265.9;PK;K5LasKOT;Kotle PK5 Laštůvkova
+Laštůvkova 75a;PK5 Laštůvkov.75a;Bystrc;49.2188278;16.5230872;265.9;PK;K5LasSTR;Strojovna PK5 Laštůvkova
+Laštůvkova 75a;PK5 Laštůvkov.75a;Bystrc;49.2188278;16.5230872;265.9;PK;K5LasMT;Měření PK5 Laštůvkova
+Laštůvkova 75a;PK5 Laštůvkov.75a;Bystrc;49.2188278;16.5230872;265.9;PK;K5LasPS1;PDS Laštůvkova 1-12
+Laštůvkova 75a;PK5 Laštůvkov.75a;Bystrc;49.2188278;16.5230872;265.9;PK;K5LasPS2;PDS Laštůvkova 13-24
+Laštůvkova 75a;PK5 Laštůvkov.75a;Bystrc;49.2188278;16.5230872;265.9;PK;K5LasPS3;PDS Laštůvkova 25-32
+Laštůvkova 75a;PK5 Laštůvkov.75a;Bystrc;49.2188278;16.5230872;265.9;PK;K5LasPS4;PDS Laštůvkova 33-51
+Laštůvkova 75a;PK5 Laštůvkov.75a;Bystrc;49.2188278;16.5230872;265.9;PK;K5LasPS5;PDS Laštůvkova 53-75
+Laštůvkova 75a;PK5 Laštůvkov.75a;Bystrc;49.2188278;16.5230872;265.9;PK;LasPS1MT;Měření Laštůvkova 1-12
+Laštůvkova 75a;PK5 Laštůvkov.75a;Bystrc;49.2188278;16.5230872;265.9;PK;LasPS2MT;Měření Laštůvkova 13-24
+Laštůvkova 75a;PK5 Laštůvkov.75a;Bystrc;49.2188278;16.5230872;265.9;PK;LasPS3MT;Měření Laštůvkova 25-32
+Laštůvkova 75a;PK5 Laštůvkov.75a;Bystrc;49.2188278;16.5230872;265.9;PK;LasPS4MT;Měření Laštů
+Laštůvkova 75a;PK5 Laštůvkov.75a;Bystrc;49.2188278;16.5230872;265.9;PK;LasPS5MT;
+Leitnerova 4;VS Leitnerova 4;Staré Brno;49.1879928;16.6017919;202.1;PV;VSLeiKOT;Ohřívače VS Leitnerova
+Leitnerova 4;VS Leitnerova 4;Staré Brno;49.1879928;16.6017919;202.1;PV;VSLeiSTR;Strojovna VS Leitnerova
+Leitnerova 4;VS Leitnerova 4;Staré Brno;49.1879928;16.6017919;202.1;PV;VSLeiMT;Měření VS Leitnerova
+Letovická 7a;PKKR4 Letovická 7a;Řečkovice;49.2437597;16.5868900;248.1;PK;K4LetKOT;Kotle KR4 Letovická
+Letovická 7a;PKKR4 Letovická 7a;Řečkovice;49.2437597;16.5868900;248.1;PK;K4LetSTR;Strojovna KR4 Letovická
+Letovická 7a;PKKR4 Letovická 7a;Řečkovice;49.2437597;16.5868900;248.1;PK;K4LetMT;Měření KR4 Letovická
+Letovická 7a;PKKR4 Letovická 7a;Řečkovice;49.2437597;16.5868900;248.1;PK;PdsLet14;Pds Letovická 14
+Letovická 7a;PKKR4 Letovická 7a;Řečkovice;49.2437597;16.5868900;248.1;PK;PdsLet07;Pds Letovická 7
+Letovická 7a;PKKR4 Letovická 7a;Řečkovice;49.2437597;16.5868900;248.1;PK;PdsNov51;Pds Novoměstská 51
+Letovická 7a;PKKR4 Letovická 7a;Řečkovice;49.2437597;16.5868900;248.1;PK;PdsLet09;Pds Letovická 9
+Letovická 7a;PKKR4 Letovická 7a;Řečkovice;49.2437597;16.5868900;248.1;PK;LetPs1MT;Měření Letovická 1-7
+Letovická 7a;PKKR4 Letovická 7a;Řečkovice;49.2437597;16.5868900;248.1;PK;LetPs2MT;Měření Letovická 8-13
+Letovická 7a;PKKR4 Letovická 7a;Řečkovice;49.2437597;16.5868900;248.1;PK;LetPs3MT;Měření Letovická 14-22
+Letovická 7a;PKKR4 Letovická 7a;Řečkovice;49.2437597;16.5868900;248.1;PK;LetPs4MT;Měření Novoměstská 45-59
+Libušino údolí 154a;PK K7 Libuš. Údolí;Kohoutovice;49.1987469;16.5467900;300.7;PK;K7LiUKOT;Kotle K7 Libušino Udolí
+Libušino údolí 154a;PK K7 Libuš. Údolí;Kohoutovice;49.1987469;16.5467900;300.7;PK;K7LiUSTR;Stroj. K7 Libušino Udolí
+Libušino údolí 154a;PK K7 Libuš. Údolí;Kohoutovice;49.1987469;16.5467900;300.7;PK;K7LiUMT;Měření K7 Libušino Udolí
+Libušino údolí 154a;PK K7 Libuš. Údolí;Kohoutovice;49.1987469;16.5467900;300.7;PK;K7LiUPS1;PDS Libuš. Udolí 150-158
+Libušino údolí 154a;PK K7 Libuš. Údolí;Kohoutovice;49.1987469;16.5467900;300.7;PK;K7LiUPS2;PDS Borodinova 14-24
+Libušino údolí 154a;PK K7 Libuš. Údolí;Kohoutovice;49.1987469;16.5467900;300.7;PK;LiUPS1MT;Měř.Libuš. Udolí 150-158
+Libušino údolí 154a;PK K7 Libuš. Údolí;Kohoutovice;49.1987469;16.5467900;300.7;PK;LiUPS2MT;Měření Borodinova 14-24
+Lidická 16;Lidická 16;Veveří;49.1959825;16.6232186;201.4;HV;Černá_Pole\Lidická_16;?
+Lipská 1;VS Lipská 1;Žabovřesky;49.2185550;16.5776664;240.1;HV;VsLi1STR;Strojovna Lipská 1
+Lipská 1;VS Lipská 1;Žabovřesky;49.2185550;16.5776664;240.1;HV;VsLi1MT;Měření Lipská 1
+Lipská 2;VS Lipská 2;Žabovřesky;49.2188647;16.5784189;243.7;HV;VsLi2STR;Strojovna Lipská 2
+Lipská 2;VS Lipská 2;Žabovřesky;49.2188647;16.5784189;243.7;HV;VsLi2MT;Měření Lipská 2
+Lipská 3;VS Lipská 3;Žabovřesky;49.2191825;16.5788897;247.2;HV;VsLi3STR;Strojovna Lipská 3
+Lipská 3;VS Lipská 3;Žabovřesky;49.2191825;16.5788897;247.2;HV;VsLi3MT;Měření Lipská 3
+Lipská 4;VS Lipská 4;Žabovřesky;49.2190556;16.5782447;244.4;HV;VsLi4STR;Strojovna Lipská 4
+Lipská 4;VS Lipská 4;Žabovřesky;49.2190556;16.5782447;244.4;HV;VsLi4MT;Měření Lipská 4
+Lipská 5;VS Lipská 5;Žabovřesky;49.2189528;16.5776625;242.9;HV;VsLi5STR;Strojovna Lipská 5
+Lipská 5;VS Lipská 5;Žabovřesky;49.2189528;16.5776625;242.9;HV;VsLi5MT;Měření Lipská 5
+Lipská 6;VS Lipská 6;Žabovřesky;49.2186561;16.5782597;242.3;HV;VsLi6STR;Strojovna Lipská 6
+Lipská 6;VS Lipská 6;Žabovřesky;49.2186561;16.5782597;242.3;HV;VsLi6MT;Měření Lipská 6
+Lipská 7;VS Lipská 7;Žabovřesky;49.2186561;16.5782597;242.3;HV;VsLi7STR;Strojovna Lipská 7
+Lipská 7;VS Lipská 7;Žabovřesky;49.2186561;16.5782597;242.3;HV;VsLi7MT;Měření Lipská 7
+Luční 13;VS Luční 13;Žabovřesky;49.2165625;16.5737392;223.4;HV;VLu13STR;Strojovna Luční 13
+Luční 13;VS Luční 13;Žabovřesky;49.2165625;16.5737392;223.4;HV;VsLu13MT;Měření Luční 13
+Luční 15;VS Luční 15;Žabovřesky;49.2167539;16.5740256;223.9;HV;VLu15STR;Strojovna Luční 15
+Luční 15;VS Luční 15;Žabovřesky;49.2167539;16.5740256;223.9;HV;VsLu15MT;Měření Luční 15
+Luční 17;VS Luční 17;Žabovřesky;49.2163197;16.5742978;223.0;HV;VLu17STR;Strojovna Luční 17
+Luční 17;VS Luční 17;Žabovřesky;49.2163197;16.5742978;223.0;HV;VsLu17MT;Měření Luční 17
+Luční 19;VS Luční 19;Žabovřesky;49.2165183;16.5744639;224.2;HV;VLu19STR;Strojovna Luční 19
+Luční 19;VS Luční 19;Žabovřesky;49.2165183;16.5744639;224.2;HV;VsLu19MT;Měření Luční 19
+Luční 21;VS Luční 21;Žabovřesky;49.2157000;16.5761528;223.5;HV;VLu21STR;Strojovna Luční 21
+Luční 21;VS Luční 21;Žabovřesky;49.2157000;16.5761528;223.5;HV;VsLu21MT;Měření Luční 21
+Luční 23;VS Luční 23;Žabovřesky;49.2162144;16.5763828;226.9;HV;VLu23STR;Strojovna Luční 23
+Luční 23;VS Luční 23;Žabovřesky;49.2162144;16.5763828;226.9;HV;VsLu23MT;Měření Luční 23
+Luční 25;VS Luční 25;Žabovřesky;49.2160181;16.5765489;227.0;HV;VLu25STR;Strojovna Luční 25
+Luční 25;VS Luční 25;Žabovřesky;49.2160181;16.5765489;227.0;HV;VsLu25MT;Měření Luční 25
+Luční 26;VS Luční 26;Žabovřesky;49.2160525;16.5722719;221.4;HV;VLu26STR;Strojovna Luční 26
+Luční 26;VS Luční 26;Žabovřesky;49.2160525;16.5722719;221.4;HV;VsLu26MT;Měření Luční 26
+Luční 27;VS Luční 27;Žabovřesky;49.2154917;16.5767961;225.5;HV;VLu27STR;Strojovna Luční 27
+Luční 27;VS Luční 27;Žabovřesky;49.2154917;16.5767961;225.5;HV;VsLu27MT;Měření Luční 27
+Luční 28;VS Luční 28 POS 6;Žabovřesky;49.2157817;16.5722247;220.2;HV;VLu28STR;Strojovna Luční 28
+Luční 28;VS Luční 28 POS 6;Žabovřesky;49.2157817;16.5722247;220.2;HV;VsLu28MT;Měření Luční 28
+Luční 30;VS Luční 30;Žabovřesky;49.2155172;16.5719925;219.0;HV;VLu30STR;Strojovna Luční 30
+Luční 30;VS Luční 30;Žabovřesky;49.2155172;16.5719925;219.0;HV;VsLu30MT;Měření Luční 30
+Luční 32;VS Luční 32;Žabovřesky;49.2154594;16.5729931;219.1;HV;VLu32STR;Strojovna Luční 32
+Luční 32;VS Luční 32;Žabovřesky;49.2154594;16.5729931;219.1;HV;VsLu32MT;Měření Luční 32
+Luční 66;VS Luční 66;Žabovřesky;49.2151492;16.5759550;222.3;HV;VLu66STR;Strojovna Luční 66
+Luční 66;VS Luční 66;Žabovřesky;49.2151492;16.5759550;222.3;HV;VsLu66MT;Měření Luční 66
+Luční 68;VS Luční 68;Žabovřesky;49.2149106;16.5757478;221.6;HV;VLu68STR;Strojovna Luční 68
+Luční 68;VS Luční 68;Žabovřesky;49.2149106;16.5757478;221.6;HV;VsLu68MT;Měření Luční 68
+Malinovského náměstí 2;VS Malinovsk.nám.2;Střed;49.1942492;16.6067142;224.3;HV;VS__Magi;VS Magis.Malin.n
+Masarova 11;VS1 Masárova 11;Líšeň;49.2051661;16.6754614;287.4;HV;VS1MaKOT;Kotle VS1 Masárova
+Masarova 11;VS1 Masárova 11;Líšeň;49.2051661;16.6754614;287.4;HV;VS1MaSTR;Stroj. VS1 Masárova
+Masarova 11;VS1 Masárova 11;Líšeň;49.2051661;16.6754614;287.4;HV;VS1MaMT;Měření VS1 Masárova
+Masarova 11;VS1 Masárova 11;Líšeň;49.2051661;16.6754614;287.4;HV;VSMasPS1;PDS Synkova 2-16
+Masarova 11;VS1 Masárova 11;Líšeň;49.2051661;16.6754614;287.4;HV;VSMasPS2;PDS Masarova 1-7
+Masarova 11;VS1 Masárova 11;Líšeň;49.2051661;16.6754614;287.4;HV;VSMasPS3;PDS Houbalova 1-11
+Masarova 11;VS1 Masárova 11;Líšeň;49.2051661;16.6754614;287.4;HV;MasPS1MT;Měření Synkova 2-16
+Masarova 11;VS1 Masárova 11;Líšeň;49.2051661;16.6754614;287.4;HV;MasPS2MT;Měření Masarova 1-7
+Masarova 11;VS1 Masárova 11;Líšeň;49.2051661;16.6754614;287.4;HV;MasPS3MT;Měření Houbalova 1-11
+Masarykova 19;VS Masarykova 19;Střed;49.1929078;16.6102244;221.8;HV;Mas19STR;Stroj. Masarykova 19
+Masarykova 37;MT Brno Město;Střed;49.1914114;16.6111511;215.6;HV;MT1BrM31;MT Masaryk,Josefská
+Masarykova 37;MT Brno Město;Střed;49.1914114;16.6111511;215.6;HV;MT2BrM31;MT Zelny Trh,Radnická
+Masarykova 37;MT Brno Město;Střed;49.1914114;16.6111511;215.6;HV;MT3BrM31;MT Janská
+Masarykova 9;VS Masarykova 9;Střed;49.1935514;16.6097156;226.7;HV;Mas09STR;Stroj. Masarykova 9
+Merhautova 222;PK Merhautov.222a;Černá Pole;49.2182519;16.6193972;249.9;HV;PKMerKOT;PK Merhautova kotelna
+Merhautova 222;PK Merhautov.222a;Černá Pole;49.2182519;16.6193972;249.9;HV;PKMerSTR;PK Merhautova strojovna
+Mikulčická 18;PK8 Mikulčická 18;Slatina;49.1804358;16.6909922;275.2;PK;PK8MiKOT;PK8 Mikulčická kotle
+Mikulčická 18;PK8 Mikulčická 18;Slatina;49.1804358;16.6909922;275.2;PK;PK8MiSTR;PK8 Mikulčická strojovna
+Mikulovská 2a;VSV01 Mikulovsk.2a;Vinohrady;49.2054556;16.6639481;286.9;HV;V01MiKOT;Kotle VO1 Mikulovská
+Mikulovská 2a;VSV01 Mikulovsk.2a;Vinohrady;49.2054556;16.6639481;286.9;HV;V01MiSTR;Stroj. VO1 Mikulovská
+Mikulovská 2a;VSV01 Mikulovsk.2a;Vinohrady;49.2054556;16.6639481;286.9;HV;V01MiMT;Měření VO1 Mikulovská
+Milénova 14;VS ZŠ Milénova 14;Lesná;49.2264528;16.6252517;278.8;HV;ZSMileno;ZS Milenova
+Moldavská 3a;PK6 Moldavská;Bohunice;49.1687661;16.5850986;254.7;PK;K6MolKot;Kotle K6 Moldavsk
+Moldavská 3a;PK6 Moldavská;Bohunice;49.1687661;16.5850986;254.7;PK;K6MolStr;Strojovna K6 Moldavsk
+Mozolky 48;VS Mozolky 48;Žabovřesky;49.2158964;16.5759903;224.0;HV;VMo48STR;Strojovna Mozolky 48
+Mozolky 48;VS Mozolky 48;Žabovřesky;49.2158964;16.5759903;224.0;HV;VsMo48MT;Měření Mozolky 48
+Mozolky 49;VS Mozolky 49;Žabovřesky;49.2160672;16.5750894;222.3;HV;VMo49STR;Strojovna Mozolky 49
+Mozolky 49;VS Mozolky 49;Žabovřesky;49.2160672;16.5750894;222.3;HV;VsMo49MT;Měření Mozolky 49
+Mozolky 50;VS Mozolky 50;Žabovřesky;49.2160939;16.5758292;224.1;HV;VMo50STR;Strojovna Mozolky 50
+Mozolky 50;VS Mozolky 50;Žabovřesky;49.2160939;16.5758292;224.1;HV;VsMo50MT;Měření Mozolky 50
+Mozolky 51;VS Mozolky 51;Žabovřesky;49.2162683;16.5752519;224.0;HV;VMo51STR;Strojovna Mozolky 51
+Mozolky 51;VS Mozolky 51;Žabovřesky;49.2162683;16.5752519;224.0;HV;VsMo51MT;Měření Mozolky 51
+Mozolky 52;VS Mozol.52 POS5;Žabovřesky;49.2164467;16.5760347;226.1;HV;VMo52STR;Strojovna Mozolky 52
+Mozolky 52;VS Mozol.52 POS5;Žabovřesky;49.2164467;16.5760347;226.1;HV;VsMo52MT;Měření Mozolky 52
+Mozolky 53;VS Mozolky 53;Žabovřesky;49.2165183;16.5754578;225.7;HV;VMo53STR;Strojovna Mozolky 53
+Mozolky 53;VS Mozolky 53;Žabovřesky;49.2165183;16.5754578;225.7;HV;VsMo53MT;Měření Mozolky 53
+Mozolky 55;VS Mozolky 55;Žabovřesky;49.2167097;16.5752931;226.8;HV;VMo55STR;Strojovna Mozolky 55
+Mozolky 55;VS Mozolky 55;Žabovřesky;49.2167097;16.5752931;226.8;HV;VsMo55MT;Měření Mozolky 55
+Mozolky 57;VS Mozolky 57;Žabovřesky;49.2169081;16.5754628;228.4;HV;VMo57STR;Strojovna Mozolky 57
+Mozolky 57;VS Mozolky 57;Žabovřesky;49.2169081;16.5754628;228.4;HV;VsMo57MT;Měření Mozolky 57
+Mozolky 59;VS Mozolky 59;Žabovřesky;49.2171708;16.5752897;229.7;HV;VMo59STR;Strojovna Mozolky 59
+Mozolky 59;VS Mozolky 59;Žabovřesky;49.2171708;16.5752897;229.7;HV;VsMo59MT;Měření Mozolky 59
+Mozolky 61;VS Mozolky 61;Žabovřesky;49.2173608;16.5754644;231.3;HV;VMo61STR;Strojovna Mozolky 61
+Mozolky 61;VS Mozolky 61;Žabovřesky;49.2173608;16.5754644;231.3;HV;VsMo61MT;Měření Mozolky 61
+Nadační 1;KM 8 Nadační 1;Medlánky;49.2453928;16.5704050;263.3;PK;KM8NaSTR;KM 8 Nadační 1
+Nadační 2;KM 10 Nadační 2;Medlánky;49.2444925;16.5709364;258.3;PK;KM10NSTR;KM 10 Nadační 2
+Nadační 3;KM 7 Nadační 3;Medlánky;49.2456725;16.5707903;266.0;PK;KM7NaSTR;KM 7 Nadační 3
+Nadační 5;KM A Nadační 5,7,9;Medlánky;49.2417275;16.5812442;266.9;PK;KMANaSTR;KM A Nadační 5
+Nadační 5;KM A Nadační 5,7,9;Medlánky;49.2417275;16.5812442;266.9;PK;KMANaMT;Měření KM A Nadační 5
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;HO16SKOT;VS SNP Kotelna
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;HO16SSTR;VS SNP Strojovna
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;HO16SMT;VS SNP měření
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;PdSNP_01;Předávací.st. SNP 1-2
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;PdSNP_04;Předávací.st. SNP 4-5
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;PdSNP_20;Předávací.st. SNP 20
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;PdSNP_23;Předávací.st. SNP 23
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;PdSNP_27;Předávací.st. SNP 27
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;PdSNP_30;Předávací.st. SNP 30 RP
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;PdJan_07;PDS Janouškova 1-11
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;PdSkolka;PDS Janouš.Mš+SNP 25a
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;Pd_Jesle;PDS Janou.Jesle+Fůgne.39
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;Pd_Polik;PDS Janou.P
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;Pd__TEZA;
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;SNP_01MT;
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;SNP_04MT;
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;SNP_20MT;
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;SNP_23MT;
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;SNP_27MT;
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;SNP_30MT;
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;Jan_07MT;
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;SkolkaMT;
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;Jesle_MT;
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;Polik_MT;
+náměstí SNP 18a;VSHO16 nám.SNP 16;Černá Pole;49.2162606;16.6160975;249.0;HV;TEZA__MT;
+náměstí Svornosti 1;VS n.Svornosti 1;Žabovřesky;49.2139703;16.5816739;237.4;HV;VsNS1STR;Strojovna n.Svornosti 1
+náměstí Svornosti 1;VS n.Svornosti 1;Žabovřesky;49.2139703;16.5816739;237.4;HV;VsNS1MT;Měření n.Svornosti 1
+náměstí Svornosti 2;VS n.Svornosti 2;Žabovřesky;49.2141606;16.5818406;238.5;HV;VsNS2STR;Strojovna n.Svornosti 2
+náměstí Svornosti 2;VS n.Svornosti 2;Žabovřesky;49.2141606;16.5818406;238.5;HV;VsNS2MT;Měření n.Svornosti 2
+náměstí Svornosti 3;VS n.Svornosti 3;Žabovřesky;49.2143625;16.5816767;238.5;HV;VsNS3STR;Strojovna n.Svornosti 3
+náměstí Svornosti 3;VS n.Svornosti 3;Žabovřesky;49.2143625;16.5816767;238.5;HV;VsNS3MT;Měření n.Svornosti 3
+náměstí Svornosti 4;VS n.Svornosti 4;Žabovřesky;49.2145556;16.5818397;239.7;HV;VsNS4STR;Strojovna n.Svornosti 4
+náměstí Svornosti 4;VS n.Svornosti 4;Žabovřesky;49.2145556;16.5818397;239.7;HV;VsNS4MT;Měření n.Svornosti 4
+náměstí Svornosti 5;VS n.Svornosti 5;Žabovřesky;49.2147539;16.5820028;240.6;HV;VsNS5STR;Strojovna n.Svornosti 5
+náměstí Svornosti 5;VS n.Svornosti 5;Žabovřesky;49.2147539;16.5820028;240.6;HV;VsNS5MT;Měření n.Svornosti 5
+Nejedlého 13;MŠ Nejedlého 13;Lesná;49.2283358;16.6290667;297.3;HV;MNe13STR;Strojovna MŠ Nejedlého13
+Nejedlého 13;MŠ Nejedlého 13;Lesná;49.2283358;16.6290667;297.3;HV;MsNe13MT;Měření MŠ Nejedlého 13
+Nejedlého 28;VS Nejedlého 28 ;Lesná;49.2297206;16.6283381;298.2;HV;VNe28STR;Strojovna Nejedlého 28
+Nejedlého 28;VS Nejedlého 28 ;Lesná;49.2297206;16.6283381;298.2;HV;VsNe28MT;Měření Nejedlého 28
+Nejedlého 34;VS Nejedlého 34 ;Lesná;49.2295744;16.6299819;301.2;HV;VNe34STR;Strojovna Nejedlého 34
+Nejedlého 34;VS Nejedlého 34 ;Lesná;49.2295744;16.6299819;301.2;HV;VsNe34MT;Měření Nejedlého 34
+Nejedlého 5;HO4 Nejedlého 5;Lesná;49.2263028;16.6268083;279.9;HV;HO4NeKOT;Kotle HO4 Nejedlého
+Nejedlého 5;HO4 Nejedlého 5;Lesná;49.2263028;16.6268083;279.9;HV;HO4NeSTR;Stroj. HO4 Nejedlého
+Nejedlého 5;HO4 Nejedlého 5;Lesná;49.2263028;16.6268083;279.9;HV;HO4NeMT;Měření HO4 Nejedlého
+Nejedlého 5;HO4 Nejedlého 5;Lesná;49.2263028;16.6268083;279.9;HV;HO4NePS1;PDS Nejedlého 4-22
+Nejedlého 5;HO4 Nejedlého 5;Lesná;49.2263028;16.6268083;279.9;HV;HO4NePS2;PDS Nejedlého 3TK,10
+Nejedlého 5;HO4 Nejedlého 5;Lesná;49.2263028;16.6268083;279.9;HV;NePS1MT;Měření Nejedlého 4-22
+Nejedlého 5;HO4 Nejedlého 5;Lesná;49.2263028;16.6268083;279.9;HV;NePS2MT;Měření Nejedlého 3TK,10
+Neužilova 6a;PK K22 Neužilova;Bohunice;49.1698494;16.5778178;253.7;PK;K22NeKOT;Kotle K22 Neužilova
+Neužilova 6a;PK K22 Neužilova;Bohunice;49.1698494;16.5778178;253.7;PK;K22NeSTR;Strojovna K22 Neužilova
+Novolíšeňská;VS10 Novolíšeňs.5;Líšeň;49.2073936;16.6841547;338.4;HV;V10HuKOT;Kotle VS10 Hubrova
+Novolíšeňská;VS10 Novolíšeňs.5;Líšeň;49.2073936;16.6841547;338.4;HV;V10HuSTR;Stroj. VS10 Hubrova
+Novolíšeňská;VS10 Novolíšeňs.5;Líšeň;49.2073936;16.6841547;338.4;HV;V10HuMT;MT VS10 Hubrova
+Novolíšeňská;VS10 Novolíšeňs.5;Líšeň;49.2073936;16.6841547;338.4;HV;V10HuPS1;Bartákov.7,9 Hájkova 5,7
+Novolíšeňská;VS10 Novolíšeňs.5;Líšeň;49.2073936;16.6841547;338.4;HV;V10HuPS2;Hub.3,5 Kou.Ševe.Micha.1
+Novolíšeňská;VS10 Novolíšeňs.5;Líšeň;49.2073936;16.6841547;338.4;HV;HuPS1MT;Bartákov.7,9 Hájkova 5,7
+Novolíšeňská;VS10 Novolíšeňs.5;Líšeň;49.2073936;16.6841547;338.4;HV;HuPS2MT;Hub.3,5 Kou.Ševe.Micha.1
+Novoměstská 5a;PKKR1 Novoměstská;Řečkovice;49.2237097;16.5785839;282.8;PK;K1NovKOT;Kotle KR1 Novoměstská
+Novoměstská 5a;PKKR1 Novoměstská;Řečkovice;49.2237097;16.5785839;282.8;PK;K1NovSTR;Strojov. KR1 Novoměstská
+Oderská 1a;PK K3 Oderská;Lískovec;49.1695461;16.5605467;254.3;PK;K3OdeKOT;Kotelna K3 Oderská
+Oderská 1a;PK K3 Oderská;Lískovec;49.1695461;16.5605467;254.3;PK;K3OdeSTR;Strojovna K3 Oderská
+Okrouhlá 10a;PK 13 Okrouhlá;Bohunice;49.1698683;16.5702272;265.9;PK;K13OkKOT;Kotle K13 Okrouhl
+Okrouhlá 10a;PK 13 Okrouhlá;Bohunice;49.1698683;16.5702272;265.9;PK;K13OkSTR;Strojovna K13 Okrouhl
+Okrouhlá 1a;PK 14 Okrouhlá;Bohunice;49.1703089;16.5725364;271.1;PK;K14OkKOT;Kotle K14 Okrouhl
+Okrouhlá 1a;PK 14 Okrouhlá;Bohunice;49.1703089;16.5725364;271.1;PK;K14OkSTR;Strojovna K14 Okrouhl
+Okrouhlá 7a;PK 15 Okrouhlá;Bohunice;49.1714469;16.5727700;274.0;PK;K15OkKOT;Kotle K15 Okrouhl
+Okrouhlá 7a;PK 15 Okrouhlá;Bohunice;49.1714469;16.5727700;274.0;PK;K15OkSTR;Strojovna K15 Okrouhl
+Okrouhlá 30a;PK 16 Okrouhlá;Bohunice;49.1722833;16.5733883;275.0;PK;K16OkKOT;Kotle K16 Okrouhl
+Okrouhlá 30a;PK 16 Okrouhlá;Bohunice;49.1722833;16.5733883;275.0;PK;K16OkSTR;Strojovna K16 Okrouhl
+Okrouhlá 30a;PK 16 Okrouhlá;Bohunice;49.1722833;16.5733883;275.0;PK;PdsOkr30;Pds Okrouhl  30
+Okrouhlá 30a;PK 16 Okrouhlá;Bohunice;49.1722833;16.5733883;275.0;PK;PdsNem23;Pds Pod Nemocnicí 23
+Okrouhlá 30a;PK 16 Okrouhlá;Bohunice;49.1722833;16.5733883;275.0;PK;O16PS1MT;PodN13,15,17,19,23
+Olbrachtovo náměstí 10a;PKK11 Olbra.n.10a;Komín;49.2248106;16.5569564;243.9;PK;K11OlKOT;Kotel.K11 Olbrachtovo n.
+Olbrachtovo náměstí 10a;PKK11 Olbra.n.10a;Komín;49.2248106;16.5569564;243.9;PK;K11OlSTR;Stroj.K11 Olbrachtovo n.
+Ondrouškova 1a;PKKB1 Ondrouško.1a;Bystrc;49.2182031;16.5169719;292.0;PK;K1OndKOT;Kotle KB1 Ondrouškova
+Ondrouškova 1a;PKKB1 Ondrouško.1a;Bystrc;49.2182031;16.5169719;292.0;PK;K1OndSTR;Stroj. KB1 Ondrouškova
+Opálkova 6a;PK6 Opálkova 6a;Bystrc;49.2205358;16.5301664;246.2;PK;K6OpaKOT;Kotle PK6 Opalkova
+Opálkova 6a;PK6 Opálkova 6a;Bystrc;49.2205358;16.5301664;246.2;PK;K6OpaSTR;Strojovna PK6 Opalkova
+Opálkova 6a;PK6 Opálkova 6a;Bystrc;49.2205358;16.5301664;246.2;PK;K6Opa_MT;Měření PK6 Opalkova
+Orlí 30;VS Orlí 30;Střed;49.1943214;16.6134303;208.9;HV;Orl30STR;Stroj. Orli 30
+Osová 12;PK 10 Osová;Lískovec;49.1700194;16.5678781;268.5;PK;K10OsKOT;Kotle K10 Osová
+Osová 12;PK 10 Osová;Lískovec;49.1700194;16.5678781;268.5;PK;K10OsSTR;Strojovna K10 Osová
+Palackého třída 164;VSOC2 Palackého t.;Královo Pole;49.2323047;16.5900253;236.4;HV;OC2PaKOT;Kotle OC2 Palackého
+Palackého třída 164;VSOC2 Palackého t.;Královo Pole;49.2323047;16.5900253;236.4;HV;OC2PaStr;Strojovna OC2 Palackého
+Palackého třída 164;VSOC2 Palackého t.;Královo Pole;49.2323047;16.5900253;236.4;HV;OC2PaMT;Měření OC2 Palackého
+Palackého třída 164;VSOC2 Palackého t.;Královo Pole;49.2323047;16.5900253;236.4;HV;OC2PaPS1;Tyl.5,7,9 Pal.n.166,168
+Palackého třída 164;VSOC2 Palackého t.;Královo Pole;49.2323047;16.5900253;236.4;HV;PaPS1MT;Tyl.5,7,9 Pal.n.166,168
+Pálavské náměstí OC-2;OC2 Palavské nám.;Vinohrady;49.2090572;16.6612261;298.9;HV;OcPaNSTR;Stroj. OC2 Palavské nám.
+Pálavské náměstí OC-2;OC2 Palavské nám.;Vinohrady;49.2090572;16.6612261;298.9;HV;OcPaNMT;Měření OC2 Palavské nám.
+Pastviny 3a;PKK2 Pastviny 3a;Komín;49.2192497;16.5595800;219.4;PK;K2PasKOT;Kotle K2 Pastviny
+Pastviny 3a;PKK2 Pastviny 3a;Komín;49.2192497;16.5595800;219.4;PK;K2PasSTR;Stroj. K2 Pastviny
+Pastviny 3a;PKK2 Pastviny 3a;Komín;49.2192497;16.5595800;219.4;PK;K2PasPS1;Pas.1,3 Ab.2,4,6,8,10,12
+Pastviny 3a;PKK2 Pastviny 3a;Komín;49.2192497;16.5595800;219.4;PK;K2PasMT;Pas.1,3 Ab.2,4,6,8,10,12
+Pavlovská 5a;PK K5/1 Pavlovská;Kohoutovice;49.1892192;16.5303883;399.8;PK;K5PavKOT;Kotle K5/1 Pavlovská
+Pavlovská 5a;PK K5/1 Pavlovská;Kohoutovice;49.1892192;16.5303883;399.8;PK;K5PavSTR;Strojovna K5/1 Pavlovská
+Pavlovská 5a;PK K5/1 Pavlovská;Kohoutovice;49.1892192;16.5303883;399.8;PK;PDSPav10;PDS Pavlovska 10
+Pavlovská 5a;PK K5/1 Pavlovská;Kohoutovice;49.1892192;16.5303883;399.8;PK;PDSPav12;PDS Pavlovska 12
+Pavlovská 5a;PK K5/1 Pavlovská;Kohoutovice;49.1892192;16.5303883;399.8;PK;PDSPav18;PDS Pavlovska 18
+Pavlovská 5a;PK K5/1 Pavlovská;Kohoutovice;49.1892192;16.5303883;399.8;PK;PDSPav20;PDS Pavlovska 20
+Pavlovská 5a;PK K5/1 Pavlovská;Kohoutovice;49.1892192;16.5303883;399.8;PK;K5PavMT;Měření K5 Pavlovská
+Pavlovská 5a;PK K5/1 Pavlovská;Kohoutovice;49.1892192;16.5303883;399.8;PK;Pavl01MT;Měření Pavlovská liché
+Pavlovská 5a;PK K5/1 Pavlovská;Kohoutovice;49.1892192;16.5303883;399.8;PK;Pavl02MT;Měření Pavlovská sudé
+Pěkná 44a;PKA Pěkná 44a;Chrlice;49.1301158;16.6539494;200.0;PK;A_PekKOT;A Pěkná kotle
+Pěkná 44a;PKA Pěkná 44a;Chrlice;49.1301158;16.6539494;200.0;PK;A_PekSTR;Strojovna A Pěkná
+Pěkná 44a;PKA Pěkná 44a;Chrlice;49.1301158;16.6539494;200.0;PK;A_PekMT;Měření A Pěkná
+Plevova 1;VS Plevova 13;Žabovřesky;49.2214211;16.5698369;263.8;HV;VPl13STR;Strojovna Plevova 13
+Plevova 1;VS Plevova 13;Žabovřesky;49.2214211;16.5698369;263.8;HV;VPl13MT;Měření Plevova 13
+Plevova 3;VS Plevova 3;Žabovřesky;49.2201867;16.5692842;260.3;HV;VPle3STR;Strojovna Plevova 3
+Plevova 3;VS Plevova 3;Žabovřesky;49.2201867;16.5692842;260.3;HV;VPle3MT;Měření Plevova 3
+Plevova 5;VS Plevova5+7,9;Žabovřesky;49.2204753;16.5694414;259.8;HV;VPle5STR;Strojovna Plevova5+7,9
+Plevova 5;VS Plevova5+7,9;Žabovřesky;49.2204753;16.5694414;259.8;HV;VPle5MT;Měření Plevova5+7,9
+Plovdivská 1;VS Plovdivská 1;Žabovřesky;49.2187978;16.5815144;252.7;HV;VsPl1STR;Strojovna Plovdivská 1
+Plovdivská 1;VS Plovdivská 1;Žabovřesky;49.2187978;16.5815144;252.7;HV;VsPl1MT;Měření Plovdivská 1
+Plovdivská 2;VS Plovdivská 2;Žabovřesky;49.2186333;16.5805581;250.0;HV;VsPl2STR;Strojovna Plovdivská 2
+Plovdivská 2;VS Plovdivská 2;Žabovřesky;49.2186333;16.5805581;250.0;HV;VsPl2MT;Měření Plovdivská 2
+Plovdivská 3;VS Plovdivská 3;Žabovřesky;49.2184350;16.5815100;251.4;HV;VsPl3STR;Strojovna Plovdivská 3
+Plovdivská 3;VS Plovdivská 3;Žabovřesky;49.2184350;16.5815100;251.4;HV;VsPl3MT;Měření Plovdivská 3
+Plovdivská 4;VS Plovdivská 4;Žabovřesky;49.2184358;16.5807242;248.9;HV;VsPl4STR;Strojovna Plovdivská 4
+Plovdivská 4;VS Plovdivská 4;Žabovřesky;49.2184358;16.5807242;248.9;HV;VsPl4MT;Měření Plovdivská 4
+Plovdivská 5;VS Plovdivská 5;Žabovřesky;49.2182386;16.5816797;251.4;HV;VsPl5STR;Strojovna Plovdivská 5
+Plovdivská 5;VS Plovdivská 5;Žabovřesky;49.2182386;16.5816797;251.4;HV;VsPl5MT;Měření Plovdivská 5
+Plovdivská 6;MŠ Plovdivská 6;Žabovřesky;49.2179464;16.5806233;245.8;HV;MsPl6STR;Stroj. MŠ Plovdivská 6
+Plovdivská 6;MŠ Plovdivská 6;Žabovřesky;49.2179464;16.5806233;245.8;HV;MsPl6MT;Měření MŠ Plovdivská 6
+Plovdivská 7;VS Plovdivská 7;Žabovřesky;49.2178964;16.5814328;249.3;HV;VsPl7STR;Strojovna Plovdivská 7
+Plovdivská 7;VS Plovdivská 7;Žabovřesky;49.2178964;16.5814328;249.3;HV;VsPl7MT;Měření Plovdivská 7
+Polívkova 12;PKKR10 Polívkov.12;Řečkovice;49.2432561;16.5781006;282.0;PK;K10PoKOT;Kotle KR10 Polívkova
+Polívkova 12;PKKR10 Polívkov.12;Řečkovice;49.2432561;16.5781006;282.0;PK;K10PoSTR;Strojovna KR10 Polívkova
+Polívkova 12;PKKR10 Polívkov.12;Řečkovice;49.2432561;16.5781006;282.0;PK;K10PoMT;Měření KR10 Polívkova
+Polívkova 12;PKKR10 Polívkov.12;Řečkovice;49.2432561;16.5781006;282.0;PK;K10PoPS1;Hrušk,Brosk,Suzova,Poliv
+Polívkova 12;PKKR10 Polívkov.12;Řečkovice;49.2432561;16.5781006;282.0;PK;PoPS1MT;Měření Hruškova,Broskvoň
+Polívkova 12;PKKR10 Polívkov.12;Řečkovice;49.2432561;16.5781006;282.0;PK;PoPS2MT;Měření Polívkova,Suzova
+Polní 13-19;VS Polní 13-19;Štýřice;49.1841533;16.5990581;203.0;HV;VSP13STR;Strojovna Polní 13-19
+Polní 13-19;VS Polní 13-19;Štýřice;49.1841533;16.5990581;203.0;HV;VSP13MT;Měření Polní 13-19
+Poříčí 41;VS Poříčí 41;Staré Brno;49.1856506;16.6004414;201.8;PV;VSPorKOT;Ohřívače VS Porici 41
+Poříčí 41;VS Poříčí 41;Staré Brno;49.1856506;16.6004414;201.8;PV;VSPorSTR;Strojovna VS Porici 41
+Poříčí 41;VS Poříčí 41;Staré Brno;49.1856506;16.6004414;201.8;PV;VSPorMT;Měření VS Porici 41
+Poštovská 3/5;VS Poštovská 3/5;Střed;49.1947794;16.6103747;223.8;HV;Pos_3STR;Stroj. Postovská 3
+Poznaňská 1;VS Poznaňská 18;Žabovřesky;49.2176367;16.5790533;239.9;HV;VPo18STR;Strojovna Poznaňská 18
+Poznaňská 1;VS Poznaňská 18;Žabovřesky;49.2176367;16.5790533;239.9;HV;VsPo18MT;Měření Poznaňská 18
+Poznaňská 2;VS Poznaňská 24;Žabovřesky;49.2170533;16.5793408;239.7;HV;VPo24STR;Strojovna Poznaňská 24
+Poznaňská 2;VS Poznaňská 24;Žabovřesky;49.2170533;16.5793408;239.7;HV;VsPo24MT;Měření Poznaňská 24
+Poznaňská 3;VS Poznaňská 3;Žabovřesky;49.2185894;16.5798697;246.5;HV;VPo03STR;Strojovna Poznaňská 3
+Poznaňská 3;VS Poznaňská 3;Žabovřesky;49.2185894;16.5798697;246.5;HV;VsPo03MT;Měření Poznaňská 3
+Poznaňská 4;VS Poznaňská 4;Žabovřesky;49.2189639;16.5792811;246.4;HV;VPo04STR;Strojovna Poznaňská 4
+Poznaňská 4;VS Poznaňská 4;Žabovřesky;49.2189639;16.5792811;246.4;HV;VsPo04MT;Měření Poznaňská 4
+Poznaňská 5;VS Poznaňská 5;Žabovřesky;49.2183881;16.5797014;244.9;HV;VPo05STR;Strojovna Poznaňská 5
+Poznaňská 5;VS Poznaňská 5;Žabovřesky;49.2183881;16.5797014;244.9;HV;VsPo05MT;Měření Poznaňská 5
+Poznaňská 6;VS Poznaňská 6;Žabovřesky;49.2187631;16.5791044;245.1;HV;VPo06STR;Strojovna Poznaňská 6
+Poznaňská 6;VS Poznaňská 6;Žabovřesky;49.2187631;16.5791044;245.1;HV;VsPo06MT;Měření Poznaňská 6
+Poznaňská 7;VS Poznaňská 7;Žabovřesky;49.2181928;16.5798750;244.9;HV;VPo07STR;Strojovna Poznaňská 7
+Poznaňská 7;VS Poznaňská 7;Žabovřesky;49.2181928;16.5798750;244.9;HV;VsPo07MT;Měření Poznaňská 7
+Poznaňská 8;VS Poznaňská 8;Žabovřesky;49.2185617;16.5789461;243.6;HV;VPo08STR;Strojovna Poznaňská 8
+Poznaňská 8;VS Poznaňská 8;Žabovřesky;49.2185617;16.5789461;243.6;HV;VsPo08MT;Měření Poznaňská 8
+Poznaňská 9;VS Poznaňská 9;Žabovřesky;49.2180011;16.5797092;244.0;HV;VPo09STR;Strojovna Poznaňská 9
+Poznaňská 9;VS Poznaňská 9;Žabovřesky;49.2180011;16.5797092;244.0;HV;VsPo09MT;Měření Poznaňská 9
+Pražákova 69;VS AZ tower;Štýřice;49.175885;16.605527;200.8;HV;VSAZ1STR;Str.AZ-VS1 STII+STIII
+Pražákova 69;VS AZ tower;Štýřice;49.175885;16.605527;200.8;HV;VSAZ2STR;Str.AZ-VS2 STI+NADRZ
+Pražákova 69;VS AZ tower;Štýřice;49.175885;16.605527;200.8;HV;VSAZ3STR;Str.AZ-VS3 TVproVZT
+Pražákova 69;VS AZ tower;Štýřice;49.175885;16.605527;200.8;HV;VSAZ__MT;Mereni AZ
+Prostějovská 20;PK7 Prostějovs.20;Slatina;49.1809825;16.6897094;279.8;PK;PK7PrKOT;PK7 Prostě. kotle
+Prostějovská 20;PK7 Prostějovs.20;Slatina;49.1809825;16.6897094;279.8;PK;PK7PrSTR;PK7 Prostě. strojovna
+Prostějovská 20;PK7 Prostějovs.20;Slatina;49.1809825;16.6897094;279.8;PK;PK7PrVZT;PK7 Prostě. VZT
+Provazníkova 46;PK Provazníkov.46;Černá Pole;49.2164903;16.6286594;242.4;HV;PKPrvKOT;PK Provazníkova 46 kot.
+Provazníkova 46;PK Provazníkov.46;Černá Pole;49.2164903;16.6286594;242.4;HV;PKPrvSTR;PK Provazníkova 46 Str.
+Pšeník 1;VS MŠ Pšeník 18;Štýřice;49.1730872;16.5952856;225.1;HV;VSP18STR;Stroj. MŠ Pšeník 28
+Pšeník 1;VS MŠ Pšeník 18;Štýřice;49.1730872;16.5952856;225.1;HV;VSP18MT;Měření MŠ Pšeník 28
+Pšeník 9;VS Pšeník 9;Štýřice;49.1732503;16.5958378;221.6;HV;VSPs9STR;Stroj. Pšeník 9 pro 3-13
+Pšeník 9;VS Pšeník 9;Štýřice;49.1732503;16.5958378;221.6;HV;VSPs9MT;Měření Pšeník 9 pro 3-13
+Puchýřova 13;VS13 Puchýřova 4;Líšeň;49.2040003;16.6848069;320.5;HV;V13PuKOT;Kotle VS13 Puchýřova
+Radnická 1;VS Radnická 11;Střed;49.1929308;16.6090383;225.6;HV;Rad11STR;Stroj. Radnická 11
+Renčova 17a;PKV3 Renčova 17a;Řečkovice;49.2483239;16.5747011;304.4;PK;V3RenKOT;Kotle V3 Renčova
+Renčova 17a;PKV3 Renčova 17a;Řečkovice;49.2483239;16.5747011;304.4;PK;V3RenSTR;Strojovna V3 Renčova
+Renčova 18a;PKV1 Renčova 18a;Řečkovice;49.2429258;16.5863528;250.2;PK;V1RenKOT;Kotle V1 Renčova
+Renčova 18a;PKV1 Renčova 18a;Řečkovice;49.2429258;16.5863528;250.2;PK;V1RenSTR;Strojovna V1 Renčova
+Renčova 18a;PKV1 Renčova 18a;Řečkovice;49.2429258;16.5863528;250.2;PK;V1RenPS1;PDS Renčova DSP
+Renčova 18a;PKV1 Renčova 18a;Řečkovice;49.2429258;16.5863528;250.2;PK;Re1PS1MT;Měření Renčova DSP
+Renčova 32a;PKV2 Renčova 32a;Řečkovice;49.2466886;16.5756956;296.7;PK;V2RenKOT;Kotle V2 Renčova
+Renčova 32a;PKV2 Renčova 32a;Řečkovice;49.2466886;16.5756956;296.7;PK;V2RenSTR;Strojovna V2 Renčova
+Renčova 32a;PKV2 Renčova 32a;Řečkovice;49.2466886;16.5756956;296.7;PK;V2RenMT;Měření V2 Renčova
+Renčova 32a;PKV2 Renčova 32a;Řečkovice;49.2466886;16.5756956;296.7;PK;V2RenPS1;PDS Renčova 28-36
+Renčova 32a;PKV2 Renčova 32a;Řečkovice;49.2466886;16.5756956;296.7;PK;Re2PS1MT;Měření Renčova 28-36
+Renneská třída 38;VS Renneská 38;Štýřice;49.1804814;16.5984561;208.5;HV;VSR38KOT;Ohřívače VS Renneská
+Renneská třída 38;VS Renneská 38;Štýřice;49.1804814;16.5984561;208.5;HV;VSR38STR;Strojovna VS Renneská
+Renneská třída 44;VS Renneská 44;Štýřice;49.1802433;16.5981447;209.0;HV;VSR44KOT;Ohřívače VS Renneská
+Renneská třída 44;VS Renneská 44;Štýřice;49.1802433;16.5981447;209.0;HV;VSR44STR;Strojovna VS Renneská
+Renneská třída 45;VS Renneská 45;Štýřice;49.1780306;16.5977489;209.8;HV;VSRenSTR;Strojovna VS Renneská
+Renneská třída 45;VS Renneská 45;Štýřice;49.1780306;16.5977489;209.8;HV;VSRenMT;Měření VS Renneská
+Renneská třída 45;VS Renneská 45;Štýřice;49.1780306;16.5977489;209.8;HV;VSRenPS1;PDS Renn.39,Vsetin.14
+Renneská třída 45;VS Renneská 45;Štýřice;49.1780306;16.5977489;209.8;HV;RenPS1MT;Měření Renn.39,Vsetin.14
+Renneská třída 48;VS Renneská 48;Štýřice;49.1797139;16.5976522;210.8;HV;VSR48KOT;Ohřívače VS Renneská
+Renneská třída 48;VS Renneská 48;Štýřice;49.1797139;16.5976522;210.8;HV;VSR48STR;Strojovna VS Renneská
+Richtrova 5a;PK K2 Richtrova;Kohoutovice;49.1954253;16.5414228;346.5;PK;K2RicKOT;Kotle K2 Richterova
+Richtrova 5a;PK K2 Richtrova;Kohoutovice;49.1954253;16.5414228;346.5;PK;K2RicSTR;Strojovna K2 Richterova
+Rolnická 1a;PK K24 Rolnická;Bohunice;49.1659572;16.5782283;235.5;PK;K24RoKOT;Kotle K24 Rolnická
+Rolnická 1a;PK K24 Rolnická;Bohunice;49.1659572;16.5782283;235.5;PK;K24RoSTR;TUV K24 Rolnická
+Řezáčova 58a;PK Experiment;Komín;49.2261092;16.5571417;249.8;PK;ExperKOT;Kotle Experiment
+Řezáčova 58a;PK Experiment;Komín;49.2261092;16.5571417;249.8;PK;ExperSTR;Strojovna Experiment
+Řezáčova 58a;PK Experiment;Komín;49.2261092;16.5571417;249.8;PK;ExperMT;Měření Řezáčova 58,62
+Řezáčova 24a;PKK7 Řezáčova 24a;Komín;49.2246850;16.5597264;241.7;PK;K7RezKOT;Kotle K7 Řezáčova
+Řezáčova 24a;PKK7 Řezáčova 24a;Komín;49.2246850;16.5597264;241.7;PK;K7RezSTR;Strojovna K7 Řezáčova
+Řezáčova 24a;PKK7 Řezáčova 24a;Komín;49.2246850;16.5597264;241.7;PK;K7RezMT;Měření K7 Řezáčova
+Řezáčova 24a;PKK7 Řezáčova 24a;Komín;49.2246850;16.5597264;241.7;PK;K7RezPS1;PDS Řezá.2,6,10,14,18,22
+Řezáčova 24a;PKK7 Řezáčova 24a;Komín;49.2246850;16.5597264;241.7;PK;RezPS1MT;Měř.Řezá.2,6,10,14,18,22
+Řezáčova 56a;PKK8 Řezáčova 56a;Komín;49.2258903;16.5584364;245.7;PK;K8RezKOT;Kotle K8 Řezáčova
+Řezáčova 56a;PKK8 Řezáčova 56a;Komín;49.2258903;16.5584364;245.7;PK;K8RezSTR;Strojovna K8 Řezáčova
+Řezáčova 56a;PKK8 Řezáčova 56a;Komín;49.2258903;16.5584364;245.7;PK;K8RezPS1;PDS Řezáčova 26,30,34,38
+Řezáčova 56a;PKK8 Řezáčova 56a;Komín;49.2258903;16.5584364;245.7;PK;K8RezPS2;PDS Řezáčova 42,46,50,54
+Řezáčova 56a;PKK8 Řezáčova 56a;Komín;49.2258903;16.5584364;245.7;PK;K8RezMT;Měření K8 Řezáčova
+Řezáčova 56a;PKK8 Řezáčova 56a;Komín;49.2258903;16.5584364;245.7;PK;Re8PS1MT;Měř.Řezáčova 26,30,34,38
+Řezáčova 56a;PKK8 Řezáčova 56a;Komín;49.2258903;16.5584364;245.7;PK;Re8PS2MT;Měř.Řezáčova 42,46,50,54
+Řípská;VS CTPark;Černovice;49.181837;16.656827;241.3;PV;VsCTPKot;VS CTPark Kotelna
+Řípská;VS CTPark;Černovice;49.181837;16.656827;241.3;PV;VsCTPMT;VS CTPark Měření
+Řípská;VS CTPark;Černovice;49.181837;16.656827;241.3;PV;VsRiASTR;VS Řípská 17
+Řípská;VS CTPark;Černovice;49.181837;16.656827;241.3;PV;VsRiBSTR;VS Řípská 17a
+Řípská;VS CTPark;Černovice;49.181837;16.656827;241.3;PV;VsRiCSTR;VS Řípská 19
+Řípská;VS CTPark;Černovice;49.181837;16.656827;241.3;PV;VsRiDSTR;VS Řípská 19a
+Řípská;VS CTPark;Černovice;49.181837;16.656827;241.3;PV;VsRiESTR;VS Řípská 19b
+Sabinova 1;VS Sabinova 1;Žabovřesky;49.2195894;16.5752506;242.7;HV;VsSa1STR;Strojovna Sabinova 1
+Sabinova 1;VS Sabinova 1;Žabovřesky;49.2195894;16.5752506;242.7;HV;VsSab1MT;Měření Sabinova 1
+Sabinova 2;VS Sabinova 2;Žabovřesky;49.2198297;16.5744850;244.1;HV;VsSa2STR;Strojovna Sabinova 2
+Sabinova 2;VS Sabinova 2;Žabovřesky;49.2198297;16.5744850;244.1;HV;VsSab2MT;Měření Sabinova 2
+Sabinova 4;VS Sabinova 4;Žabovřesky;49.2196333;16.5746439;242.5;HV;VsSa4STR;Strojovna Sabinova 4
+Sabinova 4;VS Sabinova 4;Žabovřesky;49.2196333;16.5746439;242.5;HV;VsSab4MT;Měření Sabinova 4
+Sabinova 6;VS Sabinova 6;Žabovřesky;49.2193781;16.5744778;240.7;HV;VsSa6STR;Strojovna Sabinova 6
+Sabinova 6;VS Sabinova 6;Žabovřesky;49.2193781;16.5744778;240.7;HV;VsSab6MT;Měření Sabinova 6
+Sedláčkova 12;PS Sedláčk. 12-34;Líšeň;49.2036181;16.6674803;273.2;HV;VSSedPSA;PS Sedláčkova 20-26
+Sedláčkova 12;PS Sedláčk. 12-34;Líšeň;49.2036181;16.6674803;273.2;HV;VSSedPSB;PS Sedláčkova 20-34
+Sedláčkova 12;PS Sedláčk. 12-34;Líšeň;49.2036181;16.6674803;273.2;HV;VSSedPSC;PS Sedláčkova 12-18
+Sedláčkova 12;PS Sedláčk. 12-34;Líšeň;49.2036181;16.6674803;273.2;HV;MTSedPSA;Měření Sedláčkova 20-26
+Sedláčkova 12;PS Sedláčk. 12-34;Líšeň;49.2036181;16.6674803;273.2;HV;MTSedPSB;Měření Sedláčkova 20-34
+Sedláčkova 12;PS Sedláčk. 12-34;Líšeň;49.2036181;16.6674803;273.2;HV;MTSedPSC;Měření Sedláčkova 12-18
+Sibiřská 60;PK Sibiřská 60;Řečkovice;49.2487244;16.5756528;302.7;PK;Sib60KOT;Kotle Sibiřská 60
+Sibiřská 60;PK Sibiřská 60;Řečkovice;49.2487244;16.5756528;302.7;PK;Sib60STR;Strojovna Sibiřská 60
+Sibiřská 62;PK Sibiřská 62;Řečkovice;49.2425847;16.5806467;271.4;PK;Sib62KOT;Kotle Sibiřská 62
+Sibiřská 62;PK Sibiřská 62;Řečkovice;49.2425847;16.5806467;271.4;PK;Sib62STR;Strojovna Sibiřská 62
+Sibiřská 64;PK Sibiřská 64;Řečkovice;49.2420811;16.5806531;271.5;PK;Sib64KOT;Kotle Sibiřská 64
+Sibiřská 64;PK Sibiřská 64;Řečkovice;49.2420811;16.5806531;271.5;PK;Sib64STR;Strojovna Sibiřská 64
+Sosnová 15b;PK F2 Sosnová 15b;Jundrov;49.2064853;16.5488158;238.2;PK;F2SosKOT;Kotle F2 Sosnova
+Sosnová 15b;PK F2 Sosnová 15b;Jundrov;49.2064853;16.5488158;238.2;PK;F2SosSTR;Strojovna  F2 Sosnova
+Šrámkova 2;HO2 Šrámkova 2;Lesná;49.2229000;16.6273000;262.0;HV;HO2SrKOT;Kotle HO2 Šrámkova
+Šrámkova 2;HO2 Šrámkova 2;Lesná;49.2229000;16.6273000;262.0;HV;HO2SrSTR;Stroj. HO2 Šrámkova
+Šromova 36a;PKC Šromova 36a;Chrlice;49.1295667;16.6521514;196.9;PK;C_SroKOT;C Šromova kotle
+Šromova 36a;PKC Šromova 36a;Chrlice;49.1295667;16.6521514;196.9;PK;C_SroSTR;Strojovna C Šromova
+Šromova 36a;PKC Šromova 36a;Chrlice;49.1295667;16.6521514;196.9;PK;C_SroMT;Měření C Šromova
+Šromova 45a;PKB Šromova 45a;Chrlice;49.1300739;16.6526347;198.0;PK;B_SroKOT;B Šromova kotle
+Šromova 45a;PKB Šromova 45a;Chrlice;49.1300739;16.6526347;198.0;PK;B_SroSTR;Strojovna B Šromova
+Šromova 45a;PKB Šromova 45a;Chrlice;49.1300739;16.6526347;198.0;PK;B_SroMT;Měření B Šromova
+Souběžná 11;VS Souběžná 11;Juliánov;49.1913711;16.6566542;243.5;HV;VSS11KOT;Výměníky VS Souběžná 11
+Souběžná 11;VS Souběžná 11;Juliánov;49.1913711;16.6566542;243.5;HV;VSS11STR;Strojovna VS Souběžná 11
+Souběžná 11;VS Souběžná 11;Juliánov;49.1913711;16.6566542;243.5;HV;VSS11MT;Měření VS Souběžná 11
+Souběžná 11;VS Souběžná 11;Juliánov;49.1913711;16.6566542;243.5;HV;VS11SPS1;PDS Soubezna+Juliano.nam
+Souběžná 11;VS Souběžná 11;Juliánov;49.1913711;16.6566542;243.5;HV;VS11SPS2;PDS Zavodskeho+Slatinska
+Souběžná 11;VS Souběžná 11;Juliánov;49.1913711;16.6566542;243.5;HV;VS11SPS3;PDS Krasneho+Mazourova
+Souběžná 11;VS Souběžná 11;Juliánov;49.1913711;16.6566542;243.5;HV;SouPS1MT;Mereni Soubezna+Jul.nam.
+Souběžná 11;VS Souběžná 11;Juliánov;49.1913711;16.6566542;243.5;HV;ZavPS2MT;Mereni Zavodskeho+Slatin
+Souběžná 11;VS Souběžná 11;Juliánov;49.1913711;16.6566542;243.5;HV;KraPS3MT;Mereni Krasneho+Mazouro.
+Souběžná 21;VS Souběžná 21;Juliánov;49.1907500;16.6586225;244.8;HV;VSS21KOT;Výměníky VS Souběžná 21
+Souběžná 21;VS Souběžná 21;Juliánov;49.1907500;16.6586225;244.8;HV;VSS21STR;Strojovna VS Souběžná 21
+Souběžná 21;VS Souběžná 21;Juliánov;49.1907500;16.6586225;244.8;HV;VSS21MT;Měření VS Souběžná 21
+Součkova 1a;PKK26 Součkova 1a;Komín;49.2210939;16.5527925;217.3;PK;K26SoKOT;Kotle K26 Součkova
+Součkova 1a;PKK26 Součkova 1a;Komín;49.2210939;16.5527925;217.3;PK;K26SoSTR;Strojovna K26 Součkova
+Souhrady 11;PK K20 Souhrady;Bohunice;49.1654575;16.5725936;235.6;PK;K20SoKOT;Kotle K20 Souhrady
+Souhrady 11;PK K20 Souhrady;Bohunice;49.1654575;16.5725936;235.6;PK;K20SoSTR;Strojovna K20 Souhrady
+Sovinec 26;VS Sovinec 26;Štýřice;49.1730575;16.5947417;227.2;HV;VSSovKOT;Ohřívače VS Sovinec
+Sovinec 26;VS Sovinec 26;Štýřice;49.1730575;16.5947417;227.2;HV;VSSovSTR;Strojovna VS Sovinec
+Sovinec 26;VS Sovinec 26;Štýřice;49.1730575;16.5947417;227.2;HV;VSSovMT;Měření VS Sovinec
+Sovinec 26;VS Sovinec 26;Štýřice;49.1730575;16.5947417;227.2;HV;VSSovPS1;PDS Vysoká 2-12
+Sovinec 26;VS Sovinec 26;Štýřice;49.1730575;16.5947417;227.2;HV;SovPs1MT;Měření PDS Vysoká 2-12
+Spodní 2a;PK K23 Spodní;Bohunice;49.1653019;16.5766025;227.2;PK;K23SpKOT;Kotle K23 Spodní
+Spodní 2a;PK K23 Spodní;Bohunice;49.1653019;16.5766025;227.2;PK;K23SpSTR;TUV K23 Spodní
+Starobrněnská 20;VS Starobrněn.20;Střed;49.1925636;16.6062903;236.7;HV;Sta20STR;Stroj. Starobrn.20
+Stavební 9;VS Stavební 9;Střed;49.1936272;16.6234414;201.8;HV;VSStaKot;Topení VS Stavební kot
+Stavební 9;VS Stavební 9;Střed;49.1936272;16.6234414;201.8;HV;VSStaStr;Topení VS Stavební stroj
+Strnadova 14;VS Strnad.14 Char.;Líšeň;49.2051486;16.6693703;280.3;HV;VSt14STR;Str.VS Strnad.14 Char.
+Strnadova 13;VS Strnadova13 Mš ;Líšeň;49.2053800;16.6683628;279.9;HV;VSt13STR;Str.VS Strnadova 13 Mš
+Svážná 27;CVKV Svážná 27;Kamenný Vrch;49.1749586;16.5514572;270.1;PK;CZTKAKOT;CZT Kameňák n.kotle
+Svážná 27;CVKV Svážná 27;Kamenný Vrch;49.1749586;16.5514572;270.1;PK;CZTKASTR;CZT Kameňák n.strojovna
+Svážná 27;CVKV Svážná 27;Kamenný Vrch;49.1749586;16.5514572;270.1;PK;CZTKVKOT;CZT Kameňák kotle
+Svážná 27;CVKV Svážná 27;Kamenný Vrch;49.1749586;16.5514572;270.1;PK;CZTKVSTR;CZT Kameňák strojovna
+Svážná 27;CVKV Svážná 27;Kamenný Vrch;49.1749586;16.5514572;270.1;PK;CZTKVST2;CZT Kameňák zázemí
+Svážná 27;CVKV Svážná 27;Kamenný Vrch;49.1749586;16.5514572;270.1;PK;CZTKVMaR;CZT Kameňák měření
+Svážná 27;CVKV Svážná 27;Kamenný Vrch;49.1749586;16.5514572;270.1;PK;CZTKAKog;CZT Kameňák kogenerace
+Šeříková 46;PK F1 Šeříkova 46;Jundrov;49.2072747;16.5474475;242.3;PK;F1SerKOT;Kotle F1 Šeříkova
+Šeříková 46;PK F1 Šeříkova 46;Jundrov;49.2072747;16.5474475;242.3;PK;F1SerSTR;Strojovna  F1 Šeříkova
+Špitálka 7a;Špitálka 6 - správní budova;Zábrdovice;49.1964992;16.6232528;201.6;HV;Špitálka\Správní_budova;?
+Šrámkova 14;VS MŠ Šrámkova 14;Lesná;49.2264525;16.6252514;278.8;HV;MsSraKOT;Vs MS Šrámkova
+Synkova 24;VS2 Synkova 24;Líšeň;49.2051661;16.6754614;287.4;HV;VS2SyKOT;Kotle VS2 Synkova
+Synkova 24;VS2 Synkova 24;Líšeň;49.2051661;16.6754614;287.4;HV;VS2SySTR;Stroj. VS2 Synkova
+Synkova 24;VS2 Synkova 24;Líšeň;49.2051661;16.6754614;287.4;HV;VSSynPS1;PDS Zikova 2-14
+Synkova 24;VS2 Synkova 24;Líšeň;49.2051661;16.6754614;287.4;HV;VSSynPS2;PDS Zikova 16-26
+Synkova 24;VS2 Synkova 24;Líšeň;49.2051661;16.6754614;287.4;HV;VSSynPS3;PDS Synkova 18-24
+Synkova 24;VS2 Synkova 24;Líšeň;49.2051661;16.6754614;287.4;HV;SynPS1MT;Měření Zikova 2-14
+Synkova 24;VS2 Synkova 24;Líšeň;49.2051661;16.6754614;287.4;HV;SynPS2MT;Měření Zikova 16-26
+Synkova 24;VS2 Synkova 24;Líšeň;49.2051661;16.6754614;287.4;HV;SynPS3MT;Měření Synkova 18-24
+Škrétova 8a;PKŠK Škrétova 8a;Řečkovice;49.2484775;16.5752108;303.2;PK;SKSkrKOT;Kotle ŠK Škrétova
+Škrétova 8a;PKŠK Škrétova 8a;Řečkovice;49.2484775;16.5752108;303.2;PK;SKSkrSTR;Strojovna ŠK Škrétova
+Škrétova 8a;PKŠK Škrétova 8a;Řečkovice;49.2484775;16.5752108;303.2;PK;SKSkrMT;Měření ŠK Škrétova
+Škrétova 8a;PKŠK Škrétova 8a;Řečkovice;49.2484775;16.5752108;303.2;PK;SKSkrPS1;PDS Škrétova 4-10
+Škrétova 8a;PKŠK Škrétova 8a;Řečkovice;49.2484775;16.5752108;303.2;PK;SkrPS1MT;Měření Škrétova 4-10
+Štefáčkova 13;VS14 Štefáčkova;Líšeň;49.2086544;16.6899906;332.5;HV;V14StKOT;Kotle VS14 Štefáčkova
+Štefáčkova 13;VS14 Štefáčkova;Líšeň;49.2086544;16.6899906;332.5;HV;V14StSTR;Stroj. VS14 Štefáčkova
+Štefáčkova 13;VS14 Štefáčkova;Líšeň;49.2086544;16.6899906;332.5;HV;V14StMT;Meření VS14 Štefáčkova
+Štefáčkova 13;VS14 Štefáčkova;Líšeň;49.2086544;16.6899906;332.5;HV;V14StPS1;Strnadova 2,4,6,8,10,12
+Štefáčkova 13;VS14 Štefáčkova;Líšeň;49.2086544;16.6899906;332.5;HV;V14StPS2;Štefáčkova 1,3,5,7,9,11
+Štefáčkova 13;VS14 Štefáčkova;Líšeň;49.2086544;16.6899906;332.5;HV;V14StPS3;Štefáčkova 15
+Štefáčkova 13;VS14 Štefáčkova;Líšeň;49.2086544;16.6899906;332.5;HV;StPS1MT;Strnadova 2,4,6,8,10,12
+Štefáčkova 13;VS14 Štefáčkova;Líšeň;49.2086544;16.6899906;332.5;HV;StPS2MT;Štefáčkova 1,3,5,7,9,11
+Štefáčkova 13;VS14 Štefáčkova;Líšeň;49.2086544;16.6899906;332.5;HV;StPS3MT;Štefáčkova 15
+Štouračova 24;PKKB4 Štouračov.24;Bystrc;49.2154836;16.5202939;258.4;PK;K4StoKOT;Kotle KB4 Štouračova
+Štouračova 24;PKKB4 Štouračov.24;Bystrc;49.2154836;16.5202939;258.4;PK;K4StoSTR;Topení KB4 Štouračova
+Štouračova 24;PKKB4 Štouračov.24;Bystrc;49.2154836;16.5202939;258.4;PK;K4StoMT;Měření KB4 Štouračova
+Šumavská 21;VS Šumavská 21;Ponava;49.2114683;16.5961794;234.7;HV;VSSumKOT;Kotelna VS Šumavská
+Šumavská 21;VS Šumavská 21;Ponava;49.2114683;16.5961794;234.7;HV;VSSumSTR;Kotelna VS Šumavská
+Šumavská 21;VS Šumavská 21;Ponava;49.2114683;16.5961794;234.7;HV;VSSumMT;Měření VS Šumavská
+Švermova 11a;PK 11 Švermova;Bohunice;49.1686803;16.5711181;255.0;PK;K11SvKOT;Kotle K11 Švermova
+Švermova 11a;PK 11 Švermova;Bohunice;49.1686803;16.5711181;255.0;PK;K11SvSTR;Strojovna K11 Švermova
+Švermova 11a;PK 11 Švermova;Bohunice;49.1686803;16.5711181;255.0;PK;K11SvMT;Měření K11 Švermova
+Švermova 11a;PK 11 Švermova;Bohunice;49.1686803;16.5711181;255.0;PK;K11SvPS1;PDS Švermova 1,3,5,7,13
+Švermova 11a;PK 11 Švermova;Bohunice;49.1686803;16.5711181;255.0;PK;K11SvPS2;PDS Šver.15,17,19,21,23
+Švermova 11a;PK 11 Švermova;Bohunice;49.1686803;16.5711181;255.0;PK;S11PS1MT;Měř.Švermova 1,3,5,7,13
+Švermova 11a;PK 11 Švermova;Bohunice;49.1686803;16.5711181;255.0;PK;S11PS2MT;Měř.Šver.15,17,19,21,23
+Švermova 14a;PK 12 Švermova;Bohunice;49.1693150;16.5741225;257.0;PK;K12SvKOT;Kotle K12 Švermova
+Švermova 14a;PK 12 Švermova;Bohunice;49.1693150;16.5741225;257.0;PK;K12SvSTR;Strojovna K12 Švermova
+Švermova 14a;PK 12 Švermova;Bohunice;49.1693150;16.5741225;257.0;PK;K12SvMT;Měření K12 Švermova
+Švermova 14a;PK 12 Švermova;Bohunice;49.1693150;16.5741225;257.0;PK;K12SvPS1;PDS Švermova 2,4,6,8
+Švermova 14a;PK 12 Švermova;Bohunice;49.1693150;16.5741225;257.0;PK;K12SvPS2;PDS Švermova 10,12,14
+Švermova 14a;PK 12 Švermova;Bohunice;49.1693150;16.5741225;257.0;PK;S12PS1MT;Měř.Švermova 2,4,6,8
+Švermova 14a;PK 12 Švermova;Bohunice;49.1693150;16.5741225;257.0;PK;S12PS2MT;Měř.Švermova 10,12,14
+Tábor 53;VS Tábor 53;Ponava;49.2142931;16.5935464;239.9;HV;VST53KOT;Kotelna VS Tabor 53
+Tábor 53;VS Tábor 53;Ponava;49.2142931;16.5935464;239.9;HV;VST53STR;Strojovna VS Tabor 53
+Tábor 53;VS Tábor 53;Ponava;49.2142931;16.5935464;239.9;HV;VST53MT;Měření VS Tabor 53
+Tábor 63;VS Tábor 63;Ponava;49.2146211;16.5948147;237.8;HV;VST63KOT;Kotelna VS Tabor 63
+Tábor 63;VS Tábor 63;Ponava;49.2146211;16.5948147;237.8;HV;VST63STR;Strojovna VS Tabor 63
+Tábor 63;VS Tábor 63;Ponava;49.2146211;16.5948147;237.8;HV;VST63MT;Měření VS Tabor 63
+Technická 2;VS Purkyňov.ČTpark;Královo Pole;49.2237097;16.5785839;282.8;HV;CTpA_STR;VS ČTpark-objektA
+Technická 2;VS Purkyňov.ČTpark;Královo Pole;49.2237097;16.5785839;282.8;HV;CTpB_STR;VS ČTpark-objektB
+Teyschlova 33;PKCZT Teyschlov.33;Bystrc;49.2155772;16.5012853;337.7;PK;Bystrc\Teyschlova_33;Měření Ričanská 3,9,13
+Teyschlova 33;PKCZT Teyschlov.33;Bystrc;49.2155772;16.5012853;337.7;PK;TeyRicMT;Měření Kavči 1,6
+Teyschlova 33;PKCZT Teyschlov.33;Bystrc;49.2155772;16.5012853;337.7;PK;TeyKavMT;Měření Hvozdecká
+Teyschlova 33;PKCZT Teyschlov.33;Bystrc;49.2155772;16.5012853;337.7;PK;TeyHvoMT;Měření Chudčická
+Teyschlova 33;PKCZT Teyschlov.33;Bystrc;49.2155772;16.5012853;337.7;PK;TeyChuMT;Měření Teyschlova
+Teyschlova 33;PKCZT Teyschlov.33;Bystrc;49.2155772;16.5012853;337.7;PK;TeyTeyMT;Měření Chvalovská
+Teyschlova 33;PKCZT Teyschlov.33;Bystrc;49.2155772;16.5012853;337.7;PK;TeyChvMT;Měření Křepelči
+Teyschlova 33;PKCZT Teyschlov.33;Bystrc;49.2155772;16.5012853;337.7;PK;TeyKreMT;Měření Kamechy
+Teyschlova 33;PKCZT Teyschlov.33;Bystrc;49.2155772;16.5012853;337.7;PK;TeyKamMT;PDS Hvozdecká
+Teyschlova 33;PKCZT Teyschlov.33;Bystrc;49.2155772;16.5012853;337.7;PK;TeyHvoPS;PDS Křepelči
+Teyschlova 33;PKCZT Teyschlov.33;Bystrc;49.2155772;16.5012853;337.7;PK;TeyKrePS;PDS Chudčická
+Teyschlova 33;PKCZT Teyschlov.33;Bystrc;49.2155772;16.5012853;337.7;PK;TeyChuPS;
+Topolky 24;VS Topolky 24;Žabovřesky;49.2169186;16.5743831;225.5;HV;VTo24STR;Strojovna Topolky 24
+Topolky 24;VS Topolky 24;Žabovřesky;49.2169186;16.5743831;225.5;HV;VsTo24MT;Měření Topolky 24
+Topolky 26;VS Topolky 26;Žabovřesky;49.2170825;16.5747453;228.0;HV;VTo26STR;Strojovna Topolky 26
+Topolky 26;VS Topolky 26;Žabovřesky;49.2170825;16.5747453;228.0;HV;VsTo26MT;Měření Topolky 26
+Třískalova 14;HO13 Třískalova14;Lesná;49.2263164;16.6212092;266.6;HV;HO13TKOT;Kotelna HO13 Třískalova
+Třískalova 14;HO13 Třískalova14;Lesná;49.2263164;16.6212092;266.6;HV;HO13TSTR;Stroj. HO13 Třískalova
+Třískalova 14;HO13 Třískalova14;Lesná;49.2263164;16.6212092;266.6;HV;HO13TMT;Měř. HO13 Třískalova
+Třískalova 14;HO13 Třískalova14;Lesná;49.2263164;16.6212092;266.6;HV;HO13TPS1;PDS H13 Třískalova 1-4
+Třískalova 14;HO13 Třískalova14;Lesná;49.2263164;16.6212092;266.6;HV;HO13TPS2;PDS H13 Třískalova 5-8
+Třískalova 14;HO13 Třískalova14;Lesná;49.2263164;16.6212092;266.6;HV;HO13TPS3;PDS H13 Třískalova 9-12
+Třískalova 14;HO13 Třískalova14;Lesná;49.2263164;16.6212092;266.6;HV;HO13TPS4;PDS H13Tří.14VS,16,18,20
+Třískalova 14;HO13 Třískalova14;Lesná;49.2263164;16.6212092;266.6;HV;HO13TPS5;PDS H13 Tří. 22,24,30
+Třískalova 14;HO13 Třískalova14;Lesná;49.2263164;16.6212092;266.6;HV;TriPS1MT;Měření Třískalova 1-4
+Třískalova 14;HO13 Třískalova14;Lesná;49.2263164;16.6212092;266.6;HV;TriPS2MT;Měření Třískalova 5-8
+Třískalova 14;HO13 Třískalova14;Lesná;49.2263164;16.6212092;266.6;HV;TriPS3MT;Měření Třískalova 9-12
+Třískalova 14;HO13 Třískalova14;Lesná;49.2263164;16.6212092;266.6;HV;TriPS4MT;Měř
+Třískalova 14;HO13 Třískalova14;Lesná;49.2263164;16.6212092;266.6;HV;TriPS5MT;
+Turgeněvova 18a;PK Turgeněvov.18a;Černovice;49.1891186;16.6451608;214.5;PK;PKTurKOT;Kotle Turgeněvova
+Turgeněvova 18a;PK Turgeněvov.18a;Černovice;49.1891186;16.6451608;214.5;PK;PKTurSTR;Strojovna Turgeněvova
+Turgeněvova 18a;PK Turgeněvov.18a;Černovice;49.1891186;16.6451608;214.5;PK;PKTur_MT;Měření Turgeněvova
+U Velké ceny 10a;PK K3 U Velké ceny;Kohoutovice;49.1982231;16.5311264;389.2;PK;K3UvcKOT;Kotle 3 U Velké ceny
+U Velké ceny 10a;PK K3 U Velké ceny;Kohoutovice;49.1982231;16.5311264;389.2;PK;K3UvcSTR;Strojovna 3 U Velké ceny
+U Velké ceny 10a;PK K3 U Velké ceny;Kohoutovice;49.1982231;16.5311264;389.2;PK;K3UvcMT;Měření K3 U Velké ceny
+U Velké ceny 10a;PK K3 U Velké ceny;Kohoutovice;49.1982231;16.5311264;389.2;PK;PdUvcSTR;PDS U Velké ceny
+U Velké ceny 10a;PK K3 U Velké ceny;Kohoutovice;49.1982231;16.5311264;389.2;PK;PdStaSTR;PDS Stamicova
+U Velké ceny 10a;PK K3 U Velké ceny;Kohoutovice;49.1982231;16.5311264;389.2;PK;PdVorSTR;PDS Voříškova
+U Velké ceny 10a;PK K3 U Velké ceny;Kohoutovice;49.1982231;16.5311264;389.2;PK;PdZebSTR;PDS Žebětínská
+U Velké ceny 10a;PK K3 U Velké ceny;Kohoutovice;49.1982231;16.5311264;389.2;PK;PdUvcMT;Měř. PDS U Velké ceny
+U Velké ceny 10a;PK K3 U Velké ceny;Kohoutovice;49.1982231;16.5311264;389.2;PK;PdStaMT;Měř. PDS Stamicova
+U Velké ceny 10a;PK K3 U Velké ceny;Kohoutovice;49.1982231;16.5311264;389.2;PK;PdVorMT;Měř. PDS Voříškova
+U Velké ceny 10a;PK K3 U Velké ceny;Kohoutovice;49.1982231;16.5311264;389.2;PK;PdZebMT;Měř. PDS Žebětínská
+Ukrajinská 1a;PK K1 Ukrajinská;Bohunice;49.1669975;16.5867917;247.6;PK;K1UkrKOT;Kotelna K1 Ukrajinská
+Ukrajinská 1a;PK K1 Ukrajinská;Bohunice;49.1669975;16.5867917;247.6;PK;K1UkrSTR;Strojovna K1 Ukrajinská
+Ukrajinská 2a;PK K2 Ukrajinská;Bohunice;49.8268969;18.1923719;238.0;PK;K2UkrKOT;Kotelna K2 Ukrajinská
+Ukrajinská 2a;PK K2 Ukrajinská;Bohunice;49.8268969;18.1923719;238.0;PK;K2UkrSTR;Strojovna K2 Ukrajinská
+Ukrajinská 5a;PK K3 Ukrajinská;Bohunice;49.1684175;16.5867806;252.2;PK;K3UkrKOT;Kotelna K3 Ukrajinská
+Ukrajinská 5a;PK K3 Ukrajinská;Bohunice;49.1684175;16.5867806;252.2;PK;K3UkrSTR;Strojovna K3 Ukrajinská
+ulice Čoupkových 10a;PKK23 Čoupkova;Komín;49.2224144;16.5492022;229.4;PK;K23CoKOT;Kotle K23 Čoupkova
+ulice Čoupkových 10a;PKK23 Čoupkova;Komín;49.2224144;16.5492022;229.4;PK;K23CoSTR;Strojovna K23 Čoupkova
+ulice Čoupkových 28a;PKK22 Čoupkova;Komín;49.2223428;16.5513764;225.4;PK;K22CoKOT;Kotle K22 Čoupkova
+ulice Čoupkových 28a;PKK22 Čoupkova;Komín;49.2223428;16.5513764;225.4;PK;K22CoSTR;Strojovna K22 Čoupkova
+Ulička 1a;PK K8 Ulička;Kohoutovice;49.1925508;16.5360542;354.9;PK;K8UliKOT;Kotle K8 Ulička
+Ulička 1a;PK K8 Ulička;Kohoutovice;49.1925508;16.5360542;354.9;PK;K8UliSTR;Topení K8 Ulička
+Ulička 1a;PK K8 Ulička;Kohoutovice;49.1925508;16.5360542;354.9;PK;K8UliMT;Měření K8 Ulička
+Ulička 1a;PK K8 Ulička;Kohoutovice;49.1925508;16.5360542;354.9;PK;UliPS1MT;Měření Ulička 1,4,10,16
+Ulička 1a;PK K8 Ulička;Kohoutovice;49.1925508;16.5360542;354.9;PK;UliPS2MT;Měř. Výlet.1,7
+Urbánkova 16a;PKK9 Urbánkova 16a;Komín;49.2253617;16.5563842;247.7;PK;K9UrbKOT;Kotle K9 Urbánkova
+Urbánkova 16a;PKK9 Urbánkova 16a;Komín;49.2253617;16.5563842;247.7;PK;K9UrbSTR;Strojovna K9 Urbánkova
+Uzbecká 13;PK8 Uzbecká;Bohunice;49.1726658;16.5802017;272.3;PK;K8UzbKot;Kotle K8 Uzbecká
+Uzbecká 13;PK8 Uzbecká;Bohunice;49.1726658;16.5802017;272.3;PK;K8UzbStr;Strojovna K8 Uzbecká
+V Újezdech 12;KM13 V Újezdech 12;Medlánky;49.2447092;16.5715008;261.4;PK;KM13RSTR;KM 13 V Újezdech 12
+V Újezdech 18;KM 9 V Újezdech 18;Medlánky;49.2451353;16.5699819;260.4;PK;KM9UjSTR;KM 9 V Újezdech 18
+Vaculíkova 14;VS ISŠ Gemini;Lesná;49.2283722;16.6232572;284.8;HV;ISSGemin;Integr.stř.škola Gemini
+Valtická 1a;VSV07 Valtická 1a;Vinohrady;49.2027725;16.6570694;292.8;HV;V07VaKOT;Kotle V07 Valtická
+Valtická 1a;VSV07 Valtická 1a;Vinohrady;49.2027725;16.6570694;292.8;HV;V07VaSTR;Stroj. V07 Valtická
+Valtická 1a;VSV07 Valtická 1a;Vinohrady;49.2027725;16.6570694;292.8;HV;V07VaMT;Měření V07 Valtická
+Vaculíkova 13;HO10 Vaculíkov.13;Lesná;49.2302536;16.6199769;292.5;HV;HO10VKOT;Kotle HO10 Vaculíkova
+Vaculíkova 13;HO10 Vaculíkov.13;Lesná;49.2302536;16.6199769;292.5;HV;HO10VSTR;Stroj. HO10 Vaculíkova
+Vaculíkova 13;HO10 Vaculíkov.13;Lesná;49.2302536;16.6199769;292.5;HV;HO10VMT;Měření HO10 Vaculíkova
+Vaculíkova 13;HO10 Vaculíkov.13;Lesná;49.2302536;16.6199769;292.5;HV;VacPS1MT;Vacul.2,5,8,11,Gemi.Mile
+Valouškova 2a;PK2 Valouškova 2a;Bystrc;49.2273642;16.5219242;244.0;PK;K2ValKOT;Kotle PK2 Valouškova
+Valouškova 2a;PK2 Valouškova 2a;Bystrc;49.2273642;16.5219242;244.0;PK;K2ValSTR;Strojovna PK2 Valouškova
+Valouškova 2a;PK2 Valouškova 2a;Bystrc;49.2273642;16.5219242;244.0;PK;K2ValMT;Měření PK2 Valouškova
+Valouškova 2a;PK2 Valouškova 2a;Bystrc;49.2273642;16.5219242;244.0;PK;PDSVal02;PDS Valouškova 2
+Valouškova 2a;PK2 Valouškova 2a;Bystrc;49.2273642;16.5219242;244.0;PK;PDSVal04;PDS Valouškova 4
+Valouškova 2a;PK2 Valouškova 2a;Bystrc;49.2273642;16.5219242;244.0;PK;PDSVal05;PDS Valouškova 5
+Valouškova 2a;PK2 Valouškova 2a;Bystrc;49.2273642;16.5219242;244.0;PK;PDSVal06;PDS Valouškova 6
+Valouškova 2a;PK2 Valouškova 2a;Bystrc;49.2273642;16.5219242;244.0;PK;PDSVal08;PDS Valouškova 8
+Valouškova 2a;PK2 Valouškova 2a;Bystrc;49.2273642;16.5219242;244.0;PK;PDSVal10;PDS Valouškova 10
+Valouškova 2a;PK2 Valouškova 2a;Bystrc;49.2273642;16.5219242;244.0;PK;PDSVal11;PDS Valouškova 7
+Valouškova 2a;PK2 Valouškova 2a;Bystrc;49.2273642;16.5219242;244.0;PK;PDSVal12;PDS Valouškova 12
+Valouškova 2a;PK2 Valouškova 2a;Bystrc;49.2273642;16.5219242;244.0;PK;PDSVal13;PDS Valouškova 13
+Valouškova 2a;PK2 Valouškova 2a;Bystrc;49.2273642;16.5219242;244.0;PK;PDSPis06;PDS Piškova 6
+Valouškova 2a;PK2 Valouškova 2a;Bystrc;49.2273642;16.5219242;244.0;PK;PDSPis08;PDS Piškova 8
+Valouškova 2a;PK2 Valouškova 2a;Bystrc;49.2273642;16.5219242;244.0;PK;PDSPis14;PDS
+Valouškova 2a;PK2 Valouškova 2a;Bystrc;49.2273642;16.5219242;244.0;PK;ValPS1MT;
+Valouškova 2a;PK2 Valouškova 2a;Bystrc;49.2273642;16.5219242;244.0;PK;ValPS2MT;
+Valtická 23;VSV05 Valtická 23;Vinohrady;49.2027597;16.6598233;291.4;HV;V05VaKOT;Kotle V05 Valtická
+Valtická 23;VSV05 Valtická 23;Vinohrady;49.2027597;16.6598233;291.4;HV;V05VaSTR;Stroj. V05 Valtická
+Valtická 23;VSV05 Valtická 23;Vinohrady;49.2027597;16.6598233;291.4;HV;V05VaMT;Měření V05 Valtická
+Vaňhalova 1a;PK K1 Vanhalova;Kohoutovice;49.1935383;16.5404961;350.8;PK;K1VanKOT;Kotle K1 Vanhalova
+Vaňhalova 1a;PK K1 Vanhalova;Kohoutovice;49.1935383;16.5404961;350.8;PK;K1VanSTR;Stroj. K1 Vanhalova
+Vaňhalova 1a;PK K1 Vanhalova;Kohoutovice;49.1935383;16.5404961;350.8;PK;K1VanPS1;PDS Vanhalova 1-11
+Vaňhalova 1a;PK K1 Vanhalova;Kohoutovice;49.1935383;16.5404961;350.8;PK;K1VanPS2;PDS Prokofjevov.1-11,2,4
+Vaňhalova 1a;PK K1 Vanhalova;Kohoutovice;49.1935383;16.5404961;350.8;PK;K1VanPS3;PDS Chalabalova 1,3,5
+Vaňhalova 1a;PK K1 Vanhalova;Kohoutovice;49.1935383;16.5404961;350.8;PK;MTVanPS1;Sontex PDS Vanh. 1-11
+Vaňhalova 1a;PK K1 Vanhalova;Kohoutovice;49.1935383;16.5404961;350.8;PK;MTVanPS2;Sontex PDS Prok.1-11,2,4
+Vaňhalova 1a;PK K1 Vanhalova;Kohoutovice;49.1935383;16.5404961;350.8;PK;MTVanPS3;Sontex PDS Chalaba.1,3,5
+Vaňhalova 1a;PK K1 Vanhalova;Kohoutovice;49.1935383;16.5404961;350.8;PK;K1VanBAZ;PDS Vaňhalova - bazén
+Velkopavlovická 8a;VSV02 Velkopavlov.;Vinohrady;49.2054556;16.6639481;286.9;HV;V02VeKOT;Kotle V02 Velkopavlov.
+Velkopavlovická 8a;VSV02 Velkopavlov.;Vinohrady;49.2054556;16.6639481;286.9;HV;V02VeSTR;Stroj. V02 Velkopavlov.
+Velkopavlovická 8a;VSV02 Velkopavlov.;Vinohrady;49.2054556;16.6639481;286.9;HV;V02VeMT;Měření V02 Velkopavlov.
+Větrná 1a;PK3 Větrná 1a;Bystrc;49.2230011;16.5218772;259.5;PK;K3VetKOT;Kotle PK3 Větrná
+Větrná 1a;PK3 Větrná 1a;Bystrc;49.2230011;16.5218772;259.5;PK;K3VetSTR;Strojovna PK3 Větrná
+Vídeňská;VS Vídeňská 56a;Štýřice;49.1803475;16.5938053;217.3;HV;VSVidKOT;Ohřívače VS Vídeňská
+Vídeňská;VS Vídeňská 56a;Štýřice;49.1803475;16.5938053;217.3;HV;VSVidSTR;Strojovna VS Vídeňská
+Vídeňská;VS Vídeňská 56a;Štýřice;49.1803475;16.5938053;217.3;HV;VSVidMT;Měření VS Vídeňská
+Vlčnovská 8a;VSV09 Vlčnovská 8a;Vinohrady;49.2072739;16.6585008;298.7;HV;V09VlKOT;Kotle V09 Vlčnovská
+Vlčnovská 8a;VSV09 Vlčnovská 8a;Vinohrady;49.2072739;16.6585008;298.7;HV;V09VlSTR;Stroj. V09 Vlčnovská
+Vlčnovská 8a;VSV09 Vlčnovská 8a;Vinohrady;49.2072739;16.6585008;298.7;HV;V09VlMT;Měření V09 Vlčnovská
+Vlkova 2;VS15 Vlkova 2;Líšeň;49.2049269;16.6684436;278.4;HV;V15VlKOT;Kotle VS15 Vlkova
+Vlkova 2;VS15 Vlkova 2;Líšeň;49.2049269;16.6684436;278.4;HV;V15VlSTR;Stroj. VS15 Vlkova
+Vlkova 2;VS15 Vlkova 2;Líšeň;49.2049269;16.6684436;278.4;HV;V15VlMT;Meření VS15 Vlkova
+Vlkova 2;VS15 Vlkova 2;Líšeň;49.2049269;16.6684436;278.4;HV;VS15VPS1;PDS Vlkova 1a,1,3,5
+Vlkova 2;VS15 Vlkova 2;Líšeň;49.2049269;16.6684436;278.4;HV;VS15VPS2;PDS Vlkova 7,9,11
+Vlkova 2;VS15 Vlkova 2;Líšeň;49.2049269;16.6684436;278.4;HV;VS15VPS3;PDS Strnad 1,3,5,7,9,11
+Vlkova 2;VS15 Vlkova 2;Líšeň;49.2049269;16.6684436;278.4;HV;VlkPS1MT;Měření Vlkova 1a,1,3,5
+Vlkova 2;VS15 Vlkova 2;Líšeň;49.2049269;16.6684436;278.4;HV;VlkPS2MT;Měření Vlkova 7,9,11
+Vlkova 2;VS15 Vlkova 2;Líšeň;49.2049269;16.6684436;278.4;HV;VlkPS3MT;Měření Strn 1,3,5,7,9,11
+Vlkova 4;VS Vlkova 4 pošta ;Líšeň;49.2055639;16.6710483;292.2;HV;VVlk4STR;Str. VS Vlkova 4 pošta
+Vltavská 2a;PK K9 Vltavská;Lískovec;49.1693611;16.5642508;263.6;PK;K9VltKOT;Kotle K9 Vltavská
+Vltavská 2a;PK K9 Vltavská;Lískovec;49.1693611;16.5642508;263.6;PK;K9VltSTR;Strojovna K9 Vltavská
+Vojtova 1;VS Vojtova 1;Štýřice;49.1830131;16.6000569;205.7;HV;VSVojKOT;Ohřívače VS Vojtova
+Vojtova 1;VS Vojtova 1;Štýřice;49.1830131;16.6000569;205.7;HV;VSVojSTR;Strojovna VS Vojtova
+Vondrákova 25a;PK4 Vondrákova 25a;Bystrc;49.2216031;16.5247992;254.2;PK;K4VonKOT;Kotle PK4 Vondrákova
+Vondrákova 25a;PK4 Vondrákova 25a;Bystrc;49.2216031;16.5247992;254.2;PK;K4VonSTR;Stroj. PK4 Vondrákova
+Vondrákova 9a;PK Vondrákova 9a;Bystrc;49.2222078;16.5287375;232.3;PK;DSPVoKOT;Kotle DSP Vondrákova
+Vondrákova 9a;PK Vondrákova 9a;Bystrc;49.2222078;16.5287375;232.3;PK;DSPVoSTR;Strojovna DSP Vondrákova
+Voroněžská 1;VS Voroněžská 18;Žabovřesky;49.2160222;16.5822961;245.0;HV;VsV18STR;Strojovna Voroněžská 18
+Voroněžská 1;VS Voroněžská 18;Žabovřesky;49.2160222;16.5822961;245.0;HV;VsV18MT;Měření Voroněžská 18
+Voroněžská 2;VS Voroněžská 2;Žabovřesky;49.2153928;16.5859333;248.9;HV;VsVo2STR;Strojovna Voroněžská 2
+Voroněžská 2;VS Voroněžská 2;Žabovřesky;49.2153928;16.5859333;248.9;HV;VsVo2MT;Měření Voroněžská 2
+Voroněžská 3;VS Voroněžská 3;Žabovřesky;49.2151319;16.5846631;247.0;HV;VsVo3STR;Strojovna Voroněžská 3
+Voroněžská 3;VS Voroněžská 3;Žabovřesky;49.2151319;16.5846631;247.0;HV;VsVo3MT;Měření Voroněžská 3
+Voroněžská 4;VS Voroněžs.4 POS1;Žabovřesky;49.2155750;16.5852081;248.9;HV;VsVo4STR;Strojovna Voroněžská 4
+Voroněžská 4;VS Voroněžs.4 POS1;Žabovřesky;49.2155750;16.5852081;248.9;HV;VsVo4MT;Měření Voroněžská 4
+Voroněžská 5;VS Voroněžská 5;Žabovřesky;49.2157881;16.5843594;248.5;HV;VsVo5STR;Voroněžská 5 dětský dom.
+Voroněžská 5;VS Voroněžská 5;Žabovřesky;49.2157881;16.5843594;248.5;HV;VsVo5MT;Měření 5 dětský dom.
+Voroněžská 6;VS Voroněžská 6;Žabovřesky;49.2159492;16.5854381;249.7;HV;VsVo6STR;Strojovna Voroněžská 6
+Voroněžská 6;VS Voroněžská 6;Žabovřesky;49.2159492;16.5854381;249.7;HV;VsVo6MT;Měření Voroněžská 6
+Voroněžská 9;VS Voroněžská 9;Žabovřesky;49.2154767;16.5836506;246.1;HV;VsVo9STR;Strojovna Voroněžská 9
+Voroněžská 9;VS Voroněžská 9;Žabovřesky;49.2154767;16.5836506;246.1;HV;VsVo9MT;Měření Voroněžská 9
+Voříškova 33a;PK K6 Vořiškova;Kohoutovice;49.2004350;16.5328053;386.0;PK;K6VorKOT;Kotle K6 Vořiškova
+Voříškova 33a;PK K6 Vořiškova;Kohoutovice;49.2004350;16.5328053;386.0;PK;K6VorSTR;Strojovna K6 Voříškova
+Vrázova 59;Vrázova59+53,55,57;Žabovřesky;49.2192733;16.5689461;256.1;HV;VSV59STR;Str. Vrázova59+53,55,57
+Vrázova 59;Vrázova59+53,55,57;Žabovřesky;49.2192733;16.5689461;256.1;HV;VSV59MT;Měř. Vrázova59+53,55,57
+Vrbenského 17;PKK25 Vrbenskéh.17;Komín;49.2261400;16.5526831;260.0;PK;K25VrKOT;Kotle K25 Vrbenského
+Vrbenského 17;PKK25 Vrbenskéh.17;Komín;49.2261400;16.5526831;260.0;PK;K25VrSTR;Strojovna K25 Vrbenského
+Vsetínská 20;VS Vsetínská 20;Štýřice;49.1774628;16.5982669;209.4;HV;VsVseSTR;Stroj.Vsetínská 20-LOGO
+Vsetínská 20;VS Vsetínská 20;Štýřice;49.1774628;16.5982669;209.4;HV;VsVseMT;Měření Vsetínská 20-LOGO
+Vychodilova 10;VS Vychodilova 10;Žabovřesky;49.2199919;16.5727367;242.9;HV;VVy10STR;Strojovna Vychodilova 10
+Vychodilova 10;VS Vychodilova 10;Žabovřesky;49.2199919;16.5727367;242.9;HV;VVy10MT;Měření Vychodilova 10
+Vychodilova 11;VS Vychodilova 11;Žabovřesky;49.2194800;16.5723697;242.2;HV;VVy11STR;Strojovna Vychodilova 11
+Vychodilova 11;VS Vychodilova 11;Žabovřesky;49.2194800;16.5723697;242.2;HV;VVy11MT;Měření Vychodilova 11
+Vychodilova 12;VS Vychodilova 12;Žabovřesky;49.2205689;16.5721553;246.9;HV;VVy12STR;Strojovna Vychodilova 12
+Vychodilova 12;VS Vychodilova 12;Žabovřesky;49.2205689;16.5721553;246.9;HV;VVy12MT;Měření Vychodilova 12
+Vychodilova 13;VS Vychodilova 13;Žabovřesky;49.2196844;16.5722089;243.7;HV;VVy13STR;Strojovna Vychodilova 13
+Vychodilova 13;VS Vychodilova 13;Žabovřesky;49.2196844;16.5722089;243.7;HV;VVy13MT;Měření Vychodilova 13
+Vychodilova 14;VS Vychodilova 14;Žabovřesky;49.2210203;16.5713386;251.1;HV;VVy14STR;Strojovna Vychodilova 14
+Vychodilova 14;VS Vychodilova 14;Žabovřesky;49.2210203;16.5713386;251.1;HV;VVy14MT;Měření Vychodilova 14
+Vychodilova 16;VS Vychodilova 16;Žabovřesky;49.2203658;16.5710700;248.8;HV;VVy16STR;Strojovna Vychodilova 16
+Vychodilova 16;VS Vychodilova 16;Žabovřesky;49.2203658;16.5710700;248.8;HV;VVy16MT;Měření Vychodilova 16
+Vychodilova 17;VS Vychod.17 POS8;Žabovřesky;49.2199203;16.5710914;247.1;HV;VVy17STR;Strojovna Vychodilova 17
+Vychodilova 17;VS Vychod.17 POS8;Žabovřesky;49.2199203;16.5710914;247.1;HV;VVy17MT;Měření Vychodilova 17
+Vychodilova 2;VS Vychodilova 2;Žabovřesky;49.2188906;16.5735514;236.3;HV;VsVy2STR;Strojovna Vychodilova 2
+Vychodilova 2;VS Vychodilova 2;Žabovřesky;49.2188906;16.5735514;236.3;HV;VsVyc2MT;Měření Vychodilova 2
+Vychodilova 4;VS Vychodilova 4;Žabovřesky;49.2191439;16.5733272;237.6;HV;VsVy4STR;Strojovna Vychodilova 4
+Vychodilova 4;VS Vychodilova 4;Žabovřesky;49.2191439;16.5733272;237.6;HV;VsVyc4MT;Měření Vychodilova 4
+Vychodilova 6;VS Vychodilova 6;Žabovřesky;49.2191472;16.5739697;237.9;HV;VsVy6STR;Strojovna Vychodilova 6
+Vychodilova 6;VS Vychodilova 6;Žabovřesky;49.2191472;16.5739697;237.9;HV;VsVyc6MT;Měření Vychodilova 6
+Vychodilova 7;VS Vychodilova 7;Žabovřesky;49.2190878;16.5727061;239.7;HV;VsVy7STR;Strojovna Vychodilova 7
+Vychodilova 7;VS Vychodilova 7;Žabovřesky;49.2190878;16.5727061;239.7;HV;VsVy7MT;Měření Vychodilova 7
+Vychodilova 8;VS Vychodilova 8;Žabovřesky;49.2193825;16.5734922;239.1;HV;VsVy8STR;Strojovna Vychodilova 8
+Vychodilova 8;VS Vychodilova 8;Žabovřesky;49.2193825;16.5734922;239.1;HV;VsVyc8MT;Měření Vychodilova 8
+Vychodilova 9;VS Vychodilova 9;Žabovřesky;49.2192781;16.5725453;240.8;HV;VsVy9STR;Strojovna Vychodilova 9
+Vychodilova 9;VS Vychodilova 9;Žabovřesky;49.2192781;16.5725453;240.8;HV;VsVy9MT;Měření Vychodilova 9
+Za Mostem 22;PKK4 Za Mostem 22;Komárov;49.1809903;16.6242056;198.5;PK;K4MosKOT;Za Mostem Kotelna
+Za Mostem 22;PKK4 Za Mostem 22;Komárov;49.1809903;16.6242056;198.5;PK;K4MosSTR;Za Mostem Strojovna
+Za Mostem 22;PKK4 Za Mostem 22;Komárov;49.1809903;16.6242056;198.5;PK;K4MosMT;Za Mostem Měření
+Za Mostem 22;PKK4 Za Mostem 22;Komárov;49.1809903;16.6242056;198.5;PK;MosPS1MT;Z.Mos.6,10,16,20,Scw.4
+Za školou 1a;PKK1 Za Školou 1a;Komárov;49.1785222;16.6263639;198.6;PK;K1SkoKOT;Za Školou Kotelna
+Za školou 1a;PKK1 Za Školou 1a;Komárov;49.1785222;16.6263639;198.6;PK;K1SkoSTR;Za Školou Strojovna
+Za školou 1a;PKK1 Za Školou 1a;Komárov;49.1785222;16.6263639;198.6;PK;K1SkoMT;Za Školou Měření
+Za školou 1a;PKK1 Za Školou 1a;Komárov;49.1785222;16.6263639;198.6;PK;SkoPS1MT;Z.Ško.3,9,Scwa.3,9,15,21
+Záhřebská 1;VS Záhřebská 19;Žabovřesky;49.2194917;16.5826947;258.8;HV;VZa19STR;Strojovna Záhřebská 19
+Záhřebská 1;VS Záhřebská 19;Žabovřesky;49.2194917;16.5826947;258.8;HV;VsZa19MT;Měření Záhřebská 19
+Záhřebská 2;VS Záhřebská 29;Žabovřesky;49.2184486;16.5830922;254.8;HV;VZa29STR;Strojovna Záhřebská 29
+Záhřebská 2;VS Záhřebská 29;Žabovřesky;49.2184486;16.5830922;254.8;HV;VsZa29MT;Měření Záhřebská 29
+Záhřebská 3;VS Záhřebská 39;Žabovřesky;49.2174772;16.5829094;251.3;HV;VZa39STR;Strojovna Záhřebská 39
+Záhřebská 3;VS Záhřebská 39;Žabovřesky;49.2174772;16.5829094;251.3;HV;VsZa39MT;Měření Záhřebská 39
+Záhřebská 4;VS Záhřebská 43;Žabovřesky;49.2172808;16.5830794;250.7;HV;VZa43STR;Strojovna Záhřebská 43
+Záhřebská 4;VS Záhřebská 43;Žabovřesky;49.2172808;16.5830794;250.7;HV;VsZa43MT;Měření Záhřebská 43
+Záhřebská 5;VS Záhřebská 5;Žabovřesky;49.2192156;16.5812603;253.6;HV;VsZa5STR;Strojovna Záhřebská 5
+Záhřebská 5;VS Záhřebská 5;Žabovřesky;49.2192156;16.5812603;253.6;HV;VsZa5MT;Měření Záhřebská 5
+Záhřebská 6;VS Záhřebská 6;Žabovřesky;49.2184342;16.5822739;253.9;HV;VsZa6STR;Strojovna Záhřebská 6
+Záhřebská 6;VS Záhřebská 6;Žabovřesky;49.2184342;16.5822739;253.9;HV;VsZa6MT;Měření Záhřebská 6
+Záhřebská 7;VS Záhřebská 7;Žabovřesky;49.2194225;16.5810947;254.4;HV;VsZa7STR;Strojovna Záhřebská 7
+Záhřebská 7;VS Záhřebská 7;Žabovřesky;49.2194225;16.5810947;254.4;HV;VsZa7MT;Měření Záhřebská 7
+Záhřebská 8;VS Záhřebská 8;Žabovřesky;49.2181797;16.5824928;253.3;HV;VsZa8STR;Strojovna Záhřebská 8
+Záhřebská 8;VS Záhřebská 8;Žabovřesky;49.2181797;16.5824928;253.3;HV;VsZa8MT;Měření Záhřebská 8
+Záhřebská 9;VS Záhřebská 9;Žabovřesky;49.2196175;16.5809272;255.3;HV;VsZa9STR;Strojovna Záhřebská 9
+Záhřebská 9;VS Záhřebská 9;Žabovřesky;49.2196175;16.5809272;255.3;HV;VsZa9MT;Měření Záhřebská 9
+Zámečnická 2;VS Zámečnická 2;Střed;49.1945964;16.6076764;223.8;HV;Zam_2STR;Stroj. Zamecnická 2
+Zborovská 35;VS Zborovská 35;Žabovřesky;49.2126378;16.5837997;242.9;HV;VsZ35STR;Strojovna Zborovská 35
+Zborovská 35;VS Zborovská 35;Žabovřesky;49.2126378;16.5837997;242.9;HV;VsZ35MT;Měření Zborovská 35
+Zborovská 37;VS Zborovská 37;Žabovřesky;49.2127839;16.5836067;242.2;HV;VsZ37STR;Strojovna Zborovská 37
+Zborovská 37;VS Zborovská 37;Žabovřesky;49.2127839;16.5836067;242.2;HV;VsZ37MT;Měření Zborovská 37
+Zborovská 39;VS Zborovská 39;Žabovřesky;49.2129511;16.5831197;240.1;HV;VsZ39STR;Strojovna Zborovská 39
+Zborovská 39;VS Zborovská 39;Žabovřesky;49.2129511;16.5831197;240.1;HV;VsZ39MT;Měření Zborovská 39
+Zborovská 41;VS Zborovská 41;Žabovřesky;49.2131144;16.5826369;238.7;HV;VsZ41STR;Strojovna Zborovská 41
+Zborovská 41;VS Zborovská 41;Žabovřesky;49.2131144;16.5826369;238.7;HV;VsZ41MT;Měření Zborovská 41
+Zborovská 43;VS Zborovs.43 POS2;Žabovřesky;49.2134775;16.5816981;235.5;HV;VsZ43STR;Strojovna Zborovská 43
+Zborovská 43;VS Zborovs.43 POS2;Žabovřesky;49.2134775;16.5816981;235.5;HV;VsZ43MT;Měření Zborovská 43
+Zelný trh 15;VS Zelný trh 15;Střed;49.1926292;16.6083219;226.8;HV;ZeT15STR;Stroj. Zelný trh 15
+Zikova 34;VS3 Zikova 34;Líšeň;49.2079081;16.6767375;311.6;HV;VS3ZiKOT;Kotle VS3 Zikova
+Zikova 34;VS3 Zikova 34;Líšeň;49.2079081;16.6767375;311.6;HV;VS3ZiSTR;Stroj. VS3 Zikova
+Zikova 34;VS3 Zikova 34;Líšeň;49.2079081;16.6767375;311.6;HV;VS3ZiPS1;PDS Elplova 2,4,6,8
+Zikova 34;VS3 Zikova 34;Líšeň;49.2079081;16.6767375;311.6;HV;VS3ZiPS2;PDS Elplova 10,12,14,16
+Zikova 34;VS3 Zikova 34;Líšeň;49.2079081;16.6767375;311.6;HV;VS3ZiPS3;PDS Elplova 18.20.22.24
+Zikova 34;VS3 Zikova 34;Líšeň;49.2079081;16.6767375;311.6;HV;VS3ZiPS4;PDS Elplova 26,28,30
+Zikova 34;VS3 Zikova 34;Líšeň;49.2079081;16.6767375;311.6;HV;VS3ZiPS5;PDS Zikova 28,30,32
+Zikova 34;VS3 Zikova 34;Líšeň;49.2079081;16.6767375;311.6;HV;ZiPS1MT;Měření Elplova 2,4,6,8
+Zikova 34;VS3 Zikova 34;Líšeň;49.2079081;16.6767375;311.6;HV;ZiPS2MT;Měření Elpl. 10,12,14,16
+Zikova 34;VS3 Zikova 34;Líšeň;49.2079081;16.6767375;311.6;HV;ZiPS3MT;Měření Elpl. 18.20.22.24
+Zikova 34;VS3 Zikova 34;Líšeň;49.2079081;16.6767375;311.6;HV;ZiPS4MT;Měření Elpl. 26,28,30
+Zikova 34;VS3 Zikova 34;Líšeň;49.2079081;16.6767375;311.6;HV;ZiPS5MT;Měření Zikova 28
+Zlínská 19;PK5 Zlínská;Slatina;49.1782625;16.6875500;260.7;PK;PK5ZlKOT;PK5 Zlínská kotle
+Zlínská 19;PK5 Zlínská;Slatina;49.1782625;16.6875500;260.7;PK;PK5ZlSTR;PK5 Zlínská strojovna
+Žitná 11a;PKKR2 Žitná 11a;Řečkovice;49.2384461;16.5883047;239.0;PK;K2ZitKOT;Kotle KR2 Žitná
+Žitná 11a;PKKR2 Žitná 11a;Řečkovice;49.2384461;16.5883047;239.0;PK;K2ZitSTR;Strojovna KR2 Žitná
+Botanická 27;VS Botanická 27;Ponava;49.2071778;16.5994594;230.0;HV;VSB27STR;Výměník VS Botanická 27
+Ečerova 1a;KB6 Ečerova;Bystrc;49.2194819;16.5087936;307.9;HV/PK;Bystrc\Ečerova_1a;?
+Foltýnova 19a;PKKB9 Foltýnov.19a;Bystrc;49.2153503;16.5061939;311.4;PK;KB9FoKOT;Kotle KB9 Foltýnova
+Foltýnova 19a;PKKB9 Foltýnov.19a;Bystrc;49.2153503;16.5061939;311.4;PK;KB9FoSTR;Strojovna KB9 Foltýnova
+Foltýnova 19a;PKKB9 Foltýnov.19a;Bystrc;49.2153503;16.5061939;311.4;PK;KB9FoMT;Měření KB9 Foltýnova
+Foltýnova 23a;PKKB8 Foltýnov.23a;Bystrc;49.2167489;16.5075403;304.8;PK;KB8FoKOT;Kotle KB8 Foltýnova
+Foltýnova 23a;PKKB8 Foltýnov.23a;Bystrc;49.2167489;16.5075403;304.8;PK;KB8FoSTR;Strojovna KB8 Foltýnova
+Foltýnova 23a;PKKB8 Foltýnov.23a;Bystrc;49.2167489;16.5075403;304.8;PK;KB8Fo_MT;Měření Foltýnova lichá
+Koniklecová 3a;VS4 Koniklecova 3a;Kamenný Vrch;49.1780958;16.5531914;322.5;HV;VS4KoKOT;Výměníky VS4 Koniklecova
+Koniklecová 3a;VS4 Koniklecova 3a;Kamenný Vrch;49.1780958;16.5531914;322.5;HV;VS4KoMT;Měření VS4 Koniklecova
+Kuršova 36;PKKB10 Kuršova 36;Bystrc;49.2168628;16.5039167;321.2;PK;K10KuKOT;Kotle KB10 Kuršova
+Kuršova 36;PKKB10 Kuršova 36;Bystrc;49.2168628;16.5039167;321.2;PK;K10KuSTR;Strojovna KB10 Kuršova
+Kuršova 36;PKKB10 Kuršova 36;Bystrc;49.2168628;16.5039167;321.2;PK;K10KuMT;Měření KB10 Kuršova
+Lýskova 2;Lýskova 2;Bystrc;49.2188933;16.5053308;312.7;HV;Bystrc\Lýskova_2;?
+Nové Sady 17-25;VS Champion Nové Sady;Staré Brno;49.188935;16.607938;201.8;HV;VSChaSTR;Strojovna VS Champion
+Oblá 12a;VS6 Oblá 12a;Kamenný Vrch;49.1762483;16.5602825;297.8;HV;VS6ObKOT;Výměníky VS6 Oblá
+Oblá 12a;VS6 Oblá 12a;Kamenný Vrch;49.1762483;16.5602825;297.8;HV;VS6ObMT;Měření VS6 Oblá
+Oblá 12a;VS6 Oblá 12a;Kamenný Vrch;49.1762483;16.5602825;297.8;HV;VS6ObPS1;PDS Oblá 1,2,3,4,5,6
+Oblá 12a;VS6 Oblá 12a;Kamenný Vrch;49.1762483;16.5602825;297.8;HV;VS6ObPS2;PDS Oblá 11,12,14,17
+Oblá 12a;VS6 Oblá 12a;Kamenný Vrch;49.1762483;16.5602825;297.8;HV;VS6ObPS3;PDS Oblá 23,29
+Oblá 12a;VS6 Oblá 12a;Kamenný Vrch;49.1762483;16.5602825;297.8;HV;ObPS1MT;Měření Oblá 1,2,3,4,5,6
+Oblá 12a;VS6 Oblá 12a;Kamenný Vrch;49.1762483;16.5602825;297.8;HV;ObPS2MT;Měření Oblá 11,12,14,17
+Oblá 12a;VS6 Oblá 12a;Kamenný Vrch;49.1762483;16.5602825;297.8;HV;ObPS3MT;Měření PDS Oblá 23,29
+Oblá 18;VS Oblá 18 ;Kamenný Vrch;49.1758578;16.5582444;296.9;HV;Obl18STR;Strojovna Oblá 18
+Oblá 18;VS Oblá 18 ;Kamenný Vrch;49.1758578;16.5582444;296.9;HV;Obl18MT;Měření Oblá 18
+Oblá 22;VS Oblá 22 [20-26];Kamenný Vrch;49.1762472;16.5571917;300.0;HV;Obl22STR;Strojovna Oblá 22
+Oblá 22;VS Oblá 22 [20-26];Kamenný Vrch;49.1762472;16.5571917;300.0;HV;Obl22MT;Měření Oblá 22
+Oblá 32;VS Oblá 32 [28-34];Kamenný Vrch;49.1765492;16.5557481;299.8;HV;Obl32STR;Strojovna Oblá 32
+Oblá 32;VS Oblá 32 [28-34];Kamenný Vrch;49.1765492;16.5557481;299.8;HV;Obl32MT;Měření Oblá 32
+Oblá 33;VS Oblá 33 ;Kamenný Vrch;49.1748011;16.5601297;290.8;HV;Obl33STR;Strojovna Oblá 33
+Oblá 33;VS Oblá 33 ;Kamenný Vrch;49.1748011;16.5601297;290.8;HV;Obl33MT;Měření Oblá 33
+Oblá 35;VS Oblá 35 ;Kamenný Vrch;49.1745183;16.5602631;288.9;HV;Obl35STR;Strojovna Oblá 35
+Oblá 35;VS Oblá 35 ;Kamenný Vrch;49.1745183;16.5602631;288.9;HV;Obl35MT;Měření Oblá 35
+Oblá 38;VS Oblá 38 [36-42];Kamenný Vrch;49.1767811;16.5548600;300.3;HV;Obl38STR;Strojovna Oblá 38
+Oblá 38;VS Oblá 38 [36-42];Kamenný Vrch;49.1767811;16.5548600;300.3;HV;Obl38MT;Měření Oblá 38
+Oblá 39;VS Oblá 39 ;Kamenný Vrch;49.1748217;16.5585083;286.2;HV;Obl39STR;Strojovna Oblá 39
+Oblá 39;VS Oblá 39 ;Kamenný Vrch;49.1748217;16.5585083;286.2;HV;Obl39MT;Měření Oblá 39
+Oblá 41;VS Oblá 41 ;Kamenný Vrch;49.1750128;16.5584461;288.0;HV;Obl41STR;Strojovna Oblá 41
+Oblá 41;VS Oblá 41 ;Kamenný Vrch;49.1750128;16.5584461;288.0;HV;Obl41MT;Měření Oblá 41
+Oblá 45;VS Oblá 45 [43-49];Kamenný Vrch;49.1757558;16.5571783;295.0;HV;Obl45STR;Strojovna Oblá 45
+Oblá 45;VS Oblá 45 [43-49];Kamenný Vrch;49.1757558;16.5571783;295.0;HV;Obl45MT;Měření Oblá 45
+Oblá 48;VS Oblá 48 [44-50];Kamenný Vrch;49.1769728;16.5531736;300.5;HV;Obl48STR;Strojovna Oblá 48
+Oblá 48;VS Oblá 48 [44-50];Kamenný Vrch;49.1769728;16.5531736;300.5;HV;Obl48MT;Měření Oblá 48
+Oblá 51;VS Oblá 51 ;Kamenný Vrch;49.1755039;16.5571092;291.9;HV;Obl51STR;Strojovna Oblá 51
+Oblá 51;VS Oblá 51 ;Kamenný Vrch;49.1755039;16.5571092;291.9;HV;Obl51MT;Měření Oblá 51
+Oblá 52;VS Oblá 52 VS2 ;Kamenný Vrch;49.1772853;16.5530389;306.1;HV;Obl52STR;Strojovna Oblá 52
+Oblá 52;VS Oblá 52 VS2 ;Kamenný Vrch;49.1772853;16.5530389;306.1;HV;Obl52MT;Měření Oblá 52
+Oblá 54;VS Oblá 54;Kamenný Vrch;49.1770442;16.5509100;302.6;HV;Obl54STR;Strojovna Oblá 54
+Oblá 54;VS Oblá 54;Kamenný Vrch;49.1770442;16.5509100;302.6;HV;Obl54MT;Měření Oblá 54
+Oblá 54a;VS Oblá 54a ;Kamenný Vrch;49.1771492;16.5514631;305.3;HV;Ob54aSTR;Strojovna VS Oblá 54a
+Oblá 54a;VS Oblá 54a ;Kamenný Vrch;49.1771492;16.5514631;305.3;HV;Ob54aMT;Měření VS Oblá 54a
+Oblá 56;VS Oblá 56;Kamenný Vrch;49.1773711;16.5509592;303.7;HV;Obl56STR;Strojovna Oblá 56
+Oblá 56;VS Oblá 56;Kamenný Vrch;49.1773711;16.5509592;303.7;HV;Obl56MT;Měření Oblá 56
+Oblá 57;VS Oblá 57 [53-59];Kamenný Vrch;49.1761100;16.5557664;294.7;HV;Obl57STR;Strojovna Oblá 57
+Oblá 57;VS Oblá 57 [53-59];Kamenný Vrch;49.1761100;16.5557664;294.7;HV;Obl57MT;Měření Oblá 57
+Oblá 63;VS Oblá 63 [61-67];Kamenný Vrch;49.1763483;16.5548181;294.5;HV;Obl63STR;Strojovna Oblá 63
+Oblá 63;VS Oblá 63 [61-67];Kamenný Vrch;49.1763483;16.5548181;294.5;HV;Obl63MT;Měření Oblá 63
+Oblá 73;VS Oblá 73 [69-75];Kamenný Vrch;49.1765200;16.5532647;294.8;HV;Obl73STR;Strojovna Oblá 73
+Oblá 73;VS Oblá 73 [69-75];Kamenný Vrch;49.1765200;16.5532647;294.8;HV;Obl73MT;Měření Oblá 73
+Oblá 75a;VS Oblá 75a ;Kamenný Vrch;49.1762411;16.5531606;291.0;HV;Ob75aSTR;Strojovna Oblá 75a
+Oblá 75a;VS Oblá 75a ;Kamenný Vrch;49.1762411;16.5531606;291.0;HV;Ob75aMT;Měření Oblá 75a
+Oblá 77;VS Oblá 77;Kamenný Vrch;49.1764328;16.5521944;294.2;HV;Obl77STR;Strojovna Oblá 77
+Oblá 77;VS Oblá 77;Kamenný Vrch;49.1764328;16.5521944;294.2;HV;Obl77MT;Měření Oblá 77
+Oblá 79;VS Oblá 79;Kamenný Vrch;49.1761442;16.5520739;291.5;HV;Obl79STR;Strojovna Oblá 79
+Oblá 79;VS Oblá 79;Kamenný Vrch;49.1761442;16.5520739;291.5;HV;Obl79MT;Měření Oblá 79
+Oblá 81;VS Oblá 81;Kamenný Vrch;49.1764667;16.5509811;294.5;HV;Obl81STR;Strojovna Oblá 81
+Oblá 81;VS Oblá 81;Kamenný Vrch;49.1764667;16.5509811;294.5;HV;Obl81MT;Měření Oblá 81
+Oblá 83;VS Oblá 83;Kamenný Vrch;49.1767386;16.5508936;299.4;HV;Obl83STR;Strojovna Oblá 83
+Oblá 83;VS Oblá 83;Kamenný Vrch;49.1767386;16.5508936;299.4;HV;Obl83MT;Měření Oblá 83
+Rerychova 22;PKKZ1 Rerychova 22;Bystrc;49.2159914;16.5052114;317.3;PK;KZ1ReKOT;Kotle KZ1 Rerychova
+Rerychova 22;PKKZ1 Rerychova 22;Bystrc;49.2159914;16.5052114;317.3;PK;KZ1ReSTR;Strojovna KZ1 Rerychova
+Slunečná 10;VS Slun.10+Plachty;Kamenný Vrch;49.1796044;16.5478036;299.0;HV;Slu10STR;Str. VS Slun.10+Plachty
+Slunečná 10;VS Slun.10+Plachty;Kamenný Vrch;49.1796044;16.5478036;299.0;HV;Slu10MT;Měř. VS Slun.10+Plachty
+Slunečná 2;VS Slunečná 2 ;Kamenný Vrch;49.1778739;16.5475042;287.6;HV;Slun2STR;Strojovna Slunečná 2
+Slunečná 2;VS Slunečná 2 ;Kamenný Vrch;49.1778739;16.5475042;287.6;HV;Slun2MT;Měření Slunečná 2
+Slunečná 4;VS Slunečná 4 ;Kamenný Vrch;49.1781997;16.5473544;289.6;HV;Slun4STR;Strojovna Slunečná 4
+Slunečná 4;VS Slunečná 4 ;Kamenný Vrch;49.1781997;16.5473544;289.6;HV;Slun4MT;Měření Slunečná 4
+Slunečná 6;VS Slunečná 6 ;Kamenný Vrch;49.1788547;16.5476228;292.7;HV;Slun6STR;Strojovna Slunečná 6
+Slunečná 6;VS Slunečná 6 ;Kamenný Vrch;49.1788547;16.5476228;292.7;HV;Slun6MT;Měření Slunečná 6
+Slunečná 8;VS Slunečná 8 ;Kamenný Vrch;49.1791936;16.5477761;294.7;HV;Slun8STR;Strojovna Slunečná 8
+Slunečná 8;VS Slunečná 8 ;Kamenný Vrch;49.1791936;16.5477761;294.7;HV;Slun8MT;Měření Slunečná 8
+Svážná 1;VS Svážná 1 ;Kamenný Vrch;49.1743331;16.5572144;277.5;HV;Svaz1STR;Strojovna Svážná 1
+Svážná 1;VS Svážná 1 ;Kamenný Vrch;49.1743331;16.5572144;277.5;HV;Svaz1MT;Měření Svážná 1
+Svážná 29;VS Svážná 29;Kamenný Vrch;49.1749261;16.5519461;272.9;HV;Sva29STR;Strojovna Svážná 29
+Svážná 29;VS Svážná 29;Kamenný Vrch;49.1749261;16.5519461;272.9;HV;Sva29MT;Měření Svážná 29
+Svážná 3;VS Svážná 3 ;Kamenný Vrch;49.1746664;16.5564075;278.1;HV;Svaz3STR;Strojovna Svážná 3
+Svážná 3;VS Svážná 3 ;Kamenný Vrch;49.1746664;16.5564075;278.1;HV;Svaz3MT;Měření Svážná 3
+Svážná 4;VS Svážná 4[2-8];Kamenný Vrch;49.1749708;16.5572078;284.1;HV;Svaz4STR;Strojovna Svážná 4
+Svážná 4;VS Svážná 4[2-8];Kamenný Vrch;49.1749708;16.5572078;284.1;HV;Svaz4MT;Měření Svážná 4
+Svážná 5;VS Svážná 5 ;Kamenný Vrch;49.1745375;16.5554494;274.8;HV;Svaz5STR;Strojovna Svážná 5
+Svážná 5;VS Svážná 5 ;Kamenný Vrch;49.1745375;16.5554494;274.8;HV;Svaz5MT;Měření Svážná 5
+Svážná 7;VS Svážná 7 ;Kamenný Vrch;49.1748278;16.5553164;277.6;HV;Svaz7STR;Strojovna Svážná 7
+Svážná 7;VS Svážná 7 ;Kamenný Vrch;49.1748278;16.5553164;277.6;HV;Svaz7MT;Měření Svážná 7
+Svážná 9a;VS Svážná 9a VS1 ;Kamenný Vrch;49.1752347;16.5543425;280.0;HV;Sva9aSTR;Strojovna Svážná 9a
+Svážná 9a;VS Svážná 9a VS1 ;Kamenný Vrch;49.1752347;16.5543425;280.0;HV;Sva9aMT;Měření Svážná 9a
+Svážná13;VS Svážná13[11-17];Kamenný Vrch;49.1752669;16.5535308;280.9;HV;Sva13STR;Strojovna Svážná 13
+Svážná13;VS Svážná13[11-17];Kamenný Vrch;49.1752669;16.5535308;280.9;HV;Sva13MT;Měření Svážná 13
+Svážná14;VS Svážná14[10-16];Kamenný Vrch;49.1753253;16.5557628;284.3;HV;Sva14STR;Strojovna Svážná 14
+Svážná14;VS Svážná14[10-16];Kamenný Vrch;49.1753253;16.5557628;284.3;HV;Sva14MT;Měření Svážná 14
+Svážná20;VS Svážná20[18-24];Kamenný Vrch;49.1755478;16.5548347;284.6;HV;Sva20STR;Strojovna Svážná 20
+Svážná20;VS Svážná20[18-24];Kamenný Vrch;49.1755478;16.5548347;284.6;HV;Sva20MT;Měření Svážná 20
+Svážná21;VS Svážná21[19-25];Kamenný Vrch;49.1755222;16.5520128;282.9;HV;Sva21STR;Strojovna Svážná 21
+Svážná21;VS Svážná21[19-25];Kamenný Vrch;49.1755222;16.5520128;282.9;HV;Sva21MT;Měření Svážná 21
+Svážná30;VS Svážná30[26-32];Kamenný Vrch;49.1757200;16.5532575;286.0;HV;Sva30STR;Strojovna Svážná 30
+Svážná30;VS Svážná30[26-32];Kamenný Vrch;49.1757200;16.5532575;286.0;HV;Sva30MT;Měření Svážná 30
+Špitálka 6;Špitálka 6 - kulturní dům;Střed;49.1959825;16.6232186;201.4;HV;Špitálka\Kulturní_sál;?
+Vejrostova 5a;KB7 Vejrostova;Bystrc;49.2202689;16.5082306;315.7;HV/PK;Bystrc\Vejrostova_5a;?

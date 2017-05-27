@@ -1,3 +1,9 @@
+import sys
+import os.path
+import threading
+import json
+import traceback
+
 from kivy.app import App
 from kivy.garden.mapview import MapView, MapMarker
 from kivy.clock import Clock
@@ -7,14 +13,12 @@ from kivy.uix.behaviors import ButtonBehavior
 from kivy import graphics
 from kivy.properties import NumericProperty, ObjectProperty, ListProperty, \
     AliasProperty, BooleanProperty, StringProperty
-import os.path
 import pandas
+import click
 
 # A big hack: we stretch the longitude (x coord) by a constant that makes "circles" in WGS 84 circular
 # ideally we'd use another projection, but that would take time
 X_STRETCH = 1.531
-
-points = pandas.read_csv('points.csv').set_index(['GPS lat', 'GPS lon'])
 
 
 class CustomMapView(MapView):
@@ -24,7 +28,7 @@ class CustomMapView(MapView):
 
     def on_touch_down(self, touch):
         touch.dz = -touch.dz
-        print(self.get_latlon_at(*touch.pos))
+        print(self.get_latlon_at(*touch.pos), file=sys.stderr)
         super().on_touch_down(touch)
 
     def set_active_marker(self, marker):
@@ -116,15 +120,21 @@ class CustomMapMarker(MapMarker):
                 x2, y2 = mapview.get_window_xy_from(self.lat + ry, self.lon + rx, zoom=mapview.zoom)
                 circle.pos = x1 , y1 
                 circle.size = x2-x1, y2-y1
-                print('CINST', circle.size[0]/circle.size[1])
 
 
 class MapViewApp(App):
+    def __init__(self, points, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.points = points
+
+        input_thread = threading.Thread(target=self.do_input)
+        input_thread.daemon = True
+        input_thread.start()
+
     def build(self):
         self.mapview = CustomMapView(zoom=18, lat=49.22025828658787, lon=16.50821292434091) #49.213795607926734, lon=16.58214582519531)
-        self.points_iter = iter(points.iterrows())
+        self.points_iter = iter(self.points.iterrows())
         self.add_next_points()
-        self.bind(on_touch_down=print)
         return self.mapview
 
     def add_next_points(self, *args):
@@ -133,11 +143,27 @@ class MapViewApp(App):
                 i, row = next(self.points_iter)
             except StopIteration:
                 return
-            print('{}/{}'.format(i, len(points)))
+            print('{}/{}'.format(i, len(self.points)), file=sys.stderr)
             #mark = CustomMapMarker(lon=row['GPS lon'], lat=row['GPS lat'], source='noun_9209_cc_red.png')
             mark = CustomMapMarker(row=row)
             self.mapview.add_marker(mark)
             Clock.schedule_once(self.add_next_points, 0.2)
 
-MapViewApp().run()
+    def do_input(self):
+        for line in sys.stdin:
+            try:
+                command = json.loads(line)
+                print('map: ignoring command', command, file=sys.stderr)
+            except Exception:
+                traceback.print_exc()
 
+
+@click.command()
+def main():
+    radiuses = 0.001, 0.005, 0.01
+    adresace = pandas.read_csv('teplarny-adresace.csv').set_index(['GPS lat', 'GPS lon'])
+    points = adresace.loc[:, [str(r) for r in radiuses]].drop_duplicates()
+    MapViewApp(points).run()
+
+if __name__ == '__main__':
+    main()
