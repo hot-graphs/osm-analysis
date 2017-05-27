@@ -68,6 +68,12 @@ class CustomMapView(MapView):
         self.active_marker = None
         super().__init__(*args, **kwargs)
 
+        self.bind(
+            lat=self.send_position,
+            lon=self.send_position,
+            zoom=self.send_position,
+        )
+
     def on_touch_down(self, touch):
         touch.dz = -touch.dz
         print(self.get_latlon_at(*touch.pos), file=sys.stderr)
@@ -84,6 +90,14 @@ class CustomMapView(MapView):
                 row=marker.row.to_dict(),
                 location=marker.row.name,
             )
+
+    def send_position(self, *args):
+        send_command(
+            cmd='pos',
+            lat=self.lat,
+            lon=self.lon,
+            zoom=self.zoom,
+        )
 
 
 class CustomMapMarker(MapMarker):
@@ -227,7 +241,7 @@ class MapViewApp(App):
     def handle_command(self, cmd, data):
         if cmd == 'stop':
             self.stop()
-        if cmd == 'center':
+        if cmd == 'pos':
             # {"cmd": "center", "lat": 0, "long": 0, "zoom": 1}
             if 'zoom' in data:
                 self.mapview.zoom = int(data['zoom'])
