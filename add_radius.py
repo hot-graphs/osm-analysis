@@ -46,7 +46,7 @@ def main(lat_column, lon_column, radiuses, sep, shapes):
         else:
             target_shape = new_shape
 
-    df = pandas.read_csv('teplarny-adresace.csv', sep=sep)
+    df = pandas.read_csv(sys.stdin, sep=sep)
     df = df.set_index([lat_column, lon_column])
     df.sort_index()
 
