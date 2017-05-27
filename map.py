@@ -218,13 +218,22 @@ class MapViewApp(App):
     def do_input(self):
         for line in sys.stdin:
             try:
-                command = json.loads(line)
-                if command.get('cmd') == 'stop':
-                    self.stop()
-                else:
-                    print('map: ignoring command', command, file=sys.stderr)
+                data = json.loads(line)
+                cmd = data['cmd']
+                self.handle_command(cmd, data)
             except Exception:
                 traceback.print_exc()
+
+    def handle_command(self, cmd, data):
+        if cmd == 'stop':
+            self.stop()
+        if cmd == 'center':
+            # {"cmd": "center", "lat": 0, "long": 0, "zoom": 1}
+            if 'zoom' in data:
+                self.mapview.zoom = int(data['zoom'])
+            self.mapview.center_on(float(data['lat']), float(data['lon']))
+        else:
+            print('map: ignoring command', command, file=sys.stderr)
 
 
 @click.command()
