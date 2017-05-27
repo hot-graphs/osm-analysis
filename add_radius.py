@@ -56,7 +56,7 @@ def main(lat_column, lon_column, radiuses, sep, shapes):
     idx = df.index.drop_duplicates()
     for i, (lat, lon) in enumerate(idx):
         if i%10 == 0:
-            print('{}/{}'.format(i, len(idx)))
+            print('{}/{}'.format(i, len(idx)), file=sys.stderr)
         pt = shapely.geometry.point.Point(lon, lat)
         for radius in radiuses:
             pt_lon, pt_lat = pt.coords[0]
