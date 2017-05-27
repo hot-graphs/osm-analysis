@@ -87,8 +87,9 @@ class CustomMapView(MapView):
 
 
 class CustomMapMarker(MapMarker):
-    def __init__(self, *args, row, **kwargs):
+    def __init__(self, *args, row, radiuses, **kwargs):
         self.row = row
+        self.radiuses = radiuses
         self.lat, self.lon = row.name
         super().__init__(*args, **kwargs)
         self.anchor_x = 0
@@ -102,11 +103,17 @@ class CustomMapMarker(MapMarker):
             graphics.PushMatrix()
             self.translation = graphics.Translate(0, 0)
 
-            for pos, value in enumerate(reversed(row)):
+            graphics.Color(0, 0, 0, 0.2)
+            sz = self.size[0] + 2
+            hsz = -sz/2
+            graphics.Ellipse(size=(sz, sz), pos=(hsz, hsz))
+
+            for pos, r in enumerate(reversed(radiuses)):
+                value = self.row[str(r)]
                 rpos = (len(row) - pos) / len(row)
                 sz = self.size[0] / len(row) * (len(row) - pos)
                 hsz = -sz/2
-                graphics.Color(1, 1, 1, 1)
+                graphics.Color(1-rpos/20, 1-rpos/20, 1, 1)
                 graphics.Ellipse(size=(sz, sz), pos=(hsz, hsz))
                 if value:
                     graphics.Color(0, rpos, 0, 1)
@@ -132,7 +139,7 @@ class CustomMapMarker(MapMarker):
             with self.canvas.before:
                 graphics.PushMatrix()
                 graphics.Color(1, 0, 0, 0.1)
-                self.radius_circles = [graphics.Ellipse() for i in self.row]
+                self.radius_circles = [graphics.Ellipse() for i in self.radiuses]
                 graphics.PopMatrix()
         self.reposition()
 
@@ -159,7 +166,7 @@ class CustomMapMarker(MapMarker):
             mapview = self.get_mapview()
             if mapview is None:
                 return
-            for i, (r, circle) in enumerate(zip(self.row.index, self.radius_circles)):
+            for i, (r, circle) in enumerate(zip(self.radiuses, self.radius_circles)):
                 ry = float(r)
                 rx = ry * X_STRETCH
                 xm, ym, = mapview.get_window_xy_from(self.lat, self.lon, zoom=mapview.zoom)
@@ -174,9 +181,10 @@ def send_command(**kwargs):
 
 
 class MapViewApp(App):
-    def __init__(self, points, *args, **kwargs):
+    def __init__(self, points, radiuses, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.points = points
+        self.radiuses = radiuses
 
         input_thread = threading.Thread(target=self.do_input)
         input_thread.daemon = True
@@ -186,7 +194,10 @@ class MapViewApp(App):
         send_command(cmd='started')
 
     def build(self):
-        self.mapview = CustomMapView(zoom=18, lat=49.22025828658787, lon=16.50821292434091) #49.213795607926734, lon=16.58214582519531)
+        VEJROSTOVA = {'zoom': 18, 'lat': 49.22025828658787, 'lon': 16.50821292434091}
+        JINDRICHOVA = {'zoom': 18, 'lat': 49.213795607926734, 'lon': 16.58214582519531}
+        BRNO = {'zoom': 13, 'lat': 49.205243666554054, 'lon': 16.58976135996045}
+        self.mapview = CustomMapView(**BRNO)
         self.points_iter = iter(enumerate(self.points.iterrows()))
         self.add_next_points()
         return self.mapview
@@ -200,7 +211,7 @@ class MapViewApp(App):
                 return
             print('{}/{}'.format(i, len(self.points)), file=sys.stderr)
             #mark = CustomMapMarker(lon=row['GPS lon'], lat=row['GPS lat'], source='noun_9209_cc_red.png')
-            mark = CustomMapMarker(row=row)
+            mark = CustomMapMarker(row=row, radiuses=self.radiuses)
             self.mapview.add_marker(mark)
             Clock.schedule_once(self.add_next_points, 0.2)
 
@@ -220,8 +231,8 @@ class MapViewApp(App):
 def main():
     radiuses = 0.001, 0.005, 0.01
     adresace = pandas.read_csv('teplarny-adresace.csv').set_index(['GPS lat', 'GPS lon'])
-    points = adresace.loc[:, [str(r) for r in radiuses]].drop_duplicates()
-    MapViewApp(points).run()
+    points = adresace.loc[:, [str(r) for r in radiuses] + ['Adresa']].drop_duplicates()
+    MapViewApp(points, radiuses).run()
 
 if __name__ == '__main__':
     main()
