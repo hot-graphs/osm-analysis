@@ -16,6 +16,48 @@ from kivy.properties import NumericProperty, ObjectProperty, ListProperty, \
 import pandas
 import click
 
+
+class MapController:
+    def __init__(self, click_callback=None):
+        self.process = None
+        self.click_callback = click_callback
+
+        thread = threading.Thread(target=self.input_thread)
+
+    def send_command(self, **kwargs):
+        proc = self.ensure_process()
+        json.dump(kwargs, proc.stdin)
+
+    def ensure_process(self):
+        if not self.process:
+            self.process = subprocess.Popen(
+                [sys.executable, __file__],
+                stdin=subprocess.PIPE,
+                stdout=subprocess.PIPE,
+            )
+        return self.process
+
+    def input_thread(self):
+        try:
+            while True:
+                try:
+                    line = self.ensure_process().stdout.readline()
+                except EOFError:
+                    return
+                try:
+                    data = json.loads(line)
+                    cmd = data['cmd']
+                    if cmd == 'point_selected':
+                        if self.click_callback:
+                            self.click_callback(data['row'])
+                    else:
+                        print('ignoring line:', data)
+                except Exception:
+                    traceback.print_exc()
+        finally:
+            self.process = None
+
+
 # A big hack: we stretch the longitude (x coord) by a constant that makes "circles" in WGS 84 circular
 # ideally we'd use another projection, but that would take time
 X_STRETCH = 1.531
@@ -37,6 +79,11 @@ class CustomMapView(MapView):
         self.active_marker = marker
         if marker:
             marker.set_active(True)
+            send_command(
+                cmd='point_selected',
+                row=marker.row.to_dict(),
+                location=marker.row.name,
+            )
 
 
 class CustomMapMarker(MapMarker):
@@ -122,6 +169,10 @@ class CustomMapMarker(MapMarker):
                 circle.size = x2-x1, y2-y1
 
 
+def send_command(**kwargs):
+    print(json.dumps(kwargs))
+
+
 class MapViewApp(App):
     def __init__(self, points, *args, **kwargs):
         super().__init__(*args, **kwargs)
@@ -131,17 +182,21 @@ class MapViewApp(App):
         input_thread.daemon = True
         input_thread.start()
 
+        self.bind(on_stop=lambda *a: send_command(cmd='stop'))
+        send_command(cmd='started')
+
     def build(self):
         self.mapview = CustomMapView(zoom=18, lat=49.22025828658787, lon=16.50821292434091) #49.213795607926734, lon=16.58214582519531)
-        self.points_iter = iter(self.points.iterrows())
+        self.points_iter = iter(enumerate(self.points.iterrows()))
         self.add_next_points()
         return self.mapview
 
     def add_next_points(self, *args):
         for n in range(5):
             try:
-                i, row = next(self.points_iter)
+                i, (idx, row) = next(self.points_iter)
             except StopIteration:
+                send_command(cmd='loaded')
                 return
             print('{}/{}'.format(i, len(self.points)), file=sys.stderr)
             #mark = CustomMapMarker(lon=row['GPS lon'], lat=row['GPS lat'], source='noun_9209_cc_red.png')
@@ -153,7 +208,10 @@ class MapViewApp(App):
         for line in sys.stdin:
             try:
                 command = json.loads(line)
-                print('map: ignoring command', command, file=sys.stderr)
+                if command.get('cmd') == 'stop':
+                    self.stop()
+                else:
+                    print('map: ignoring command', command, file=sys.stderr)
             except Exception:
                 traceback.print_exc()
 
