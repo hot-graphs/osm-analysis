@@ -10,6 +10,10 @@ from kivy.properties import NumericProperty, ObjectProperty, ListProperty, \
 import os.path
 import pandas
 
+# A big hack: we stretch the longitude (x coord) by a constant that makes "circles" in WGS 84 circular
+# ideally we'd use another projection, but that would take time
+X_STRETCH = 1.531
+
 points = pandas.read_csv('points.csv').set_index(['GPS lat', 'GPS lon'])
 
 
@@ -105,12 +109,14 @@ class CustomMapMarker(MapMarker):
             if mapview is None:
                 return
             for i, (r, circle) in enumerate(zip(self.row.index, self.radius_circles)):
-                r = float(r)
+                ry = float(r)
+                rx = ry * X_STRETCH
                 xm, ym, = mapview.get_window_xy_from(self.lat, self.lon, zoom=mapview.zoom)
-                x1, y1 = mapview.get_window_xy_from(self.lat - r, self.lon - r, zoom=mapview.zoom)
-                x2, y2 = mapview.get_window_xy_from(self.lat + r, self.lon + r, zoom=mapview.zoom)
+                x1, y1 = mapview.get_window_xy_from(self.lat - ry, self.lon - rx, zoom=mapview.zoom)
+                x2, y2 = mapview.get_window_xy_from(self.lat + ry, self.lon + rx, zoom=mapview.zoom)
                 circle.pos = x1 , y1 
                 circle.size = x2-x1, y2-y1
+                print('CINST', circle.size[0]/circle.size[1])
 
 
 class MapViewApp(App):
