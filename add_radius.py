@@ -39,7 +39,8 @@ def main(lat_column, lon_column, radiuses, sep, shapes):
     target_shape = None
     shape_dir = Path('shapes')
     for shape in shapes:
-        wkt = (shape_dir/shape).with_suffix('.wkt').read_text()
+        with (shape_dir/shape).with_suffix('.wkt').open() as f:
+            wkt = f.read()
         new_shape = shapely.wkt.loads(wkt)
         if target_shape:
             target_shape = target_shape.union(new_shape)
