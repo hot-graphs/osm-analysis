@@ -10,14 +10,25 @@ from kivy.properties import NumericProperty, ObjectProperty, ListProperty, \
 import os.path
 import pandas
 
-points = pandas.read_csv('points.csv').set_index(['GPS lat', 'GPS lon'])[-2:]
+points = pandas.read_csv('points.csv').set_index(['GPS lat', 'GPS lon'])
 
 
 class CustomMapView(MapView):
+    def __init__(self, *args, **kwargs):
+        self.active_marker = None
+        super().__init__(*args, **kwargs)
+
     def on_touch_down(self, touch):
         touch.dz = -touch.dz
         print(self.get_latlon_at(*touch.pos))
         super().on_touch_down(touch)
+
+    def set_active_marker(self, marker):
+        if self.active_marker:
+            self.active_marker.set_active(False)
+        self.active_marker = marker
+        if marker:
+            marker.set_active(True)
 
 
 class CustomMapMarker(MapMarker):
@@ -31,22 +42,13 @@ class CustomMapMarker(MapMarker):
         self.size = self.radius * 2, self.radius * 2
 
         self.canvas.clear()
-        with self.canvas:
-            graphics.PushMatrix()
-            self.translation_pre = graphics.Translate(0, 0)
-            graphics.Color(1, 0, 0, 0.15)
-            self.radius_circles = [graphics.Ellipse() for i in row]
-            graphics.PopMatrix()
 
         with self.canvas.after:
             graphics.PushMatrix()
             self.translation = graphics.Translate(0, 0)
 
-
-            print(row)
             for pos, value in enumerate(reversed(row)):
                 rpos = (len(row) - pos) / len(row)
-                print(rpos)
                 sz = self.size[0] / len(row) * (len(row) - pos)
                 hsz = -sz/2
                 graphics.Color(1, 1, 1, 1)
@@ -56,22 +58,59 @@ class CustomMapMarker(MapMarker):
                     graphics.Ellipse(size=(sz, sz), pos=(hsz, hsz), angle_end=360*value)
             graphics.PopMatrix()
         self.bind(pos=self.reposition)
+        self.set_active(False)
 
-    def reposition(self, *args):
-        self.translation_pre.xy = self.pos
-        self.translation.xy = self.pos
+    def on_touch_down(self, touch):
+        if self.collide_point(touch.x, touch.y):
+            mapview = self.get_mapview()
+            if mapview is None:
+                return
+            if self.radius_circles:
+                mapview.set_active_marker(None)
+            else:
+                mapview.set_active_marker(self)
+
+    def set_active(self, active):
+        self.canvas.before.clear()
+        self.radius_circles = None
+        if active:
+            with self.canvas.before:
+                graphics.PushMatrix()
+                graphics.Color(1, 0, 0, 0.1)
+                self.radius_circles = [graphics.Ellipse() for i in self.row]
+                graphics.PopMatrix()
+        self.reposition()
+
+    def collide_point(self, x, y):
+        mapview = self.get_mapview()
+        if mapview is None:
+            return
+        lat, lon = mapview.get_window_xy_from(self.lat, self.lon, zoom=mapview.zoom)
+        x -= self.pos[0]
+        y -= self.pos[1]
+        return x**2 + y**2 < self.radius ** 2
+
+    def get_mapview(self):
         mapview = self
         while not isinstance(mapview, CustomMapView):
             mapview = mapview.parent
             if mapview is None:
                 return
-        for i, (r, circle) in enumerate(zip(self.row.index, self.radius_circles)):
-            r = float(r)
-            xm, ym, = mapview.get_window_xy_from(self.lat, self.lon, zoom=mapview.zoom)
-            x1, y1 = mapview.get_window_xy_from(self.lat - r, self.lon - r, zoom=mapview.zoom)
-            x2, y2 = mapview.get_window_xy_from(self.lat + r, self.lon + r, zoom=mapview.zoom)
-            circle.pos = x1 - xm, y1 - ym
-            circle.size = x2-x1, y2-y1
+        return mapview
+
+    def reposition(self, *args):
+        self.translation.xy = self.pos
+        if self.radius_circles:
+            mapview = self.get_mapview()
+            if mapview is None:
+                return
+            for i, (r, circle) in enumerate(zip(self.row.index, self.radius_circles)):
+                r = float(r)
+                xm, ym, = mapview.get_window_xy_from(self.lat, self.lon, zoom=mapview.zoom)
+                x1, y1 = mapview.get_window_xy_from(self.lat - r, self.lon - r, zoom=mapview.zoom)
+                x2, y2 = mapview.get_window_xy_from(self.lat + r, self.lon + r, zoom=mapview.zoom)
+                circle.pos = x1 , y1 
+                circle.size = x2-x1, y2-y1
 
 
 class MapViewApp(App):
