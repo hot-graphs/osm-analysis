@@ -15,9 +15,10 @@ X_STRETCH = 1.531
 @click.option('-o', '--lon-column', help='Column with longitude info', default='GPS lon')
 @click.option('-r', '--radiuses', help='Comma-separated radiuses', default=' 0.001,0.005,0.01')
 @click.option('-s', '--sep', help='Separator for input CSV', default=',')
+@click.option('--out-sep', help='Separator for input CSV', default=',')
 @click.argument('shapes', nargs=-1)
 @click.command()
-def main(lat_column, lon_column, radiuses, sep, shapes):
+def main(lat_column, lon_column, radiuses, sep, out_sep, shapes):
     """Add columns with info about how much of a point's neighborhood intersects a given shape
 
     The input CSV is read from standard input.
@@ -67,7 +68,7 @@ def main(lat_column, lon_column, radiuses, sep, shapes):
                 for lon, lat in buf.boundary.coords)
             intersection = buf.intersection(target_shape)
             df.loc[(lat, lon), radius] = intersection.area / buf.area
-    print(df.to_csv())
+    print(df.to_csv(sep=out_sep))
 
 
 if __name__ == '__main__':
